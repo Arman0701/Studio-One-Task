@@ -1,0 +1,32 @@
+@import "../../sass/variables.scss";
+
+.header {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	position: relative;
+
+	padding: 15px 50px;
+	border-bottom: 3px  solid $-line-dark;
+
+	.actions {
+		display: flex;
+		align-items: center;
+		gap: 25px;
+
+		a {
+			padding: 3px 8px;
+			border: 1px solid white;
+			border-radius: 5px;
+		}
+	}
+
+	.title {
+		font-size: 20px;
+		position: absolute;
+		top: 50%;
+		left: 50%;
+		transform: translate(-50%, -50%);
+		font-weight: 700;
+	}
+}
