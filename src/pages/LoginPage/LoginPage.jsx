@@ -7,7 +7,7 @@ import { useNavigate } from "react-router-dom";
 import validLoginForm from "../../helpers/validLoginForm";
 
 // import action creators
-import { getUserProfile, login } from "../../redux-store/userSlice";
+import { getUserProfile } from "../../redux-store/userSlice";
 
 // import styles
 import style from "./LoginPage.module.scss";
@@ -22,6 +22,9 @@ export default function LoginPage() {
 	
     function formSubmitHandler(e) {
         e.preventDefault();
+		// clean all errors
+		errorMessageRef.current.textContent = ""
+		
 		const userData = {
 			username: usernameRef.current.value,
 			password: passwordRef.current.value,
@@ -29,21 +32,18 @@ export default function LoginPage() {
 
 		if (validLoginForm(userData)) {
 			const disp = dispatch(getUserProfile(userData))
-			disp.then(({payload}) => {
-				if (payload.length === 1) {
+
+			disp.then(({ payload, meta }) => {
+				if (meta.requestStatus === "fulfilled" && payload.length === 1) {
+					localStorage.setItem("news-app-user", payload.profile.token)
 					navigate("/profile")
+				} else {
+					errorMessageRef.current.textContent = "The username or password you entered is incorrect."
 				}
 			})
 		} else {
-			errorMessageRef.current.textContent = "The username or password you entered is incorrect."
+			errorMessageRef.current.textContent = "Invalid username or password."
 		}
-		
-		
-		// find the data of user with corresponding 
-		// username and pass and store its token 
-		// to local storage for further usage
-
-		// TODO
 		
     }
 
@@ -51,7 +51,7 @@ export default function LoginPage() {
         <div className={style.loginPageWrapper}>
             <form onSubmit={formSubmitHandler}>
                 <h3>Login to your account</h3>
-				<input type="text" placeholder="Username" ref={usernameRef} />
+				<input type="text" placeholder="Username" ref={usernameRef} autoFocus />
 				<input type="password" placeholder="Password" ref={passwordRef} />
 				<button type="submit">Login</button>
 

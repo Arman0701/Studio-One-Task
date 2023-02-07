@@ -11,6 +11,7 @@ import ProfilePage from "../../pages/ProfilePage";
 
 // import styles
 import style from "./RoutesWrapper.module.scss";
+import PrivateRoute from "../../hocs/PrivateRoute";
 
 export default function RoutesWrapper() {
     const location = useLocation();
@@ -27,7 +28,11 @@ export default function RoutesWrapper() {
                 <Route path="/login" element={<LoginPage />} />
                 <Route path="/register" element={<RegisterPage />} />
                 <Route path="/news" element={<NewsPage />} />
-                <Route path="/profile" element={<ProfilePage />} />
+                <Route path="/profile" element={
+					<PrivateRoute>
+						<ProfilePage />
+					</PrivateRoute>
+				} />
             </Routes>
         </animated.div>
     ));
