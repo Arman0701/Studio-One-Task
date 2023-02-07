@@ -22,7 +22,7 @@ export default function ProfilePage() {
 			}
 		})()
 
-		// disable-next-line
+		// eslint-disable-next-line
 	}, [])
 
 	function logOutHandler() {

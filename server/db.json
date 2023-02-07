@@ -1,64 +1,1066 @@
 {
-  "users": [
-    {
-      "id": "lfsotgc7sc",
-      "profile": {
-        "name": "Arman Tadevosyan",
-        "username": "arman1234",
-        "password": "arman1234",
-        "created": "07.02.2023",
-        "token": "P780qE2Q25rcVpytkZpx0AjEUsVYWLNG"
-      },
-      "role": "user",
-      "posts": []
-    },
-    {
-      "id": "9d4gx9soud",
-      "profile": {
-        "name": "arman1234",
-        "username": "arman1234",
-        "password": "arman123",
-        "created": "07.02.2023",
-        "token": "fcmekh0HHo1Wf9me1RNNpAWxVGcov4qY"
-      },
-      "role": "user",
-      "posts": []
-    },
-    {
-      "id": "r0xfe66vuck",
-      "profile": {
-        "name": "arman 4",
-        "username": "arman123",
-        "password": "arman1234",
-        "created": "07.02.2023",
-        "token": "9yNshSK0exzxG4ONSFjNzJrfn0cRgh8b"
-      },
-      "role": "user",
-      "posts": []
-    },
-    {
-      "id": "1k5typeebtfj",
-      "profile": {
-        "name": "arman 5",
-        "username": "arman1235",
-        "password": "arman1234",
-        "created": "07.02.2023",
-        "token": "Jsmgbs5aClB67yS6l25-ld81SWwEDnjk"
-      },
-      "role": "user",
-      "posts": []
-    },
-    {
-      "id": "zj26c5xc05d",
-      "profile": {
-        "name": "arman 66",
-        "username": "arman1234213",
-        "password": "arman123",
-        "created": "07.02.2023",
-        "token": "OcvPrdKV4FPeIc3PdbpLzL0qE26Shcj6"
-      },
-      "role": "user",
-      "posts": []
-    }
-  ]
+    "users": [
+        {
+            "id": "lfsotgc7sc",
+            "profile": {
+                "name": "Arman Tadevosyan",
+                "username": "arman1234",
+                "password": "arman1234",
+                "created": "07.02.2023",
+                "token": "P780qE2Q25rcVpytkZpx0AjEUsVYWLNG"
+            },
+            "role": "user",
+            "posts": []
+        },
+        {
+            "id": "9d4gx9soud",
+            "profile": {
+                "name": "arman1234",
+                "username": "arman1234",
+                "password": "arman123",
+                "created": "07.02.2023",
+                "token": "fcmekh0HHo1Wf9me1RNNpAWxVGcov4qY"
+            },
+            "role": "user",
+            "posts": []
+        },
+        {
+            "id": "r0xfe66vuck",
+            "profile": {
+                "name": "arman 4",
+                "username": "arman123",
+                "password": "arman1234",
+                "created": "07.02.2023",
+                "token": "9yNshSK0exzxG4ONSFjNzJrfn0cRgh8b"
+            },
+            "role": "user",
+            "posts": []
+        },
+        {
+            "id": "1k5typeebtfj",
+            "profile": {
+                "name": "arman 5",
+                "username": "arman1235",
+                "password": "arman1234",
+                "created": "07.02.2023",
+                "token": "Jsmgbs5aClB67yS6l25-ld81SWwEDnjk"
+            },
+            "role": "user",
+            "posts": []
+        },
+        {
+            "id": "zj26c5xc05d",
+            "profile": {
+                "name": "arman 66",
+                "username": "arman1234213",
+                "password": "arman123",
+                "created": "07.02.2023",
+                "token": "OcvPrdKV4FPeIc3PdbpLzL0qE26Shcj6"
+            },
+            "role": "user",
+            "posts": []
+        }
+    ],
+    "newsfeed": [
+        {
+            "id": 1,
+            "author": "Chris Stokel-Walker",
+            "title": "Why Twitter ending free access to its APIs should be a ‘wake-up call’",
+            "description": "The social media network is putting its APIs – the under-praised tool that keeps the internet as we know it going – behind a paywall. This cash grab will fundamentally change Twitter<ul><li>Don’t get TechScape delivered to your inbox? Sign up here</li></ul>AP…",
+            "url": "https://www.theguardian.com/technology/2023/feb/07/techscape-elon-musk-twitter-api",
+            "urlToImage": "https://i.guim.co.uk/img/media/71787554583655149422797a44430da33a4b7c7e/0_376_5730_3438/master/5730.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=54c109bfd1b8f44f813026fc3cf57ff3",
+            "publishedAt": "2023-02-07T11:45:45Z",
+            "content": "APIs may not seem like the sexiest thing to write about in a tech newsletter, but bear with me. Because APIs or application programming interfaces are important. Theyre the synapses of our digital wo… [+6998 chars]"
+        },
+        {
+            "id": 2,
+            "author": "Tim Hardwick",
+            "title": "Apple to Hold In-Person Annual 'AI Summit' for Employees at Steve Jobs Theater",
+            "description": "Apple will hold its annual AI summit for employees next week at Steve Jobs Theater, the first fully live in-person event at the company's Apple Park headquarters since the pre-COVID era.\n\n\n\n\n\nThe summit is similar to Apple's Worldwide Developers Conference, b…",
+            "url": "https://www.macrumors.com/2023/02/07/apple-ai-summit-in-person-event/",
+            "urlToImage": "https://images.macrumors.com/t/Y5FLZAat72a2Ktb5reflSF4zt-w=/1600x/article-new/2017/09/steve-jobs-theater-tim-cook.jpg",
+            "publishedAt": "2023-02-07T12:08:11Z",
+            "content": "Apple will hold its annual AI summit for employees next week at Steve Jobs Theater, the first fully live in-person event at the company's Apple Park headquarters since the pre-COVID era.\r\nThe summit … [+1749 chars]"
+        },
+        {
+            "id": 3,
+            "author": "Juli Clover",
+            "title": "Apple Executives Discuss M2 Chips, Gaming on Mac, Intel and More",
+            "description": "Following the release of the Mac mini and the MacBook Pro with M2 Pro and \u200cM2\u200c Max chips, Apple's platform architecture VP Tim Millet and product marketing VP Bob Borchers did an interview with TechCrunch's Matthew Panzarino to discuss the new technology, the…",
+            "url": "https://www.macrumors.com/2023/02/06/apple-executives-techcrunch-m2-chip-interview/",
+            "urlToImage": "https://images.macrumors.com/t/_KsVTJXVWpAN9CrUxwBKqe4qf6M=/2500x/article-new/2023/01/new-macbook-pro-pink.jpg",
+            "publishedAt": "2023-02-07T02:25:38Z",
+            "content": "Following the release of the Mac mini and the MacBook Pro with M2 Pro and \u200cM2\u200c Max chips, Apple's platform architecture VP Tim Millet and product marketing VP Bob Borchers did an interview with TechC… [+3310 chars]"
+        },
+        {
+            "id": 4,
+            "author": "Alberto Martín",
+            "title": "Apple sigue trabajando en su propia versión de la carga inalámbrica inversa",
+            "description": "Mucho se rumoreó hace un par de generaciones sobre la posibilidad de que Apple incluyese cargar inversa en los iPhone de gama alta, pero hasta el momento, es una funcionalidad que no está disponible. De hecho, los iPhone 12 ya incluían esta tecnología, pero n…",
+            "url": "http://hipertextual.com/2023/02/apple-carga-inalambrica-inversa",
+            "urlToImage": "https://imgs.hipertextual.com/wp-content/uploads/2021/07/bateria-magsafe-001.jpg",
+            "publishedAt": "2023-02-07T09:46:25Z",
+            "content": "Mucho se rumoreó hace un par de generaciones sobre la posibilidad de que Apple incluyese cargar inversa en los iPhone de gama alta, pero hasta el momento, es una funcionalidad que no está disponible.… [+3462 chars]"
+        },
+        {
+            "id": 5,
+            "author": "Rubén Chicharro",
+            "title": "Sonos Era 300 y Era 100: los próximos altavoces de la marca apuntan a revolucionar toda la industria",
+            "description": "Sonos podría lanzar pronto nuevos equipos de audio para competir, o incluso superar, al recién anunciado HomePod de Apple y los altavoces inteligentes más potentes de Google y Amazon. Según The Verge, la compañía se prepara para anunciar durante los próximos …",
+            "url": "http://hipertextual.com/2023/02/sonos-era-300-era-100-proximos-altavoces-filtrados",
+            "urlToImage": "https://imgs.hipertextual.com/wp-content/uploads/2023/02/sonos-era-300.jpg",
+            "publishedAt": "2023-02-07T09:44:29Z",
+            "content": "Sonos podría lanzar pronto nuevos equipos de audio para competir, o incluso superar, al recién anunciado HomePod de Apple y los altavoces inteligentes más potentes de Google y Amazon. Según The Verge… [+3039 chars]"
+        },
+        {
+            "id": 6,
+            "author": "Javier Lacort",
+            "title": "Las series más vistas en streaming en 2022 cuentan algo bueno sobre Netflix... pero sobre todo sobre el pasado",
+            "description": "Nielsen ha publicado su informe de contenidos de vídeo bajo demanda para 2022, revelando lo más visto, en series y películas, en plataformas de streaming. Hay dos matices importantes: uno es que los datos corresponden a Estados Unidos. Otro es que extrae esta…",
+            "url": "https://www.xataka.com/streaming/series-vistas-streaming-2022-cuentan-algo-bueno-netflix-todo-pasado",
+            "urlToImage": "https://i.blogs.es/062572/dest22/840_560.jpeg",
+            "publishedAt": "2023-02-07T11:00:27Z",
+            "content": "Nielsen ha publicado su informe de contenidos de vídeo bajo demanda para 2022, revelando lo más visto, en series y películas, en plataformas de streaming. Hay dos matices importantes: uno es que los … [+2797 chars]"
+        },
+        {
+            "id": 7,
+            "author": "Javier Pastor",
+            "title": "Guerra abierta por el buscador del futuro: por qué Google y Microsoft se han obsesionado con ChatGPT",
+            "description": "Los buscadores web no han cambiado mucho en las últimas dos décadas. En 2023 eso va a cambiar: la irrupción de ChatGPT y de los chatbots conversacionales creados con motores de inteligencia artificial ha planteado toda una revolución. Una que no se quieren pe…",
+            "url": "https://www.xataka.com/servicios/guerra-abierta-buscador-futuro-que-google-microsoft-se-han-obsesionado-chatgpt",
+            "urlToImage": "https://i.blogs.es/ae8c6a/buscadores/840_560.jpeg",
+            "publishedAt": "2023-02-07T10:00:25Z",
+            "content": "Los buscadores web no han cambiado mucho en las últimas dos décadas. En 2023 eso va a cambiar: la irrupción de ChatGPT y de los chatbots conversacionales creados con motores de inteligencia artificia… [+3924 chars]"
+        },
+        {
+            "id": 8,
+            "author": null,
+            "title": "The Adoption of Rust in Business",
+            "description": "The year 2022 marks seven years since the stable version of the Rust language was officially released. Since its release, Rust has been popular among developers. In a Stack Overflow poll of over 73,00",
+            "url": "https://rustmagazine.org/issue-1/2022-review-the-adoption-of-rust-in-business",
+            "urlToImage": "https://rustmagazine.org/static/bg.jpeg",
+            "publishedAt": "2023-02-07T07:40:37Z",
+            "content": "The year 2022 marks seven years since the stable version of the Rust language was officially released. Since its release, Rust has been popular among developers. In a Stack Overflow poll of over 73,0… [+25967 chars]"
+        },
+        {
+            "id": 9,
+            "author": "Ben Schwan",
+            "title": "LG gönnt webOS wichtige Apple-Apps – und nicht nur eigenen TVs",
+            "description": "LG hat sein Fernsehbetriebssystem webOS mit neuen Inhalten von Apple ergänzt. Dienste wie HomeKit, TV+ und Music kommen zu bis zu 200 Marken.",
+            "url": "https://www.heise.de/news/LG-goennt-webOS-wichtige-Apple-Apps-und-nicht-nur-eigenen-TVs-7487313.html",
+            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/6/9/4/4/8/1/Screen_Shot_2023-02-07_at_10.13.38-5b2488917d1c6e90.png",
+            "publishedAt": "2023-02-07T09:36:00Z",
+            "content": "Der südkoreanische Elektronikanbieter LG hat für webOS die Verfügbarkeit zahlreicher Apple-Anwendungen angekündigt. Diese sollen im Rahmen des sogenannten webOS-Hub-Ökosystems künftig nicht mehr nur … [+1812 chars]"
+        },
+        {
+            "id": 10,
+            "author": "Robin Brand",
+            "title": "heise+ | Zehn Premium-In-Ears mit ANC ab 140 Euro im Test",
+            "description": "Die besten Wireless-In-Ears versprechen tollen Klang, mächtige aktive Rauschunterdrückung und kabellose Freiheit. Wir haben zehn kabellose Kopfhörer getestet.",
+            "url": "https://www.heise.de/tests/Zehn-Premium-In-Ears-mit-ANC-ab-140-Euro-im-Test-7480548.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/6/9/0/9/4/1/5a7013f7a091eeee58af97abc259dcf5f9e81041670314739ebdbbafe5fd066e-6c9bb37b7722b65e.jpeg",
+            "publishedAt": "2023-02-07T08:30:00Z",
+            "content": "Inhaltsverzeichnis\r\nKabellose In-Ears sind wahre Alleskönner: Sie spielen Musik, blenden die Umgebung aus oder holen sie wahlweise herein und sind das Mikrofon für Smartphone und Videoschalte. Längst… [+1387 chars]"
+        },
+        {
+            "id": 11,
+            "author": "Kristina Beer, Bernd Mewes",
+            "title": "Safer Internet Day: FAQ Internetsicherheit für Kinder und Jugendliche",
+            "description": "Im Internet lauern für Heranwachsende viele Gefahren, die sie noch nicht einschätzen können. Mit Wissensvermittlung und Tools können sie geschützt werden.",
+            "url": "https://www.heise.de/ratgeber/Safer-Internet-Day-FAQ-Internetsicherheit-fuer-Kinder-und-Jugendliche-7333482.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/6/3/9/6/6/3/shutterstock_110668190-a19a4474d1defbfc.jpg",
+            "publishedAt": "2023-02-07T05:29:00Z",
+            "content": "Inhaltsverzeichnis\r\nDas Internet ist weder ein rechtsfreier noch ein einfach sicherer Raum. Auch deshalb raten Jugendschutz-Verbände, die Polizei oder etwa das Bundesamt für Sicherheit in der Informa… [+5718 chars]"
+        },
+        {
+            "id": 12,
+            "author": "Ralf Spenneberg",
+            "title": "heise+ | ClamAV: Open-Source-Malware-Scanner im Test",
+            "description": "20 Jahre nach der ersten Veröffentlichung des wohl bekanntesten quelloffenen Malware-Scanners legt Cisco die Version 1.0 auf. Wir haben ClamAV getestet.",
+            "url": "https://www.heise.de/tests/ClamAV-Open-Source-Malware-Scanner-im-Test-7477901.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/6/8/9/5/6/2/clamav_1-9ce37ec7a4fdb68b.png",
+            "publishedAt": "2023-02-07T10:30:00Z",
+            "content": "Inhaltsverzeichnis\r\nEs war ein langer Weg zur großen Eins, die Cisco dem nun 20 Jahre alten ClamAV Ende des Jahres 2022 verlieh. Dabei ist die Zahl mehr ein Symbol als ein Indikator für maßgebliche N… [+3773 chars]"
+        },
+        {
+            "id": 13,
+            "author": "Stephan Kaps",
+            "title": "Software Supply Chain: Die Lehren aus Log4j",
+            "description": "Wie kontinuierliche Software Composition Analysis (SCA) hilft, Risiken in der Software Supply Chain zu erkennen und zu beheben.",
+            "url": "https://www.heise.de/ratgeber/Software-Supply-Chain-Die-Lehren-aus-Log4j-7486378.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/6/9/3/9/8/0/log4j_learnings-4abe6470e4263fda.png",
+            "publishedAt": "2023-02-07T10:27:00Z",
+            "content": "Inhaltsverzeichnis\r\nEs ist Anfang Dezember 2021. Eine Sicherheitslücke wird veröffentlicht. Sie trägt den Namen CVE-2021-44228. Das Bundesamt für Sicherheit in der Informationstechnik (BSI) gibt eine… [+4978 chars]"
+        },
+        {
+            "id": 14,
+            "author": "Filipe Espósito",
+            "title": "Apple may have overestimated its ability to create a Mac Pro with an Apple Silicon chip",
+            "description": "When Apple announced the transition of Macs powered by Intel processors to its own Apple Silicon in 2020, the company said it would complete the transition of the entire lineup in two years. However, that timeline has passed, and Apple still has one Intel Mac…",
+            "url": "https://9to5mac.com/2023/02/06/apple-may-have-overestimated-its-ability-to-create-a-mac-pro-with-an-apple-silicon-chip/",
+            "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2019/12/Mac-Pro-Top-Features-Unwrapped.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2023-02-07T02:42:22Z",
+            "content": "When Apple announced the transition of Macs powered by Intel processors to its own Apple Silicon in 2020, the company said it would complete the transition of the entire lineup in two years. However,… [+5648 chars]"
+        },
+        {
+            "id": 15,
+            "author": "Bradley Chambers",
+            "title": "Apple @ Work Podcast: Microsoft Policies are just IT Policies",
+            "description": "Apple @ Work is brought to you by Mosyle, the only Apple Unified Platform. Mosyle is the only solution that fully integrates 5 different applications on a single Apple-only platform, allowing Businesses to easily and automatically deploy, manage & protect all…",
+            "url": "https://9to5mac.com/2023/02/07/microsoft-policies-are-just-it-policies/",
+            "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2019/08/Apple-at-Work.png?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2023-02-07T11:00:00Z",
+            "content": "Apple @ Work is brought to you by Mosyle, the only Apple Unified Platform. Mosyle is the only solution that fully integrates 5 different applications on a single Apple-only platform, allowing Busines… [+1317 chars]"
+        },
+        {
+            "id": 16,
+            "author": "Chance Miller",
+            "title": "Microsoft Authenticator app for Apple Watch discontinued; here are the best alternatives",
+            "description": "As previously announced, Microsoft has dropped support for the Microsoft Authenticator app on Apple Watch. The company blamed this decision on watchOS being “incompatible with Authenticator security features.” There are a couple of other options for Apple Wat…",
+            "url": "https://9to5mac.com/2023/02/06/two-factor-authentication-apple-watch/",
+            "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/12/Microsoft-Authenticator.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2023-02-07T02:50:30Z",
+            "content": "As previously announced, Microsoft has dropped support for the Microsoft Authenticator app on Apple Watch. The company blamed this decision on watchOS being incompatible with Authenticator security f… [+1794 chars]"
+        },
+        {
+            "id": 17,
+            "author": "Ben Lovejoy",
+            "title": "Future Macs likely to get annual(ish) updates, suggests Apple chip designer",
+            "description": "Apple chip designer Tim Millet implied in a new interview that annual updates – or something close to this – are likely to be the norm for future Macs.\nHe talked about the company’s original goals for the development of the M1 chip, and how Apple is approachi…",
+            "url": "https://9to5mac.com/2023/02/07/future-macs/",
+            "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/02/Future-Macs.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2023-02-07T12:24:52Z",
+            "content": "Apple chip designer Tim Millet implied in a new interview that annual updates or something close to this are likely to be the norm for future Macs.\r\nHe talked about the company’s original goals for t… [+4325 chars]"
+        },
+        {
+            "id": 18,
+            "author": "Filipe Espósito",
+            "title": "Apple to hold in-person ‘AI summit’ event for employees at Steve Jobs Theater",
+            "description": "It has been almost three years since Apple changed how it holds special events because of the COVID-19 pandemic. Since then, all events have been pre-recorded, with only the last two having guests there. But it seems that the company is now ready to go back t…",
+            "url": "https://9to5mac.com/2023/02/06/apple-to-hold-in-person-ai-summit-event-for-employees-at-steve-jobs-theater/",
+            "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2019/09/Apple_Keynote-Event_Guests-Steve-Jobs-Theater_091019.jpeg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2023-02-07T03:15:53Z",
+            "content": "It has been almost three years since Apple changed how it holds special events because of the COVID-19 pandemic. Since then, all events have been pre-recorded, with only the last two having guests th… [+2377 chars]"
+        },
+        {
+            "id": 19,
+            "author": "Chance Miller",
+            "title": "Poll: Tim Cook thinks you’d pay more for an iPhone Ultra, but is he right?",
+            "description": "Over the weekend, a report from Bloomberg suggested that Apple is considering adding a new high-end option to the iPhone lineup. This device, potentially branded as the “Ultra,” would be more expensive than the “Pro Max,” but the question is how much more\n mo…",
+            "url": "https://9to5mac.com/2023/02/06/iphone-ultra-prices-rumor/",
+            "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/09/iphone-14-pro-max.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2023-02-07T02:18:59Z",
+            "content": "Over the weekend, a report from Bloomberg suggested that Apple is considering adding a new high-end option to the iPhone lineup. This device, potentially branded as the “Ultra,” would be more expensi… [+2187 chars]"
+        },
+        {
+            "id": 20,
+            "author": "Amber Neely",
+            "title": "Apple to hold first in-person AI summit in years",
+            "description": "As Apple begins to ease its COVID policies, the company has decided to hold its annual internal AI summit in person, which could mean the company may soon return to traditional media events.Steve Jobs TheaterThe AI summit is similar to Apple's annual Worldwid…",
+            "url": "https://appleinsider.com/articles/23/02/07/apple-to-hold-first-in-person-ai-summit-in-years",
+            "urlToImage": "https://photos5.appleinsider.com/gallery/52868-105770-sjt-xl.jpg",
+            "publishedAt": "2023-02-07T03:49:45Z",
+            "content": "Steve Jobs Theater AppleInsider may earn an affiliate commission on purchases made through links on our site.\r\nAs Apple begins to ease its COVID policies, the company has decided to hold its annual … [+1085 chars]"
+        },
+        {
+            "id": 21,
+            "author": "Amber Neely",
+            "title": "Apple execs discuss how company pushes technology to the limit with M2",
+            "description": "Apple's platform architecture VP Tim Millet and product marketing VP Bob Borchers weigh in on the benefits of bringing chip design in-house.Apple's M2 chipsetIn an interview with TechCrunch, Apple executives sat down to discuss Apple's shift to silicon and wh…",
+            "url": "https://appleinsider.com/articles/23/02/07/apple-execs-discuss-how-company-pushes-technology-to-the-limit-with-m2",
+            "urlToImage": "https://photos5.appleinsider.com/gallery/46965-91503-M2-Art-xl.jpg",
+            "publishedAt": "2023-02-07T03:25:40Z",
+            "content": "Apple's M2 chipset\r\nAppleInsider may earn an affiliate commission on purchases made through links on our site.\r\nApple's platform architecture VP Tim Millet and product marketing VP Bob Borchers weigh… [+3169 chars]"
+        },
+        {
+            "id": 22,
+            "author": "Tyler Hayes",
+            "title": "Marshall Stanmore III review: Wildly impressive but imperfect Bluetooth speaker",
+            "description": "The vintage style and deep, rich sound of the Marshall Stanmore III might appear to be the perfect home Bluetooth speaker, but its superficial styling masks minor compromises that are magnified by its steep $379.99 retail priceMarshall Stanmore IIIThe Stanmor…",
+            "url": "https://appleinsider.com/articles/23/02/07/marshall-stanmore-iii-review-wildly-impressive-but-imperfect-bluetooth-speaker",
+            "urlToImage": "https://photos5.appleinsider.com/gallery/52775-105584-63EF45C0-CCD2-4106-BD9A-D70566225E14-xl.jpg",
+            "publishedAt": "2023-02-07T12:04:59Z",
+            "content": "Marshall Stanmore III\r\nAppleInsider may earn an affiliate commission on purchases made through links on our site.\r\nThe vintage style and deep, rich sound of the Marshall Stanmore III might appear to … [+4293 chars]"
+        },
+        {
+            "id": 23,
+            "author": "そうこ",
+            "title": "米バイデン政権、アップルやグーグルのアプリストアの壁をぶち壊したい",
+            "description": "Photo:Shutterstock.com モバイルエコシステムにメス…。バイデン政権がいま目をつけているのは、モバイルアプリのプラットフォーム。Apple（アップル）やGoogle（グーグル）などがアプリストアの門番になってしまっている流れをどうにかしたいと考えているようです。米商務省の電気通信情報庁（NTIA）が公開した報告書には、現在のモバイルアプリストアのあり方は「消費者と開発者に有害」で",
+            "url": "https://www.gizmodo.jp/2023/02/biden-admin-iphone-android-ios-app-store-sideload-ntia.html",
+            "urlToImage": "https://media.loom-app.com/gizmodo/dist/images/2023/02/07/shutterstock_2011476206.jpg?w=1280&h=630&f=jpg",
+            "publishedAt": "2023-02-07T12:00:00Z",
+            "content": "AppleGoogle\r\nNTIANTIAAppleAppleGoogle\r\nNTIAAndroidiOS\r\nNTIA\r\nAndroidNTIA\r\nGoogle Play StoreAndroidF-DroidGoogleAndroid App BundleAndrroidGoogleAndroidSamsungOneUI\r\niPhone\r\niOS 14App DrawerNTIA\r\niOSAp… [+136 chars]"
+        },
+        {
+            "id": 24,
+            "author": "Rain Noe",
+            "title": "Everyone's Missing the Inside Joke Behind the Jonathan-Ive-Designed Red Clown Nose",
+            "description": "The blogosphere is abuzz with news that Sir Jonathan Ive designed a red clown nose for Comic Relief. However, everyone seems to be missing that this is an inside joke by Ive; we've covered him long enough to understand why he chose to design this object in pa…",
+            "url": "https://www.core77.com/posts/119538/Everyones-Missing-the-Inside-Joke-Behind-the-Jonathan-Ive-Designed-Red-Clown-Nose",
+            "urlToImage": "https://s3files.core77.com/blog/images/lead_n_spotlight/1349125_lead_400_119538_.jpg",
+            "publishedAt": "2023-02-07T11:10:00Z",
+            "content": "The blogosphere is abuzz with news that Sir Jonathan Ive designed a red clown nose for Comic Relief. However, everyone seems to be missing that this is an inside joke by Ive; we've covered him long e… [+1521 chars]"
+        },
+        {
+            "id": 25,
+            "author": "Miguel López",
+            "title": "Los consejos de Apple para una internet más segura para los niños",
+            "description": "Hoy, día 7 de febrero, es el Día de Internet Segura. Y Apple no quiere ignorar la jornada recordando que una de sus principales bazas para sus plataformas es la seguridad ante el uso que los menores hacen de sus dispositivos. Es el motivo por el que muchos pa…",
+            "url": "https://www.applesfera.com/servicios-apple/consejos-apple-para-internet-segura-para-ninos",
+            "urlToImage": "https://i.blogs.es/c9cacd/captura-de-pantalla-2023-02-07-a-las-12.06.02/840_560.jpeg",
+            "publishedAt": "2023-02-07T11:10:27Z",
+            "content": "Hoy, día 7 de febrero, es el Día de Internet Segura. Y Apple no quiere ignorar la jornada recordando que una de sus principales bazas para sus plataformas es la seguridad ante el uso que los menores … [+2466 chars]"
+        },
+        {
+            "id": 26,
+            "author": "David Bernal Raspall",
+            "title": "Apple celebrará una conferencia privada para todos sus empleados. Siri y ChatGPT serán temas a tratar",
+            "description": "Además de las keynotes a las que asistimos para ver nuevos productos y la conferencia de desarrolladores que tiene lugar cada mes de junio, Apple celebra varios eventos para sus empleados. Uno de ellos tendrá lugar este mismo mes de febrero y girará en torno …",
+            "url": "https://www.applesfera.com/apple-1/apple-celebrara-conferencia-privada-para-todos-sus-empleados-siri-chatgpt-seran-temas-a-tratar",
+            "urlToImage": "https://i.blogs.es/7a40ff/hero/840_560.jpeg",
+            "publishedAt": "2023-02-07T07:45:07Z",
+            "content": "Además de las keynotes a las que asistimos para ver nuevos productos y la conferencia de desarrolladores que tiene lugar cada mes de junio, Apple celebra varios eventos para sus empleados. Uno de ell… [+2261 chars]"
+        },
+        {
+            "id": 27,
+            "author": "Isra Fdez",
+            "title": "iPhone 15 Pro: las tres claves de su diseño sin botones",
+            "description": "Dicen que cuando el río suena, agua lleva. Y el río del iPhone 15 está a punto del desbordamiento. Porque los rumores no dejan de llegar: los nuevos iPhone 15 Pro y iPhone 15 Pro Max cambian de diseño y lo harán prescindiendo de botones exteriores (visibles),…",
+            "url": "https://www.applesfera.com/rumores/iphone-15-pro-tres-claves-su-diseno-botones",
+            "urlToImage": "https://i.blogs.es/6d4413/hero/840_560.jpeg",
+            "publishedAt": "2023-02-07T09:00:25Z",
+            "content": "Dicen que cuando el río suena, agua lleva. Y el río del iPhone 15 está a punto del desbordamiento. Porque los rumores no dejan de llegar: los nuevos iPhone 15 Pro y iPhone 15 Pro Max cambian de diseñ… [+2132 chars]"
+        },
+        {
+            "id": 28,
+            "author": "David Bernal Raspall",
+            "title": "La TDT gratis en nuestro iPhone gracias al 5G: TVE ya prepara su programa piloto",
+            "description": "Ya hemos hablado en el pasado de como ver la TDT o simplemente \"la tele\" en el iPhone de forma fácil, por ejemplo a través de Tivify. Pero todas estas soluciones se han basado siempre en una emisión de la señal a través de internet. Es decir, no es la TDT com…",
+            "url": "https://www.applesfera.com/iphone/tdt-gratis-nuestro-iphone-gracias-al-5g-tve-prepara-su-programa-piloto",
+            "urlToImage": "https://i.blogs.es/be9400/hero/840_560.jpeg",
+            "publishedAt": "2023-02-07T10:00:25Z",
+            "content": "Ya hemos hablado en el pasado de como ver la TDT o simplemente \"la tele\" en el iPhone de forma fácil, por ejemplo a través de Tivify. Pero todas estas soluciones se han basado siempre en una emisión … [+2346 chars]"
+        },
+        {
+            "id": 29,
+            "author": "RPB",
+            "title": "Apple prépare un iPhone “Ultra”… inspiré de Samsung ?",
+            "description": "L'iPhone Pro Max ne sera bientôt plus le modèle le plus cher...",
+            "url": "https://www.presse-citron.net/apple-prepare-un-iphone-ultra-inspire-de-samsung/",
+            "urlToImage": "https://www.presse-citron.net/app/uploads/2022/09/test-iphone-14-pro-max-prix.jpg",
+            "publishedAt": "2023-02-07T06:30:02Z",
+            "content": "<ul><li>Des sources proches de l’industrie affirment que Apple est en train de développer un nouveau modèle d’iPhone encore plus cher et puissant à côté des variantes Plus, Pro et Pro Max</li><li>La … [+2988 chars]"
+        },
+        {
+            "id": 30,
+            "author": "Chris Smith",
+            "title": "Google uses iPhone 14 Pro to promote Bard ChatGPT rival",
+            "description": "Google can’t wait to compete against ChatGPT and show the world that its conversational AI chatbots can work in commercial products like Google Search. Even …\nThe post Google uses iPhone 14 Pro to promote Bard ChatGPT rival appeared first on BGR.",
+            "url": "https://bgr.com/tech/google-uses-iphone-14-pro-to-promote-bard-chatgpt-rival/",
+            "urlToImage": "https://bgr.com/wp-content/uploads/2022/08/google-pixel-6a-2.jpg?quality=82&strip=all",
+            "publishedAt": "2023-02-07T11:50:00Z",
+            "content": "Google can’t wait to compete against ChatGPT and show the world that its conversational AI chatbots can work in commercial products like Google Search. Even if the functionality is limited. And Googl… [+3280 chars]"
+        },
+        {
+            "id": 31,
+            "author": "John-Anthony Disotto",
+            "title": "Sonos set to reveal the Era 300 and Era 100 — is HomePod up for the challenge?",
+            "description": "A new Sonos smart speaker generation is on the horizon and the company is coming directly for Apple's HomePod.",
+            "url": "https://www.imore.com/smart-home/sonos-set-to-reveal-the-era-300-and-era-100-is-homepod-up-for-the-challenge",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/5SvBzK8D9g4pQrpxvfmD3F-1200-80.png",
+            "publishedAt": "2023-02-07T11:15:02Z",
+            "content": "Sonos, the multi-room audio pioneer, is said to be set to reveal the Era 300 and Era 100, a new generation of smart speakers ready to take on Apple’s HomePod for the crowning spot in your home. \r\nIn … [+1667 chars]"
+        },
+        {
+            "id": 32,
+            "author": "André Westphal",
+            "title": "Beats Fit Pro: Apple plant wohl neue Farbvarianten",
+            "description": "Apple hat mit den Beats Fit Pro hervorragende In-Ear-Kopfhörer am Markt – Caschy hat sie ja auch getestet und nutzt sie regelmäßig beim Sport. Wie es aussieht, soll es da bald mehr Auswahl in Form neuer Farbvarianten geben. Geplant sind...Zum Beitrag: Beats F…",
+            "url": "https://stadt-bremerhaven.de/beats-fit-pro-apple-plant-wohl-neue-farbvarianten/",
+            "urlToImage": "https://stadt-bremerhaven.de/wp-content/uploads/2023/02/Beats-Fit-Pro-New-Colors.jpeg",
+            "publishedAt": "2023-02-07T08:30:20Z",
+            "content": "Apple hat mit den Beats Fit Pro hervorragende In-Ear-Kopfhörer am Markt – Caschy hat sie ja auch getestet und nutzt sie regelmäßig beim Sport. Wie es aussieht, soll es da bald mehr Auswahl in Form ne… [+1011 chars]"
+        },
+        {
+            "id": 33,
+            "author": "Olli",
+            "title": "Kurz vorm Super Bowl: Neues #AppleMusic-Hashflag auf Twitter",
+            "description": "Für die viele US-Amerikaner und auch für Fans überall rund um den Globus steht am 12. Februar das größte Event in diesem Jahr an. Der Super Bowl 57 wird wieder unzählige Zuschauer ins Stadion und vor allem vor die Fernseher...Zum Beitrag: Kurz vorm Super Bowl…",
+            "url": "https://stadt-bremerhaven.de/kurz-vorm-superbowl-neues-applemusic-hashflag-auf-twitter/",
+            "urlToImage": "https://stadt-bremerhaven.de/wp-content/uploads/2023/02/SCR-20230207-7mo.jpg",
+            "publishedAt": "2023-02-07T07:00:07Z",
+            "content": "Für die viele US-Amerikaner und auch für Fans überall rund um den Globus steht am 12. Februar das größte Event in diesem Jahr an. Der Super Bowl 57 wird wieder unzählige Zuschauer ins Stadion und vor… [+1534 chars]"
+        },
+        {
+            "id": 34,
+            "author": "caschy",
+            "title": "Amazon Casting Video Player erhält die Matter-Zertifizierung",
+            "description": "Matter ist für viele derzeit das Schlagwort schlechthin, wenn es um das Thema Smart Home geht. Da soll alles auf allen Plattformen funktionieren – total einfach bestenfalls. Feststeht: Matter-Hardware ist im Zulauf, genug Zentralen sind eigentlich schon bei d…",
+            "url": "https://stadt-bremerhaven.de/amazon-casting-video-player-erhaelt-die-matter-zertifizierung/",
+            "urlToImage": "https://stadt-bremerhaven.de/wp-content/uploads/2022/09/fire-tv-echo-show_.jpg",
+            "publishedAt": "2023-02-07T10:30:41Z",
+            "content": "Matter ist für viele derzeit das Schlagwort schlechthin, wenn es um das Thema Smart Home geht. Da soll alles auf allen Plattformen funktionieren – total einfach bestenfalls. Feststeht: Matter-Hardwar… [+2226 chars]"
+        },
+        {
+            "id": 35,
+            "author": "Wilson Chapman",
+            "title": "Timothée Chalamet Feels His Talent Is Overlooked by Apple TV+ in Latest Ad Spot",
+            "description": "\"Beauty is such a fragile thing, often overlooked,\" Chalamet says about Apple's refusal to call him.",
+            "url": "https://www.indiewire.com/2023/02/timothee-chalamet-apple-tv-third-commercial-1234807267/",
+            "urlToImage": "https://www.indiewire.com/wp-content/uploads/2023/02/Screenshot-2023-02-06-at-3.56.20-PM-e1675727815252.png?w=780",
+            "publishedAt": "2023-02-07T00:45:45Z",
+            "content": "Nobody’s a bigger Apple TV+ stan than Timothée Chalamet. The “Dune” and “Call Me By Your Name” star’s ad campaign with the tech giant is continuing with a newly dropped commercial for the streaming s… [+2127 chars]"
+        },
+        {
+            "id": 36,
+            "author": "Wilson Chapman",
+            "title": "How Will Ben Stiller Play the ‘Three Identical Strangers’ in Series Based on Acclaimed Doc?",
+            "description": "One of the brothers died when he was nearly 25 years younger than Stiller is now.",
+            "url": "https://www.indiewire.com/2023/02/ben-stiller-three-identical-strangers-1234807250/",
+            "urlToImage": "https://www.indiewire.com/wp-content/uploads/2023/02/FotoJet-10.jpg?w=780",
+            "publishedAt": "2023-02-07T00:00:15Z",
+            "content": "In a casting that raises several questions, Ben Stiller is in final talks to star in “Three Identical Strangers,” a limited series adaptation of the acclaimed documentary film, according to Variety.\r… [+2304 chars]"
+        },
+        {
+            "id": 37,
+            "author": "Cassim Ketfi",
+            "title": "Année record de Google, Netflix recule et Ford fait une sacrée boulette – Tech’spresso",
+            "description": "Vous n’avez pas eu le temps de suivre l’actualité hier ? Voici ce qui a marqué le lundi 6 février : Ford a perdu des milliards de dollars à cause d'une erreur, Google marque des records avec ses Pixel et Netflix recule sur le partage de compte. Pour ne manque…",
+            "url": "https://www.frandroid.com/actualites-generales/1605941_annee-record-de-google-netflix-recule-et-ford-fait-une-sacree-boulette-techspresso",
+            "urlToImage": "https://images.frandroid.com/wp-content/uploads/2022/10/google-pixel-7-pro-test-frandroid-4-scaled.jpg",
+            "publishedAt": "2023-02-07T06:09:02Z",
+            "content": "Vous navez pas eu le temps de suivre lactualité hier? Voici ce qui a marqué le lundi 6 février : Ford a perdu des milliards de dollars à cause d'une erreur, Google marque des records avec ses Pixel e… [+1138 chars]"
+        },
+        {
+            "id": 38,
+            "author": "admin",
+            "title": "How women in science are delivering a sustainable future",
+            "description": "To celebrate the International Day of Women and Girls in Science, discover some of the most exciting sustainable innovations from female scientists\nThe post How women in science are delivering a sustainable future appeared first on Springwise.",
+            "url": "https://www.springwise.com/sustainable-source/how-female-scientists-are-helping-to-deliver-a-sustainable-future/",
+            "urlToImage": "https://www.springwise.com/wp-content/uploads/2023/02/Women-in-Science-Header.png",
+            "publishedAt": "2023-02-07T09:21:23Z",
+            "content": "Today, only one-third of all the worlds researchers are female. And the proportion of women in some of the most cutting-edge fields such as artificial intelligence, software development, and data sci… [+6228 chars]"
+        },
+        {
+            "id": 39,
+            "author": "Rick",
+            "title": "Actualité : Soldes / Bon plan – La tablette Tactile Apple iPad Pro 12,9\" (2021) \"5 étoiles\" à 1 219,00 € (-16%)",
+            "description": "La tablette Tactile Apple iPad Pro 12,9\" (2021) passe sous les 1300 € chez Amazon soit une baisse d'environ 16% sur le prix habituellement constaté. C'est actuellement l'un des meilleurs produit de notre comparatif.",
+            "url": "https://www.lesnumeriques.com/tablette-tactile/soldes-bon-plan-la-tablette-tactile-apple-ipad-pro-12-9-2021-5-etoiles-a-1-219-00-16-n206363.html",
+            "urlToImage": "https://cdn.lesnumeriques.com/optim/test/16/163581/f8b11a2b-apple-ipad-pro-12-9-2021-m1-dans-la-main__1200_630__overflow_wtmk.jpeg",
+            "publishedAt": "2023-02-07T05:43:28Z",
+            "content": "Pour 2021, Apple fait passer un cap à sa tablette la plus haut de gamme. Avec un processeur de MacBook Pro 13 pouces et une dalle mini-led, l'iPad Pro 12,9 (2021) se pose comme un iPad plus ambitieux… [+1830 chars]"
+        },
+        {
+            "id": 40,
+            "author": "Nicolás Verdejo",
+            "title": "Telegram ahora permite traducir chats completos y pagar una suscripción Premium anual",
+            "description": "La primera actualización importante de 2023 de Telegram, incorpora nuevas funciones entre las que destaca la posibilidad de traducir chats completos. Además, fue presentada una nueva opción de suscripción anual a Telegram Premium. La popular plataforma de men…",
+            "url": "https://wwwhatsnew.com/2023/02/07/telegram-ahora-permite-traducir-chats-completos-y-pagar-una-suscripcion-premium-anual/",
+            "urlToImage": "https://wwwhatsnew.com/wp-content/uploads/2021/04/telegram.jpg",
+            "publishedAt": "2023-02-07T11:00:47Z",
+            "content": "La primera actualización importante de 2023 de Telegram, incorpora nuevas funciones entre las que destaca la posibilidad de traducir chats completos. Además, fue presentada una nueva opción de suscri… [+2039 chars]"
+        },
+        {
+            "id": 41,
+            "author": "BBQchicken",
+            "title": "Apple AirPods Pro 2nd Gen w/ MagSafe Charging Case $199 + Free Shipping",
+            "description": "Amazon has Apple AirPods Pro 2nd Gen w/ MagSafe Charging Case for $199. Shipping is free.\r\n\r\nThanks to Deal Hunter BBQchicken for sharing this deal.\r\n\r\nProduct Information:Personalized Spatial Aud ...",
+            "url": "https://slickdeals.net/f/16427056-apple-airpods-pro-2nd-gen-w-magsafe-charging-case-199-free-shipping",
+            "urlToImage": "https://static.slickdealscdn.com/attachment/1/4/1/3/2/6/0/12945154.attach",
+            "publishedAt": "2023-02-07T01:52:45Z",
+            "content": "Edit...well, I guess this is a repost. Searching for airpods didn't work the first time.I know these have been this price before, but didn't see this posted recently.\r\nhttps://www.amazon.com/dp/B0BDH… [+4 chars]"
+        },
+        {
+            "id": 42,
+            "author": "Nakimo",
+            "title": "【15%OFF】バッテリーと充電器のハイブリッド「Anker 511 Power Bank」がセール中",
+            "description": "楽天お買い物マラソンで、「Anker 511 Power Bank」が15%OFF+ポイントで販売されています。 バッテリーと充電器の1台2役のデバイスで、主な特徴は次のとおり： 携帯しやすいスティック型 USB-C出力 […]\nThe post 【15%OFF】バッテリーと充電器のハイブリッド「Anker 511 Power Bank」がセール中 first appeared on Touch Lab - タッチ ラボ.©2019 \"Touch Lab - タッチ ラボ\".",
+            "url": "http://touchlab.jp/2023/02/anker_511_powerbank_sale_2023feb7/",
+            "urlToImage": "http://touchlab.jp/wp-content/uploads/2023/02/rakuten_marathon_2023feb_anker_4.jpg",
+            "publishedAt": "2023-02-07T02:21:12Z",
+            "content": "楽天お買い物マラソンで、「Anker 511 Power Bank」が15%OFF+ポイントで販売されています。\nバッテリーと充電器の1台2役のデバイスで、主な特徴は次のとおり：\n<ul>\n<li>携帯しやすいスティック型</li>\n<li>USB-C出力ポート</li>\n<li>最大20Wの高出力</li>\n<li>バッテリー容量5,000mAh</li>\n<li>折り畳み式ACプラグ</li… [+966 chars]"
+        },
+        {
+            "id": 43,
+            "author": "Federico Viticci",
+            "title": "macOS Isn’t as Small as You Think",
+            "description": "Interesting comparison of macOS and iPadOS interface elements by Matt Birchler: I will say that there are certainly some macOS UI elements that could be tricky to use with touch, but I think they’re the exception, not the rule. Still, Apple will certainly mak…",
+            "url": "https://www.macstories.net/linked/macos-isnt-as-small-as-you-think/",
+            "urlToImage": "https://56243e3f6f46fe44a301-deabeb5f3878e3553d0b065ea974f9bf.ssl.cf1.rackcdn.com/256px.png",
+            "publishedAt": "2023-02-07T12:32:51Z",
+            "content": "Interesting comparison of macOS and iPadOS interface elements by Matt Birchler:\r\nI will say that there are certainly some macOS UI elements that could be tricky to use with touch, but I think they’re… [+1231 chars]"
+        },
+        {
+            "id": 44,
+            "author": "Alessandro Nodari",
+            "title": "Accedere alle app sarà più semplice grazie a Credential Manager",
+            "description": "Il mondo dei metodi di autenticazione a siti e app sta vivendo un momento di grande vitalità. Se infatti il...\r\nL'articolo Accedere alle app sarà più semplice grazie a Credential Manager sembra essere il primo su Androidworld.",
+            "url": "https://www.androidworld.it/news/google-credential-manager.html",
+            "urlToImage": "https://www.androidworld.it/images/2023/02/07/android-credential-manager-2_1200x675.jpg",
+            "publishedAt": "2023-02-07T09:41:00Z",
+            "content": "Il mondo dei metodi di autenticazione a siti e app sta vivendo un momento di grande vitalità. Se infatti il consorzio FIDO, di cui fanno parte aziende come Google, Apple e Microsoft, spinge per l'uti… [+2120 chars]"
+        },
+        {
+            "id": 45,
+            "author": "Leo Sun",
+            "title": "Will Apple Learn From Meta's Virtual Reality Mistakes?",
+            "description": "Apple's \"Reality Pro\" headset could reinvent the AR and VR markets.",
+            "url": "https://www.fool.com/investing/2023/02/07/will-apple-learn-from-metas-virtual-reality-mistak/",
+            "urlToImage": "https://g.foolcdn.com/editorial/images/719249/woman-vr-headset.jpg",
+            "publishedAt": "2023-02-07T10:33:00Z",
+            "content": "Apple(AAPL -1.79%) posted a weaker-than-expected earnings report on Feb. 2, which it largely attributed to supply chain disruptions for the iPhone 14 and its sluggish sales of Macs and Apple Watches.… [+4803 chars]"
+        },
+        {
+            "id": 46,
+            "author": "Sean Williams",
+            "title": "2 FAANG Stocks That Can Double Your Money by 2027",
+            "description": "Among Meta Platforms (formerly Facebook), Amazon, Apple, Netflix, and Alphabet (formerly Google), there are two inexpensive stocks primed to deliver triple-digit returns by 2027.",
+            "url": "https://www.fool.com/investing/2023/02/07/2-faang-stocks-that-can-double-your-money-by-2027/",
+            "urlToImage": "https://g.foolcdn.com/editorial/images/719531/ascending-bar-chart-line-invest-financial-newspaper-stock-market-quote-rally-bull-getty.jpg",
+            "publishedAt": "2023-02-07T10:21:00Z",
+            "content": "Over multiple decades, Wall Street is a bona fide wealth creator. But as last year demonstrated, the stock market is completely unpredictable on a year-to-year basis.\r\nWhen the going gets tough on Wa… [+7666 chars]"
+        },
+        {
+            "id": 47,
+            "author": "newsfeedback@fool.com (Leo Sun)",
+            "title": "7 Red Flags for Apple's Future",
+            "description": "The tech giant's latest earnings report didn't impress investors.",
+            "url": "https://www.fool.com/investing/2023/02/07/7-red-flags-for-apple-future/",
+            "urlToImage": "https://g.foolcdn.com/editorial/images/719438/apple-store-fifth-avenue-new-york.jpg",
+            "publishedAt": "2023-02-07T11:05:00Z",
+            "content": "Apple(AAPL -1.79%) posted its latest earnings report on Feb. 2. For the first quarter of fiscal 2023, which ended on Dec. 31, the tech giant's revenue fell 5% year over year to $117.15 billion and mi… [+5168 chars]"
+        },
+        {
+            "id": 48,
+            "author": "newsfeedback@fool.com (Leo Sun)",
+            "title": "Where Will Qualcomm Stock Be In 1 Year?",
+            "description": "The mobile chipmaker is in the middle of a tough cyclical slowdown.",
+            "url": "https://www.fool.com/investing/2023/02/07/where-will-qualcomm-stock-be-in-1-year/",
+            "urlToImage": "https://g.foolcdn.com/editorial/images/719435/chip-circuit-lights.jpg",
+            "publishedAt": "2023-02-07T12:28:00Z",
+            "content": "Qualcomm(QCOM -1.55%) posted its latest earnings report on Feb. 2. In the first quarter of fiscal 2023, which ended on Dec. 25, the chipmaker's adjusted revenue dropped 12% year over year to $9.46 bi… [+4480 chars]"
+        },
+        {
+            "id": 49,
+            "author": "newsfeedback@fool.com (Nicholas Rossolillo and Jason Hall)",
+            "title": "Is Texas Instruments Stock a Better Buy Than Taiwan Semiconductor Manufacturing?",
+            "description": "It would be hard to go wrong with either of these world-class manufacturing companies, but does one have better competitive advantages?",
+            "url": "https://www.fool.com/investing/2023/02/07/is-texas-instruments-stock-a-better-buy-than-taiwa/",
+            "urlToImage": "https://g.foolcdn.com/editorial/images/719197/semiconductors-design-chips-ai.jpg",
+            "publishedAt": "2023-02-07T11:11:00Z",
+            "content": "Texas Instruments (TXN -0.71%) and Taiwan Semiconductor Manufacturing (TSM -2.99%) are two of the most important companies in the world, and their importance is only rising. They are also incredibly … [+5370 chars]"
+        },
+        {
+            "id": 50,
+            "author": "newsfeedback@fool.com (Timothy Green)",
+            "title": "Peloton's \"Epic Comeback\" Comes With Major Caveats",
+            "description": "Free cash flow, adjusting for a bunch of stuff, has temporarily turned positive.",
+            "url": "https://www.fool.com/investing/2023/02/07/pelotons-epic-comeback-comes-with-major-caveats/",
+            "urlToImage": "https://g.foolcdn.com/editorial/images/719631/familyroom_bike_wide.jpg",
+            "publishedAt": "2023-02-07T12:10:00Z",
+            "content": "Nine months ago, connected fitness company Peloton(PTON -3.01%) was burning through cash at an alarming rate. In the third quarter of fiscal 2022, Peloton reported a free-cash-flow loss of nearly $75… [+4284 chars]"
+        },
+        {
+            "id": 51,
+            "author": "newsfeedback@fool.com (Jeremy Bowman)",
+            "title": "3 Stocks That Are Great Long-Term Picks",
+            "description": "These stocks have the right mix of long-term growth opportunities and competitive advantages.",
+            "url": "https://www.fool.com/investing/2023/02/07/3-stocks-that-are-great-long-term-picks/",
+            "urlToImage": "https://g.foolcdn.com/editorial/images/719434/stock-market-chart.jpg",
+            "publishedAt": "2023-02-07T10:04:00Z",
+            "content": "If you want an easy way to win in the stock market, long-term investing is the way to go.\r\nHolding stocks over the long term removes the risk of volatility and allows compounding to work for you. Lon… [+4267 chars]"
+        },
+        {
+            "id": 52,
+            "author": "newsfeedback@fool.com (Chris Hill)",
+            "title": "Younger Customers Are Driving American Express' Results",
+            "description": "And we chat about the topic of the day: ChatGPT.",
+            "url": "https://www.fool.com/investing/2023/02/06/younger-customers-are-driving-american-express-res/",
+            "urlToImage": "https://g.foolcdn.com/editorial/images/718870/mfm_20230130.jpg",
+            "publishedAt": "2023-02-07T01:13:00Z",
+            "content": "In this podcast, Motley Fool senior analyst Jason Moser discusses:\r\n<ul><li>Shares of AmEx popping 15% in two days off of strong guidance for 2023.</li><li>How younger customers are the majority of t… [+21023 chars]"
+        },
+        {
+            "id": 53,
+            "author": "JuanMi Guirado",
+            "title": "La mejor pulsera inteligente marca un precio más que asequible, 49 euros",
+            "description": "En el terreno de las pulseras inteligentes siempre ha habido un rey indiscutible, Xiaomi. Sin embargo, el fabricante HUAWEI se propuso hace pocos años arrebatarle el trono en este sentido. Entre fabricantes chinos anda el juego, y HUAWEI lanzó recientemente s…",
+            "url": "https://andro4all.com/ofertas/la-mejor-pulsera-inteligente-marca-un-precio-mas-que-asequible-49-euros",
+            "urlToImage": "https://andro4all.com/hero/2023/02/huawei-band-7-verde.jpg?width=1200",
+            "publishedAt": "2023-02-07T09:30:52Z",
+            "content": "La pulsera de HUAWEI es una de las mejores versiones de lo que debería ser una smartband de categoría.\r\nEn el terreno de las pulseras inteligentes siempre ha habido un rey indiscutible, Xiaomi. Sin e… [+3467 chars]"
+        },
+        {
+            "id": 54,
+            "author": "Damián García",
+            "title": "Estos 15 móviles de Samsung podrán usar la mejor AR de Google",
+            "description": "Hace ya varios años que Google cerraba Project Tango para centrar mejor sus esfuerzos, iniciando el despegue de lo que hoy conocemos como ARCore, una plataforma mucho más madura y destinada a crear experiencias de realidad aumentada de más calidad, que además…",
+            "url": "https://andro4all.com/samsung/estos-15-moviles-de-samsung-podran-usar-la-mejor-ar-de-google",
+            "urlToImage": "https://andro4all.com/hero/2019/03/Emojis-3D-del-Samsung-Galaxy-S10.jpg?width=1200",
+            "publishedAt": "2023-02-07T00:01:44Z",
+            "content": "La realidad aumentada de Google ya está disponible en más dispositivos Samsung Galaxy.\r\nHace ya varios años que Google cerraba Project Tango para centrar mejor sus esfuerzos, iniciando el despegue de… [+2914 chars]"
+        },
+        {
+            "id": 55,
+            "author": "Jade Bryan",
+            "title": "Umgekehrtes kabelloses Laden: Warum ist es noch nicht bei den Apple iPhones angekommen?",
+            "description": "Apple könnte ein fortschrittlicheres kabelloses Aufladen in umgekehrter oder bidirektionaler Richtung mit iPhones oder iPads einführen.(Dies ist ein Teaser - klick hier, um den kompletten Beitrag zu lesen)",
+            "url": "https://www.nextpit.de/umgekehrtes-kabelloses-laden-bei-apple",
+            "urlToImage": "https://fscl01.fonpit.de/userfiles/7687254/image/iPhone_12_Pro/NextPit_iPhone_12_Pro_magsafe_magnet.jpg",
+            "publishedAt": "2023-02-07T12:30:00Z",
+            "content": "Qi ermöglicht seit einigen Jahren das umgekehrte, beziehungsweise bidirektionale kabellose Laden in vielen Android-Smartphones, während diese Funktion in den Apple-Geräten nach wie vor nicht vorhande… [+1694 chars]"
+        },
+        {
+            "id": 56,
+            "author": null,
+            "title": "Microsoft AuthenticatorがApple Watchのサポートを終了",
+            "description": "Microsoftは、「Microsoft Authenticator」のApple Watch向けコンパニオンアプリのサポートを終了した。6日付けで最新版「6.7.3」を提供開始したが、本アップデートによりApple WatchからMicrosoft Authenticatorが削除される。",
+            "url": "https://pc.watch.impress.co.jp/docs/news/1476499.html",
+            "urlToImage": "https://pc.watch.impress.co.jp/img/pcw/list/1476/499/01.jpg",
+            "publishedAt": "2023-02-07T03:18:05Z",
+            "content": "MicrosoftMicrosoft AuthenticatorApple Watch66.7.3Apple WatchMicrosoft Authenticator \r\n 2022Apple Watch \r\n Microsoft AuthenticatorMicrosoftApple Watch"
+        },
+        {
+            "id": 57,
+            "author": "anthonypauldalessandro",
+            "title": "M. Night Shyamalan Departs WME",
+            "description": "EXCLUSIVE: Deadline has learned that two-time Oscar-nominated filmmaker M. Night Shyamalan has exited WME, the agency he’s been at since 2011. The director recently had his seventh No. 1 opening at the box office this past weekend with Universal’s Knock at th…",
+            "url": "https://deadline.com/2023/02/m-night-shyamalan-leaves-wme-hollywood-agency-1235251680/",
+            "urlToImage": "https://deadline.com/wp-content/uploads/2023/02/GettyImages-1459415914.jpg?w=1024",
+            "publishedAt": "2023-02-07T02:00:51Z",
+            "content": "EXCLUSIVE: Deadline has learned that two-time Oscar-nominated filmmaker M. Night Shyamalan has exited WME, the agency he’s been at since 2011. The director recently had his seventh No. 1 opening at t… [+1302 chars]"
+        },
+        {
+            "id": 58,
+            "author": "Luca Rocchi",
+            "title": "Android Auto e CarPlay diventano Wireless con questi piccoli box in sconto",
+            "description": "Viaggiare in auto con Android Auto o Apple CarPlay senza fili non è mai stato così facile: su Amazon due pratici accessori in sconto.",
+            "url": "https://www.tomshw.it/automotive/android-auto-e-carplay-diventano-wireless-con-questo-piccolo-box-in-sconto/",
+            "urlToImage": "https://www.tomshw.it/images/images/2023/01/carlinkit-4-0-prodotto-262724.jpg",
+            "publishedAt": "2023-02-07T10:00:22Z",
+            "content": "Tecnologia a bordo Android Auto e CarPlay diventano Wireless con questi piccoli box in sconto\r\nTom's Hardware vive grazie al suo pubblico. Quando compri qualcosa dai nostri link, potremmo guadagnare … [+2385 chars]"
+        },
+        {
+            "id": 59,
+            "author": "Dario Orlandi",
+            "title": "Il futuro dell’IT: previsioni per il 2023 e oltre",
+            "description": "Canalys ha pubblicato un ricco documento in cui analizza le tendenze globali dell’ultimo anno e le prospettive a partire dal 2023.",
+            "url": "https://www.tomshw.it/business/il-futuro-dellit-previsioni-per-il-2023-e-oltre/",
+            "urlToImage": "https://www.tomshw.it/images/images/2023/02/report-canalys-2023-266587.jpg",
+            "publishedAt": "2023-02-07T10:57:23Z",
+            "content": "Scenario Il futuro dellIT: previsioni per il 2023 e oltre\r\nTom's Hardware vive grazie al suo pubblico. Quando compri qualcosa dai nostri link, potremmo guadagnare una commissione. Scopri di più\r\nScen… [+10065 chars]"
+        },
+        {
+            "id": 60,
+            "author": "テクノロジー記事班",
+            "title": "大卒〝初任給〟超え価格の「iPhone Ultra」どんなデザインになる？",
+            "description": "登場が噂されている「iPhone Ultra」モデルの予測CGを、3Dデザイナーのヨナス・ダエナート氏(@PhoneDesigner)が公開しています。 *Category:テクノロジー Technology *Sour […]",
+            "url": "https://www.appbank.net/2023/02/07/technology/2394741.php",
+            "urlToImage": "https://www.appbank.net/wp-content/uploads/2023/02/2023-0207-iPhone-Ultra-thumb-1.jpeg",
+            "publishedAt": "2023-02-07T09:48:16Z",
+            "content": "iPhone UltraCG3D(@PhoneDesigner)\r\n*Category:\r\n Technology *Source9to5Mac ,@PhoneDesigner\r\nAppleUltraApple Watch UltraiPhone UltraCG\r\n⚪️🟠 pic.twitter.com/7vRuVU1lDy\r\n— Jonas Daehnert (@PhoneDesigner)… [+152 chars]"
+        },
+        {
+            "id": 61,
+            "author": "Tahira Noor Khan",
+            "title": "As mass layoffs shake up the tech sector, some steps to economically and emotionally weather such trying times",
+            "description": "“Layoffs happen when an employee cannot afford to keep the labour, i.e labour cost is more than the profit it is earning -- this is the economic reasoning behind it,” explained Benhur Ruqsana, a doctoral research fellow specialising in Economics at the Jawaha…",
+            "url": "https://indianexpress.com/article/lifestyle/health/mass-layoffs-shake-up-it-professionals-some-steps-to-economically-and-emotionally-weather-layoff-8411523/",
+            "urlToImage": "https://images.indianexpress.com/2023/01/mass-layoff-in-tech-giants.png",
+            "publishedAt": "2023-02-07T07:50:12Z",
+            "content": "Two years ago, Arjita Singh, currently working as an SAP Consultant at Deloitte, in Cincinnati, Ohio landed in the United States of America to do her Master’s in Information Systems, after which she … [+7090 chars]"
+        },
+        {
+            "id": 62,
+            "author": "Jens",
+            "title": "Chrome für iOS: Google arbeitet an Chrome-Browser mit Blink-Engine – spekuliert wohl auf Apple-Lockerung",
+            "description": "Google Chrome muss unter iOS die von Apple vorgeschriebene Browser-Engine verwenden. Dennoch entwickelt man nun eine Alternative und hofft wohl auf einen baldigen Einsatz.Chrome für iOS: Google arbeitet an Chrome-Browser mit Blink-Engine – spekuliert wohl auf…",
+            "url": "https://www.googlewatchblog.de/2023/02/chrome-ios-google-browser/",
+            "urlToImage": "https://www.googlewatchblog.de/wp-content/uploads/Google-Chrome-Logo-AI.jpg",
+            "publishedAt": "2023-02-07T11:04:27Z",
+            "content": "Der Browser Google Chrome steht für alle wichtigen Betriebssysteme zur Verfügung und kann natürlich auch unter iOS auf dem iPhone oder iPad genutzt werden – allerdings unter etwas anderen Voraussetzu… [+1774 chars]"
+        },
+        {
+            "id": 63,
+            "author": "Liesbeth den Toom",
+            "title": "Unbanx lets people monetize their data instead of just giving it away",
+            "description": "By linking the Unbanx app to their bank accounts via open banking, consumers can receive compensation for their valuable (and anonymized) purchasing data.",
+            "url": "https://www.trendwatching.com/innovation-of-the-day/unbanx-lets-people-monetize-their-data-instead-of-just-giving-it-away",
+            "urlToImage": "https://www.trendwatching.com/hubfs/unbanx.png#keepProtocol",
+            "publishedAt": "2023-02-07T10:51:45Z",
+            "content": "Whether they like it or not, consumers have grown accustomed to websites and social media collecting their data. What they may not have realized is that banks are doing the same, selling personal pur… [+811 chars]"
+        },
+        {
+            "id": 64,
+            "author": "Felix Müschen",
+            "title": "Warum viele Haushunde nicht mehr wie Wölfe heulen",
+            "description": "Viele Vierbeiner können nicht mehr wie ihre engen Verwandten, die Wölfe, heulen. Forscher haben nun herausgefunden, woran das liegt – und warum so viele Rassen inzwischen aufs Bellen ausweichen.",
+            "url": "https://www.welt.de/wissenschaft/article243636957/Warum-viele-Haushunde-nicht-mehr-wie-Woelfe-heulen.html",
+            "urlToImage": "https://img.welt.de/img/wissenschaft/mobile243636955/2221358597-ci16x9-w1200/Splish-Splash.jpg",
+            "publishedAt": "2023-02-07T08:03:29Z",
+            "content": "Haushunde verlernen durch die Nähe zum Menschen das von Wölfen bekannte Heulen. Das haben Verhaltensforscher um die Erstautorin Fanni Lehoczki von der Eötvös-Lorand-Universität in Budapest anhand von… [+2107 chars]"
+        },
+        {
+            "id": 65,
+            "author": "WELT",
+            "title": "Die Ankündigung des eigenen Todes",
+            "description": "Thijs Slegers kämpfte gegen die Leukämie, es gab Hoffnung, doch jetzt muss er aufgeben. Der Pressesprecher des PSV Eindhoven macht öffentlich, dass er dem Tod entgegenblickt. Er verliert dabei nicht seinen Humor und hat eine wichtige Botschaft.",
+            "url": "https://www.welt.de/sport/fussball/article243637473/PSV-Eindhoven-Pressesprecher-Thijs-Slegers-kuendigt-eigenen-Tod-an.html",
+            "urlToImage": "https://img.welt.de/img/sport/mobile243637621/8001354547-ci16x9-w1200/Portretten-directie-PSV.jpg",
+            "publishedAt": "2023-02-07T10:14:12Z",
+            "content": "Bei der Ankündigung seines Todes geht Thijs Slegers irgendwann dazu über, dass man ihm doch bitte Tipps für gute TV-Serien etcetera zukommen lassen möge. Er müsse die Zeit sowieso vertreiben.\r\nSleger… [+2059 chars]"
+        },
+        {
+            "id": 66,
+            "author": "Maurice Arndt",
+            "title": "In der Arktis sammelt sich der Müll aus aller Welt",
+            "description": "Unberührte Landschaften – das gibt es in Zeiten zunehmender Umweltverschmutzung weltweit nirgends mehr. In der Arktis haben Touristen bei Landausflügen Müll gesammelt. Woher stammt der Abfall?",
+            "url": "https://www.welt.de/wissenschaft/article243638971/Wie-sich-in-der-Arktis-der-Muell-aus-der-ganzen-Welt-sammelt.html",
+            "urlToImage": "https://img.welt.de/img/wissenschaft/mobile243638969/4411353757-ci16x9-w1200/Eisbaer-Ursus-maritimus-polar-bear.jpg",
+            "publishedAt": "2023-02-07T10:19:17Z",
+            "content": "In der Arktis findet sich einer Studie zufolge Müll aus aller Welt. Auch aus Deutschland gelange Plastik und anderer Abfall in das nördliche Polarmeer, teilte das Alfred-Wegener-Institut (AWI) in Bre… [+2573 chars]"
+        },
+        {
+            "id": 67,
+            "author": "WELT",
+            "title": "Habeck rechnet im Subventionsstreit mit US-Zugeständnissen",
+            "description": "Bundeswirtschaftsminister Habeck hat Hoffnungen auf eine weitere Annäherung im Streit über US-Subventionen für grüne Technologien geäußert. Eine grundlegende Neuverhandlung des 370 Milliarden Dollar schweren US-Subventionspakets sei aber nicht mehr möglich.",
+            "url": "https://www.welt.de/politik/deutschland/article243634999/Robert-Habeck-hofft-auf-Annaeherung-in-Streit-um-US-Subventionen.html",
+            "urlToImage": "https://img.welt.de/img/politik/deutschland/mobile243635001/2731355387-ci16x9-w1200/Germany-s-Economy-Minister-Robert-Habeck-speaks-to-the-media-in-W.jpg",
+            "publishedAt": "2023-02-07T07:52:00Z",
+            "content": "Bundeswirtschaftsminister Robert Habeck rechnet beim umstrittenen US-Subventionspaket zur Förderung klimafreundlicher Technologien zumindest in Teilen mit Zugeständnissen der Amerikaner. In bestimmte… [+2723 chars]"
+        },
+        {
+            "id": 68,
+            "author": "Laurin Meyer",
+            "title": "Bidens riskantes Spiel mit den milliardenschweren Klima-Subventionen",
+            "description": "Der Inflation Reduction Act ist eine Kampfansage des US-Präsidenten an Europa im Rennen um grüne Technologien. Und er zeigt Erfolg: Firmen wie Tesla und Northvolt überdenken ihre Investitionen in Deutschland. Aber das Paket ist für die USA längst selbst zum R…",
+            "url": "https://www.welt.de/wirtschaft/article243633551/Inflation-Reduction-Act-Bidens-riskantes-Spiel-mit-den-Subventionen.html",
+            "urlToImage": "https://img.welt.de/img/wirtschaft/mobile243634045/9891351847-ci16x9-w1200/Biden.jpg",
+            "publishedAt": "2023-02-07T06:46:14Z",
+            "content": "Es ist ein Wettlauf gegen die Zeit, dem sich Robert Habeck in Washington stellen muss. Gemeinsam mit seinem französischen Amtskollegen Bruno Le Maire will der Bundeswirtschaftsminister bei seiner zwe… [+5696 chars]"
+        },
+        {
+            "id": 69,
+            "author": "Fabian Hoberg",
+            "title": "Regeln bei der Akku-Garantie – So umgehen Sie die Fallstricke der E-Auto-Hersteller",
+            "description": "Der Akku zählt zu teuersten Bauteilen im E-Auto. Hersteller geben sich bei ihren Garantieversprechen spendabel. Doch gegen deren Bedingungen kann man im Alltag schnell verstoßen. Vor allem beim Laden drohen bei der Gewährleistung zahlreiche Fallen.",
+            "url": "https://www.welt.de/wirtschaft/webwelt/article243520601/E-Auto-Regeln-bei-der-Akku-Garantie-So-umgehen-Sie-die-Fallstricke-der-Hersteller.html",
+            "urlToImage": "https://img.welt.de/img/bildergalerien/mobile243520595/3331352257-ci16x9-w1200/Geladene-Regelwerke-Fallstricke-bei-der-Akku-Garantie.jpg",
+            "publishedAt": "2023-02-07T09:50:00Z",
+            "content": "Acht Jahre oder 160.000 gefahrene Kilometer: Es gibt kaum ein Herstellerversprechen, das länger gelten soll, als die Garantie beim Antriebs-Akku von Elektroautos. Aber wird das Versprechen auch einge… [+5334 chars]"
+        },
+        {
+            "id": 70,
+            "author": "WELT",
+            "title": "Zahl der Toten steigt auf mehr als 4800 – Mutmaßliche IS-Kämpfer fliehen aus Gefängnis",
+            "description": "Bei den Erdbeben in der Türkei und Syrien sind mehr als 4800 Menschen ums Leben gekommen. Die Insassen eines syrischen Gefängnisses nutzten das Chaos für eine Meuterei. 20 mutmaßliche IS-Kämpfer sollen aus der Haft entkommen sein.",
+            "url": "https://www.welt.de/vermischtes/article243635377/Erdbeben-in-Tuerkei-und-Syrien-Mutmassliche-IS-Kaempfer-geflohen-Ueber-4800-Tote.html",
+            "urlToImage": "https://img.welt.de/img/vermischtes/mobile243635379/6241359887-ci16x9-w1200/Erdbebenkatastrophe-in-der-Tuerkei-und-Syrien.jpg",
+            "publishedAt": "2023-02-07T06:33:00Z",
+            "content": "Nach dem schweren Erdbeben im türkisch-syrischen Grenzgebiet sind bei einer Gefängnismeuterei in Syrien 20 mutmaßliche Kämpfer der Terrororganisation Islamischer Staat (IS) entkommen. Dies erfuhr die… [+7520 chars]"
+        },
+        {
+            "id": 71,
+            "author": "WELT",
+            "title": "THW unterwegs mit 16 Tonnen Ausstattung – Großbrand in türkischem Hafen",
+            "description": "Bei den Erdbeben in der Türkei und Syrien sind mehr als 5000 Menschen ums Leben gekommen. Im Hafen von Iskenderun ist unterdessen ein Feuer ausgebrochen. Das deutsche THW ist auf dem Weg, um die Rettungsarbeiten im Krisengebiet zu unterstützen.",
+            "url": "https://www.welt.de/vermischtes/article243635377/Erdbeben-in-Tuerkei-und-Syrien-Mehr-als-5000-Tote-THW-unterwegs-mit-16-Tonnen-Ausstattung.html",
+            "urlToImage": "https://img.welt.de/img/vermischtes/mobile243638641/0941350157-ci16x9-w1200/Erdbebenkatastrophe-in-Tuerkei-und-Syrien.jpg",
+            "publishedAt": "2023-02-07T11:30:00Z",
+            "content": "Nach den schweren Erdbeben im türkisch-syrischen Grenzgebiet sind 51 Helfer des Technischen Hilfswerks (THW) aus Hessen, Rheinland-Pfalz und dem Saarland unterwegs. Mit 16 Tonnen Ausstattung sowie vi… [+8076 chars]"
+        },
+        {
+            "id": 72,
+            "author": "WELT",
+            "title": "Zahl der Toten steigt auf mehr als 4200 – Mutmaßliche IS-Kämpfer fliehen aus Gefängnis",
+            "description": "Bei den Erdbeben in der Türkei und Syrien sind mehr als 4200 Menschen ums Leben gekommen. Die Insassen eines syrischen Gefängnisses nutzten das Chaos für eine Meuterei. 20 mutmaßliche IS-Kämpfer sollen aus der Haft entkommen sein.",
+            "url": "https://www.welt.de/vermischtes/article243635377/Erdbeben-in-Tuerkei-und-Syrien-Mutmassliche-IS-Kaempfer-geflohen.html",
+            "urlToImage": "https://img.welt.de/img/vermischtes/mobile243635379/6241359887-ci16x9-w1200/Erdbebenkatastrophe-in-der-Tuerkei-und-Syrien.jpg",
+            "publishedAt": "2023-02-07T03:15:55Z",
+            "content": "Nach dem schweren Erdbeben im türkisch-syrischen Grenzgebiet sind bei einer Gefängnismeuterei in Syrien 20 mutmaßliche Kämpfer der Terrororganisation Islamischer Staat (IS) entkommen. Dies erfuhr die… [+9386 chars]"
+        },
+        {
+            "id": 73,
+            "author": "Thomas Heuzeroth",
+            "title": "Ein nationales Netz? Deutschlands sinnloser doppelter Glasfaser-Ausbau",
+            "description": "Bis 2030 soll jeder Haushalt in Reichweite eines Glasfasernetzes sein. Doch während in vielen Gebieten der Netzausbau nicht vorangeht, werden woanders gleich doppelte Leitungen verlegt. Hinter der scheinbaren Fehlplanung steckt Methode.",
+            "url": "https://www.welt.de/wirtschaft/article243597351/Schnelles-Internet-Deutschlands-sinnloser-doppelter-Glasfaser-Ausbau.html",
+            "urlToImage": "https://img.welt.de/img/wirtschaft/mobile243636851/0151359497-ci16x9-w1200/Glasfaserausbau-mittels-Nano-Trenching.jpg",
+            "publishedAt": "2023-02-07T08:06:48Z",
+            "content": "Erscheint die Stadt Augsburg im Südwesten Bayerns als zu hektisch, so wohnt man besser in Gablingen, einer beschaulichen Gemeinde wenige Kilometer entfernt, umgeben von Feldern und Wiesen. Doch schon… [+8989 chars]"
+        },
+        {
+            "id": 74,
+            "author": "WELT",
+            "title": "Zahl der Toten steigt auf mehr als 4900 – Mutmaßliche IS-Kämpfer fliehen aus Gefängnis",
+            "description": "Bei den Erdbeben in der Türkei und Syrien sind mehr als 4900 Menschen ums Leben gekommen. Die Insassen eines syrischen Gefängnisses nutzten das Chaos für eine Meuterei. 20 mutmaßliche IS-Kämpfer sollen aus der Haft entkommen sein.",
+            "url": "https://www.welt.de/vermischtes/article243635377/Erdbeben-in-Tuerkei-und-Syrien-Mutmassliche-IS-Kaempfer-geflohen-Mehr-als-4900-Tote.html",
+            "urlToImage": "https://img.welt.de/img/vermischtes/mobile243635379/6241359887-ci16x9-w1200/Erdbebenkatastrophe-in-der-Tuerkei-und-Syrien.jpg",
+            "publishedAt": "2023-02-07T06:33:00Z",
+            "content": "Nach dem schweren Erdbeben im türkisch-syrischen Grenzgebiet sind bei einer Gefängnismeuterei in Syrien 20 mutmaßliche Kämpfer der Terrororganisation Islamischer Staat (IS) entkommen. Dies erfuhr die… [+7385 chars]"
+        },
+        {
+            "id": 75,
+            "author": "WELT",
+            "title": "Wagner-Chef fordert Selenskyj heraus – „Wenn Sie den Willen haben, treffen wir uns am Himmel“",
+            "description": "Wagner-Chef Prigoschin hat den ukrainischen Präsidenten Selenskyj zu einem Kampf am Himmel über Bachmut aufgefordert. Sollte er gewinnen, würde die Ukraine die Stadt zurückbekommen – andernfalls rücke Russland zum Fluss Dnipro vor. Mehr im Liveticker vom 6. F…",
+            "url": "https://www.welt.de/politik/ausland/article243617757/Wagner-Chef-fordert-Selenskyj-zu-einem-Kampf-am-Himmel-ueber-Bachmut-auf.html",
+            "urlToImage": "https://img.welt.de/img/politik/ausland/mobile242008317/6641353267-ci16x9-w1200/Jewgeni-Pigoschin-2.jpg",
+            "publishedAt": "2023-02-07T08:33:00Z",
+            "content": "Der Chef der russischen Söldnergruppe Wagner, Jewgeni Prigoschin, ist eigenen Angaben zufolge in einem Kampfflugzeug gewesen, das die ukrainische Stadt Bachmut angegriffen hat. Wir sind gelandet, wir… [+30420 chars]"
+        },
+        {
+            "id": 76,
+            "author": "Von FOCUS-online-Experte Robert Halver",
+            "title": "Die Markteinschätzung von Robert Halver - Die EZB bleibt hart, die Fed wird weicher - was das für Ihre Aktien bedeutet",
+            "description": "Während die US-Zinshüter bereits sanftere Töne anschlagen, bleibt die EZB in ihrer Inflationsbekämpfungs-Rhetorik überraschend hart. Dennoch stehen die Chancen gut, dass sich Anleger nicht mehr lange gedulden müssen, ehe der Gipfel der Zinserhöhungen erreicht…",
+            "url": "https://www.focus.de/finanzen/boerse/aktien/die-markteinschaetzung-von-robert-halver-wie-viel-gefahr-geht-von-fed-und-ezb-noch-fuer-die-aktienmaerkte-aus_id_184817044.html",
+            "urlToImage": "https://p6.focus.de/img/finanzen/news/id_107990569/ein-boersenhaendler-an-der-wall-street..jpg?im=Crop%3D%280%2C170%2C2048%2C1024%29%3BResize%3D%281200%2C627%29&impolicy=perceptual&quality=medium&hash=bffec805239ba01849171d336df480f7091d768d72211e190458b67be7fe7bfe",
+            "publishedAt": "2023-02-07T06:17:30Z",
+            "content": "Während die US-Zinshüter bereits sanftere Töne anschlagen, bleibt die EZB in ihrer Inflationsbekämpfungs-Rhetorik überraschend hart. Dennoch stehen die Chancen gut, dass sich Anleger nicht mehr lange… [+10428 chars]"
+        },
+        {
+            "id": 77,
+            "author": "repubblicawww@repubblica.it (Redazione Repubblica.it)",
+            "title": "Blanco e Mahmood tornano a Sanremo: la reunion è da 'brividi'",
+            "description": "I due cantanti, vincitori della scorsa edizione, sono i superospiti della prima serata",
+            "url": "https://www.repubblica.it/spettacoli/musica/2023/02/07/news/blanco_e_mahmood_ospiti_sanremo_2023-385206286/",
+            "urlToImage": "https://www.repstatic.it/content/nazionale/img/2023/01/26/170440584-018295a0-56c6-4805-9ee7-25c7def22cdd.jpg",
+            "publishedAt": "2023-02-07T09:07:12Z",
+            "content": "Mahmood e Blancotorneranno insieme sul palco dellAriston, a un anno dalla loro vittoria al Festival. Sono i primi superospiti della prima serata di Sanremo 2023,  martedì 7. La tradizione è rispettat… [+301 chars]"
+        },
+        {
+            "id": 78,
+            "author": "中央社",
+            "title": "Apple 四度蟬聯半導體最大買家寶座、鴻海去年第 10",
+            "description": "顧能指出，全球通膨和經濟衰退壓力大幅削弱去年個人電腦及智慧手機需求，進而影響設備製造廠的生產和出貨量。",
+            "url": "https://www.inside.com.tw/article/30652-semiconductor-Apple-Foxconn",
+            "urlToImage": "https://bucket-img.tnlmedia.com/cabinet/2023/02/f85f195e-e235-43fc-9c3c-2ca70835211f.jpg?auto=compress&fit=crop&h=630&w=1200",
+            "publishedAt": "2023-02-07T06:29:00Z",
+            "content": "INSIDE \r\nGartnerApple 670.56 4 75.31 10 \r\n 10 7.6%\r\n 11.7% 670.56 2.6% 4 \r\nSamsung 2.2% 460.65 2 \r\nLenovo 210.31 3 Dell 183.04 4 180.82 5 146.02 6 120.75 7\r\nHP 112.91 8 Sony 79.75 16.5% 9 75.31 6.2% … [+23 chars]"
+        },
+        {
+            "id": 79,
+            "author": "Abhrajyoti Chakraborty",
+            "title": "This Other Eden by Paul Harding review – a novel that impresses time and again",
+            "description": "In Harding’s new book – a tale of racism on an isolated island off the coast of Maine – the Pulitzer prize-winning author’s gifts have found their fullest expressionHalfway through Paul Harding’s new novel, This Other Eden, a reporter, a photographer, two doc…",
+            "url": "https://www.theguardian.com/books/2023/feb/07/this-other-eden-by-paul-harding-review-a-novel-that-impresses-time-and-again",
+            "urlToImage": "https://i.guim.co.uk/img/media/8b2840240cbec06a16a6dddb7cd9afd3459941b1/0_242_1024_614/master/1024.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdG8tZGVmYXVsdC5wbmc&enable=upscale&s=3ccc2759d2ce6e39245312485b6bbcc9",
+            "publishedAt": "2023-02-07T07:00:15Z",
+            "content": "Halfway through Paul Hardings new novel, This Other Eden, a reporter, a photographer, two doctors and three local councillors visit an isolated island somewhere along the coast of Maine. They have tr… [+5283 chars]"
+        },
+        {
+            "id": 80,
+            "author": "Barbara Barkhausen",
+            "title": "Googles Antwort auf ChatGPT heißt Bard A.I.",
+            "description": "Neben dem Chatbot soll es auch neue KI-Funktionen in der Google-Suche geben. Außerdem: Twitter hat bisher nur wenige Abonnements verkauft und Dell entlässt 6600 Mitarbeiter.",
+            "url": "https://www.businessinsider.de/gruenderszene/business/googles-antwort-auf-chatgpt-heisst-bardai/",
+            "urlToImage": "https://cdn.businessinsider.de/wp-content/uploads/2023/02/GettyImages-1421479579.jpg?ver=1675732203",
+            "publishedAt": "2023-02-07T04:55:00Z",
+            "content": "Neben dem Chatbot soll es auch neue KI-Funktionen in der Google-Suche geben. Außerdem: Twitter hat bisher nur wenige Abonnements verkauft und Dell entlässt 6600 Mitarbeiter.\r\nGuten Morgen! Während ih… [+4937 chars]"
+        },
+        {
+            "id": 81,
+            "author": "Australian Associated Press",
+            "title": "Sydney man jailed for lying about ‘Sudanese males’ after fatal bashing of a teenager",
+            "description": "Harley Shaun Bartolo had initially lied to police investigating the 2021 death of 16-year-old Jason Galleghan<ul><li>Follow our Australia news live blog for the latest updates</li><li>Get our morning and afternoon news emails, free app or daily news podcast</…",
+            "url": "https://www.theguardian.com/australia-news/2023/feb/07/sydney-man-jailed-for-lying-about-sudanese-males-after-fatal-bashing-of-a-teenager",
+            "urlToImage": "https://i.guim.co.uk/img/media/d3f42476cde13e881d8943769ba511d2a8e4343a/210_86_1209_725/master/1209.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d8022fba2be9ff5f010004455df235d7",
+            "publishedAt": "2023-02-07T03:02:17Z",
+            "content": "A Sydney man could walk free from jail next month after lying to police that two Sudanese males and not a group of youths he knew had fatally bashed a 16-year-old in the citys west.\r\nHarley Shaun Bar… [+3189 chars]"
+        },
+        {
+            "id": 82,
+            "author": "David Bloom, Senior Contributor, \n David Bloom, Senior Contributor\n https://www.forbes.com/sites/dbloom/",
+            "title": "How The Super Bowl’s Music And Music-Backed Ads Are Likely To Change This Year",
+            "description": "Apple Music takes over the Super Bowl Halftime show, TikTok's growing role, likely new music genres with some of the big ads and other changes coming to the music side of the big game.",
+            "url": "https://www.forbes.com/sites/dbloom/2023/02/06/how-the-super-bowls-music-and-music-backed-ads-are-likely-to-change-this-year/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/63e191346f7ada6d1798690a/0x0.jpg?format=jpg&width=1200",
+            "publishedAt": "2023-02-07T00:01:00Z",
+            "content": "getty\r\nThis weekends Super Bowl will be the first with AppleAAPL\r\n Music as sponsor of the halftime extravaganza, only one way the music of the big game and its many big ads are likely to evolve this… [+5156 chars]"
+        },
+        {
+            "id": 83,
+            "author": "John Tamny, Contributor, \n John Tamny, Contributor\n https://www.forbes.com/sites/johntamny/",
+            "title": "The U.S. Political Class’s Attack on TikTok Is Much More Dangerous Than TikTok",
+            "description": "The surest sign that the social media giant is not an agent of the CCP has to do with how many Americans love it.",
+            "url": "https://www.forbes.com/sites/johntamny/2023/02/06/the-us-political-classs-attack-on-tiktok-is-much-more-dangerous-than-tiktok/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/62fe40baadccff017f1dbcbd/0x0.jpg?format=jpg&width=1200",
+            "publishedAt": "2023-02-07T00:00:56Z",
+            "content": "Is there such a thing as a private company in China? Im not sure there is. Those are the words of GOP Rep. Mike Gallagher, who is heading up a new House committee that the Wall Street Journal reports… [+5675 chars]"
+        },
+        {
+            "id": 84,
+            "author": "Erik Kain, Senior Contributor, \n Erik Kain, Senior Contributor\n https://www.forbes.com/sites/erikkain/",
+            "title": "Today’s Wordle #598 Hint, Clues And Answer For Tuesday, February 7th",
+            "description": "How to solve today's Wordle. Hints, clues and everything you need to get your guessing game on.",
+            "url": "https://www.forbes.com/sites/erikkain/2023/02/06/todays-wordle-598-hint-clues-and-answer-for-tuesday-february-7th/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/61fc47ae562777838a5b5b79/0x0.jpg?format=jpg&width=1200",
+            "publishedAt": "2023-02-07T03:30:00Z",
+            "content": "How to solve today's Wordle.\r\nPA Images via Getty Images\r\nAI is all the rage these days. Theres a whole arms race over the next phase of AI art and AI writing, with big companies like Google entering… [+4390 chars]"
+        },
+        {
+            "id": 85,
+            "author": "Vlad Rusz, Forbes Councils Member, \n Vlad Rusz, Forbes Councils Member\n https://www.forbes.com/sites/forbesfinancecouncil/people/vladrusz/",
+            "title": "Mileage Deduction Tips For Business Owners, Plus A Bonus Tax Strategy",
+            "description": "Many business owners don’t know how to properly track and deduct their automobiles on their tax returns.",
+            "url": "https://www.forbes.com/sites/forbesfinancecouncil/2023/02/07/mileage-deduction-tips-for-business-owners-plus-a-bonus-tax-strategy/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/63e104166b342b723cca0542/0x0.jpg?format=jpg&width=1200",
+            "publishedAt": "2023-02-07T12:30:00Z",
+            "content": "Vlad Rusz is a CPA at Centaur Digital Corp, helping busy business owners efficiently manage their accounting system. \r\ngetty\r\nBianca started her massage therapy business three years ago after getting… [+5410 chars]"
+        },
+        {
+            "id": 86,
+            "author": "Isabelle Kliger, Contributor, \n Isabelle Kliger, Contributor\n https://www.forbes.com/sites/isabellekliger/",
+            "title": "The Best Hotels In Barcelona For Food Lovers",
+            "description": "Book one of these hotels to make sure you never go to bed hungry in Barcelona.",
+            "url": "https://www.forbes.com/sites/isabellekliger/2023/02/07/the-best-hotels-in-barcelona-for-food-lovers/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/63e13849caf01e0ba0986910/0x0.jpg?format=jpg&width=1200",
+            "publishedAt": "2023-02-07T12:27:10Z",
+            "content": "When it comes to eating well, few cities in the world can compete with Barcelona. On your next vacation here, why not start by booking a hotel with some top-notch gourmet credentials?\r\nThe Roof at Th… [+7811 chars]"
+        },
+        {
+            "id": 87,
+            "author": null,
+            "title": "X.Org Server Hit By New Local Privilege Escalation Vulnerability",
+            "description": "The X.Org Server keeps on giving when it comes to security vulnerabilities with its massive, aging, and ill-maintained code-base. Disclosed on Monday night was CVE-2023-0494 as the latest security advisory and another discovery by the Trend Micro Zero Day Ini…",
+            "url": "https://www.phoronix.com/news/X.Org-Server-CVE-2023-0494",
+            "urlToImage": "https://www.phoronix.net/image.php?id=2023&image=xi_new_fix",
+            "publishedAt": "2023-02-07T05:00:00Z",
+            "content": "The X.Org Server keeps on giving when it comes to security vulnerabilities with its massive, aging, and ill-maintained code-base. Disclosed on Monday night was CVE-2023-0494 as the latest security ad… [+1321 chars]"
+        },
+        {
+            "id": 88,
+            "author": "staff@slashgear.com (Keyede Erinfolami)",
+            "title": "Today's Wordle Answer #598 – February 7, 2023 Solution And Hints",
+            "description": "If you&#039;re having trouble taking a bite out of today&#039;s Wordle, we have a few hints and the answer to help you keep your Wordle streak intact.",
+            "url": "https://www.slashgear.com/1189789/todays-wordle-answer-598-february-7-2023-solution-and-hints/",
+            "urlToImage": "https://www.slashgear.com/img/gallery/todays-wordle-answer-598-february-7-2023-solution-and-hints/l-intro-1675697800.jpg",
+            "publishedAt": "2023-02-07T05:01:00Z",
+            "content": "Still unsure? The word you seek is \"apple.\" An apple is a pome fruit that originated from Kazakhstan in central Asia. In fact, the capital of Kazakhstan, Alma Ata, means \"full of apples\" or \"father o… [+1393 chars]"
+        },
+        {
+            "id": 89,
+            "author": "staff@slashgear.com (Nadeem Sarwar)",
+            "title": "Ridley Scott's New Short-Film, Shot Entirely On The S23, Shows Off The Galaxy's Camera Capabilities",
+            "description": "The film shows the distinctive film-making style of Scott and the low-light tricks of the Galaxy S23 Ultra, which it hyped up during the launch event.",
+            "url": "https://www.slashgear.com/1190787/ridley-scotts-new-short-film-shot-entirely-on-the-s23-shows-off-the-galaxys-camera-capabilities/",
+            "urlToImage": "https://www.slashgear.com/img/gallery/ridley-scotts-new-short-film-shot-entirely-on-the-s23-shows-off-the-galaxys-camera-capabilities/l-intro-1675730314.jpg",
+            "publishedAt": "2023-02-07T00:47:38Z",
+            "content": "\"I think the idea is allegorical. It's a very simple, emotional piece of storytelling,\" Scott said about the film. According to AdWeek, it was shot in the Kalliste area of Marseille in France. \"Behol… [+1186 chars]"
+        },
+        {
+            "id": 90,
+            "author": "HDblog.it",
+            "title": "Apple, Microsoft e Google, AI al centro delle nuove sfide. Eventi al via",
+            "description": "Tre colossi, tre eventi.",
+            "url": "https://www.hdblog.it/google/articoli/n566093/apple-microsoft-google-ai-chatgpt-bing-novita/",
+            "urlToImage": "https://hd2.tudocdn.net/1080467?w=1920",
+            "publishedAt": "2023-02-07T07:14:00Z",
+            "content": "Apple, Google e Microsoft sembrano essere tutte focalizzate sull'intelligenza artificiale, l'annuncio di ChatGPT da parte di OpenAI ha sicuramente accelerato il processo di sviluppo della tecnologia … [+2318 chars]"
+        },
+        {
+            "id": 91,
+            "author": "HDblog.it",
+            "title": "Ricarica inversa su iPhone: nonostante i ritardi, Apple ci starebbe ancora lavorando",
+            "description": "Questa funzione da tempo è già presente sul diversi smartphone basati su Android",
+            "url": "https://www.hdblog.it/smartphone/articoli/n566094/apple-ricarica-inversa-iphone/",
+            "urlToImage": "https://hd2.tudocdn.net/1080464?w=1920",
+            "publishedAt": "2023-02-07T06:57:00Z",
+            "content": "Evanshion07 Feb 2023 @ 09:00 \r\nGli spaghetti alla carbonara trova le sue radici territoriali nella pasta \u0093cacio e ova\u0094 laziale, preparata sia dai pastori sia dai boscaioli che andavano in montagna a … [+1091 chars]"
+        },
+        {
+            "id": 92,
+            "author": "HDblog.it",
+            "title": "Safer Internet Day 2023, le iniziative in Italia e dei Big Tech",
+            "description": "Una selezione delle iniziative in Italia e non solo.",
+            "url": "https://www.hdblog.it/sicurezza/articoli/n566098/safer-internet-day-2023-cosa-significa-oggi-italia/",
+            "urlToImage": "https://hd2.tudocdn.net/1080547?w=1920",
+            "publishedAt": "2023-02-07T10:04:00Z",
+            "content": "Oggi è la 20a edizione del Safer Internet Day, ovvero la giornata mondiale per la sicurezza in Rete istituita dalla Commissione Europea e celebrata in oltre 100 Paesi. Come ogni anno l'obiettivo di q… [+4988 chars]"
+        },
+        {
+            "id": 93,
+            "author": "HDblog.it",
+            "title": "Sonos, i prossimi smart speaker si chiameranno Era 100 ed Era 300",
+            "description": "Arrivano anticipazioni interessanti sul nuovo corso del produttore americano.",
+            "url": "https://www.hdblog.it/tv/articoli/n566099/sonos-era-100-300-nuovi-smart-speaker/",
+            "urlToImage": "https://hd2.tudocdn.net/817305?w=1920",
+            "publishedAt": "2023-02-07T08:18:00Z",
+            "content": "La prossima generazione di speaker intelligenti Sonos sarà contraddistinta da un nuovo nome: Era. Secondo i colleghi di The Verge ci saranno almeno due modelli, Era 100 ed Era 300. Quest'ultimo dovre… [+1686 chars]"
+        },
+        {
+            "id": 94,
+            "author": "Aléxis Cerqueira Góis",
+            "title": "Google e Apple fazem doações para Síria e Turquia após terremoto",
+            "description": "Os CEOs do Google, Sundar Pichai, e da Apple, Tim Cook, anunciaram no Twitter que as bigs techs doarão recursos para reduzir os efeitos do terremoto que abalou a Síria e a Turquia nesta segunda-feira (06). As doações serão destinadas para o socorro de vítimas…",
+            "url": "https://www.tecmundo.com.br/mercado/260242-google-apple-doacoes-siria-turquia-terremoto.htm",
+            "urlToImage": "https://tm.ibxk.com.br/2023/02/06/06224842317020.jpg",
+            "publishedAt": "2023-02-07T08:00:00Z",
+            "content": "Os CEOs do Google, Sundar Pichai, e da Apple, Tim Cook, anunciaram no Twitter que as bigs techs doarão recursos para reduzir os efeitos do terremoto que abalou a Síria e a Turquia nesta segunda-feira… [+3173 chars]"
+        },
+        {
+            "id": 95,
+            "author": "Von Helmut Martin-Jung",
+            "title": "Verschwundenes Gepäck: Taschen-Spielereien",
+            "description": "Eine Gepäcktasche, die am Flughafen verloren ging, liegt monatelang in einem Lager. Dabei können ihre Besitzer sie elektronisch orten.",
+            "url": "https://www.sueddeutsche.de/wirtschaft/gepaeck-verloren-airtag-ortung-apple-1.5746602",
+            "urlToImage": "https://www.sueddeutsche.de/image/sz.1.5746603/1200x675?v=1675772667",
+            "publishedAt": "2023-02-07T12:24:33Z",
+            "content": "Eine Gepäcktasche, die am Flughafen verloren ging, liegt monatelang in einem Lager. Dabei können ihre Besitzer sie elektronisch orten.Es passierte zum Glück erst auf der Heimreise von ihrer Hochzeits… [+2775 chars]"
+        },
+        {
+            "id": 96,
+            "author": "Mash Yang",
+            "title": "蘋果將閉門舉辦 AI 人工智慧研討會 更多內容可能會在 WWDC 2023 期間揭曉",
+            "description": "在接下來的內部研討活動中，蘋果有可能準備讓Siri數位助理服務「進化」，除了讓使用者能與iPhone、Mac等機種直覺互動，同時也會提升在HomePod等以聲音互動為主的使用體驗，甚至也有可能進一步投入自有搜尋引擎服務發展，藉此與Google等搜尋引擎服務業者對抗。 彭博新聞記者Mark Gurman透露，蘋果預計下週舉辦一場與人工智慧相關的研討活動，但並未對外開放，僅限內部員工參與。 蘋果在過去幾年其實就已經持續強化人工智慧技術應用發展，例如在iOS作業系統藉由人工智慧技術判斷哪些app經常被使用，或是判斷使用…",
+            "url": "https://www.cool3c.com/article/189088",
+            "urlToImage": "https://sw.cool3c.com/article/2023/4cdba53e-47a9-4e75-bce4-51e19ed1d751.jpg?fit=max&w=1400&q=80",
+            "publishedAt": "2023-02-07T11:04:12Z",
+            "content": "SiriiPhoneMacHomePodGoogle\r\nMark Gurman\r\niOSapp\r\nSiri\r\nOpenAIChatGPTGoogleBardOpenAI\r\nSiriiPhoneMacHomePodGoogle\r\nWWDC 2023\r\nMark GurmanSteve Jobs\r\nInterestingly, the event will be held in the Steve … [+292 chars]"
+        },
+        {
+            "id": 97,
+            "author": "Giuseppe Migliorino",
+            "title": "Apple aiuterà le popolazioni in Turchia e Siria dopo il terremoto",
+            "description": "Anche Apple aiuterà le popolazioni in Turchia e Siria. \nLink all'articolo originale: Apple aiuterà le popolazioni in Turchia e Siria dopo il terremoto",
+            "url": "https://www.iphoneitalia.com/804230/apple-turchia-siria-terremoto",
+            "urlToImage": "https://static.iphoneitalia.com/wp-content/uploads/2021/09/tim-cook-intervista.jpg",
+            "publishedAt": "2023-02-07T11:00:29Z",
+            "content": "Il CEO di Apple Tim Cook ha confermato che l’azienda effettuerà donazioni per aiutare i soccorsi in Turchia e Siria dopo il devastante terremoto di lunedì.\r\nI terremoti si sono verificati lunedì 6 fe… [+917 chars]"
+        },
+        {
+            "id": 98,
+            "author": "Giuseppe Migliorino",
+            "title": "Safer Internet Day, Apple segnala gli strumenti per la sicurezza dei bambini",
+            "description": "Apple ricorda quali sono gli strumenti a disposizione per la sicurezza dei bambini. \nLink all'articolo originale: Safer Internet Day, Apple segnala gli strumenti per la sicurezza dei bambini",
+            "url": "https://www.iphoneitalia.com/804210/safer-internet-day-apple-sicurezza-bambini",
+            "urlToImage": "https://static.iphoneitalia.com/wp-content/uploads/2023/02/apple-protezione-bambini.jpg",
+            "publishedAt": "2023-02-07T08:45:58Z",
+            "content": "In occasione del Safer Internet Day, Apple ha condiviso gli strumenti e le risorse pensati per aiutare le famiglie a proteggere i propri figli online.\r\n“Apple vuole offrire alle persone una tecnologi… [+3603 chars]"
+        },
+        {
+            "id": 99,
+            "author": "Giuseppe Migliorino",
+            "title": "Apple organizzerà l’evento “AI summit” allo Steve Jobs Theater",
+            "description": "Apple sta organizzando un evento in presenta dedicato ai dipendenti. Si tratta dell'AI summit e si terrà allo Steve Jobs Theater.\nLink all'articolo originale: Apple organizzerà l’evento “AI summit” allo Steve Jobs Theater",
+            "url": "https://www.iphoneitalia.com/804207/evento-aple-ai-summit-quando",
+            "urlToImage": "https://static.iphoneitalia.com/wp-content/uploads/2019/03/Steve-Jobs-Theater-awards.jpg",
+            "publishedAt": "2023-02-07T07:30:53Z",
+            "content": "Sono passati quasi tre anni da quando Apple ha cambiato il format dei sui keynote a causa della pandemia. Da allora, tutti gli eventi sono stati preregistrati e solo gli ultimi due prevedevano la pre… [+1784 chars]"
+        },
+        {
+            "id": 100,
+            "author": "Giuseppe Migliorino",
+            "title": "HomePod 2, alcune parti sono facilmente sostituibili",
+            "description": "Apple ha reso meno complicato sostituire alcune parti degli HomePod 2. \nLink all'articolo originale: HomePod 2, alcune parti sono facilmente sostituibili",
+            "url": "https://www.iphoneitalia.com/804216/homepod-2-riparare-parti-sostituibili",
+            "urlToImage": "https://static.iphoneitalia.com/wp-content/uploads/2023/02/homepod-2-teardown.jpg",
+            "publishedAt": "2023-02-07T09:30:59Z",
+            "content": "Lo YouTuber Brandon Geekabit ha smontato il nuovo HomePod 2 e ha scoperto che alcune parti sono facilmente sostituibili anche dall’utente.\r\nL’HomePod di seconda generazione mantiene le stesse dimensi… [+1226 chars]"
+        }
+    ]
 }

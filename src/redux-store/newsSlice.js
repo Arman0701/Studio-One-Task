@@ -1,4 +1,12 @@
-import { createSlice } from "@reduxjs/toolkit";
+import { createSlice, createAsyncThunk } from "@reduxjs/toolkit";
+
+export const initNewsfeed = createAsyncThunk(
+	"newsSlice/initNewsfeed",
+	async () => {
+		const response = await fetch("http://localhost:3001/newsfeed/")
+		return response.json()
+	}
+);
 
 const newsSlice = createSlice({
 	name: "newsSlice",
@@ -8,6 +16,11 @@ const newsSlice = createSlice({
 	reducers: {
 		addPost(state, {payload}) {},
 		removePost(state, {payload}) {},
+	},
+	extraReducers: (builder) => {
+		builder.addMatcher(initNewsfeed.fulfilled, (state, { payload }) => {
+			state.value = payload
+		})
 	}
 })
 
