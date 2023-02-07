@@ -13,9 +13,18 @@ export default function Header() {
                 LOGO
             </a>
             <div className={style.actions}>
-                <a href="/news">News</a>
-                <a href="/profile">Profile</a>
-                <a href="/login">Login</a>
+				<a style={{
+					borderColor: pathname === "/" ? "white" : "transparent"
+				}} href="/">Home</a>
+                <a style={{
+					borderColor: pathname === "/news" ? "white" : "transparent"
+				}} href="/news">News</a>
+                <a style={{
+					borderColor: pathname === "/profile" ? "white" : "transparent"
+				}} href="/profile">Profile</a>
+                {<a style={{
+					borderColor: pathname === "/login" ? "white" : "transparent"
+				}} href="/login">Login</a>}
             </div>
 			<p className={style.title}>Daily news</p>
         </div>

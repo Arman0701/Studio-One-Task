@@ -2,10 +2,11 @@
 import { useRef } from "react";
 import { useDispatch } from "react-redux";
 import { useNavigate } from "react-router-dom";
-import useUniqueUsername from "../../helpers/checkUniqueUsername";
 
 // import helpers
 import validRegisterForm from "../../helpers/validRegisterForm";
+
+// import action creators
 import { registerUser } from "../../redux-store/userSlice";
 
 // import styles

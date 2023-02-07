@@ -44,6 +44,14 @@ export const registerUser = createAsyncThunk(
     }
 );
 
+export const initUser = createAsyncThunk(
+	"userSlice",
+	async (token) => {
+		const response = await fetch(`http://localhost:3001/users?profile.token=${token}`)
+		return response.json()
+	}
+)
+
 const initialState = {
     user: null,
 };
@@ -52,15 +60,23 @@ const userSlice = createSlice({
     name: "userSlice",
     initialState,
     reducers: {
-        logout(state, { payload }) {},
-        register(state, { payload }) {},
+        logout(state) {
+			localStorage.removeItem("news-app-user")
+			state.user = null;
+		},
     },
     extraReducers: (builder) => {
         builder.addMatcher(getUserProfile, (state, { payload }) => {
             state.user = payload;
-        });
+        })
+		.addMatcher(registerUser, (state, { payload }) => {
+			state.user = payload
+		})
+		.addMatcher(initUser, (state, { payload }) => {
+			state.user = payload
+		})
     },
 });
 
-export const { logout, register } = userSlice.actions;
+export const { logout } = userSlice.actions;
 export default userSlice.reducer;

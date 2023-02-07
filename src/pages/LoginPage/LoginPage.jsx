@@ -35,7 +35,7 @@ export default function LoginPage() {
 
 			disp.then(({ payload, meta }) => {
 				if (meta.requestStatus === "fulfilled" && payload.length === 1) {
-					localStorage.setItem("news-app-user", payload.profile.token)
+					localStorage.setItem("news-app-user", payload[0].profile.token)
 					navigate("/profile")
 				} else {
 					errorMessageRef.current.textContent = "The username or password you entered is incorrect."
