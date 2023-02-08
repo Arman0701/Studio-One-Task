@@ -53,12 +53,15 @@ export default function ProfilePage() {
 								<td>Identifier:</td>
 								<td>{currentUser[0]?.id}</td>
 							</tr>
-							{Object.keys(currentUser[0].profile).map((key) => (
-								<tr>
-									<td>{key}:</td>
-									<td>{currentUser[0]?.profile[key]}</td>
-								</tr>
-							))}
+							{Object.keys(currentUser[0].profile).map((key) => {
+								if (key === "token") return 
+								return (
+									<tr key={key}>
+										<td>{key}:</td>
+										<td>{currentUser[0]?.profile[key]}</td>
+									</tr>
+								)
+							})}
 							</tbody>
 						</table>
 
@@ -67,13 +70,13 @@ export default function ProfilePage() {
 							modal
 						>
 							{close => <NewPostModal close={close} currentUser={currentUser} />}
-						</Popup>
+						</Popup>				
 						
 					</aside>
 					<main>
 						<p>My posts</p>
 						{currentUser[0]?.posts?.length > 0 &&
-							currentUser[0]?.posts?.length.map((article, index) => {
+							currentUser[0]?.posts?.map((article, index) => {
 								article = {
 									...article,
 									index,
