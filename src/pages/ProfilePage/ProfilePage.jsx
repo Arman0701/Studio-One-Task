@@ -49,22 +49,16 @@ export default function ProfilePage() {
 
 						<table>
 							<tbody>
+							<tr>
+								<td>Identifier:</td>
+								<td>{currentUser[0]?.id}</td>
+							</tr>
+							{Object.keys(currentUser[0].profile).map((key) => (
 								<tr>
-									<td>Name:</td>
-									<td>{currentUser[0]?.profile?.name}</td>
+									<td>{key}:</td>
+									<td>{currentUser[0]?.profile[key]}</td>
 								</tr>
-								<tr>
-									<td>Username:</td>
-									<td>{currentUser[0]?.profile?.username}</td>
-								</tr>
-								<tr>
-									<td>Password:</td>
-									<td>{currentUser[0]?.profile?.password}</td>
-								</tr>
-								<tr>
-									<td>Created At:</td>
-									<td>{currentUser[0]?.profile?.created}</td>
-								</tr>
+							))}
 							</tbody>
 						</table>
 
