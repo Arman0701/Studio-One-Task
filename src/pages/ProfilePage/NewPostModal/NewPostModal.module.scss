@@ -1,0 +1,94 @@
+@import "../../../sass/variables.scss";
+
+.modalWrapper {
+    width: 65vw;
+    padding: 15px;
+    border-radius: 10px;
+    background: $-line-dark;
+    max-height: 95vh;
+
+    overflow: auto;
+
+    &::-webkit-scrollbar {
+        width: 8px;
+    }
+
+    &::-webkit-scrollbar-thumb {
+        border-radius: 3px;
+        background: $-white-02;
+    }
+
+    &::-webkit-scrollbar-track {
+        background: #000;
+    }
+
+    form {
+        display: flex;
+        flex-direction: column;
+        gap: 15px;
+
+        h3 {
+            text-align: center;
+        }
+
+        label {
+            display: flex;
+            flex-direction: column;
+            gap: 5px;
+
+            span {
+                font-size: 12px;
+                font-weight: 500;
+                line-height: 1.2;
+            }
+
+            input[type="text"],
+            textarea {
+                padding: 4px 10px;
+                border-radius: 5px;
+                font-size: 16px;
+                font-weight: 400;
+
+                background: $-white-02;
+                border: 2px solid transparent;
+				transition: $-transition;
+
+                &:focus {
+                    border-color: cornflowerblue;
+                }
+            }
+
+            textarea {
+                resize: vertical;
+                min-height: 150px;
+                max-height: 400px;
+                height: 180px;
+            }
+        }
+
+        .actions {
+            display: flex;
+            align-items: center;
+            gap: 15px;
+
+            button {
+                flex: 1;
+
+                padding: 4px 10px;
+                border-radius: 5px;
+                font-size: 16px;
+                font-weight: 400;
+
+                background: $-white-02;
+                border: 2px solid transparent;
+
+                cursor: pointer;
+				transition: $-transition;
+
+                &:hover {
+                    border-color: cornflowerblue;
+                }
+            }
+        }
+    }
+}

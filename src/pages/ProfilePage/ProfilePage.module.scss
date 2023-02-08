@@ -1,0 +1,93 @@
+@import "../../sass/variables.scss";
+
+.profilePageWrapper {
+	padding: 15px 30px;
+
+	header {
+		display: flex;
+		align-items: center;
+		justify-content: space-between;
+
+		margin-bottom: 15px;
+
+		span {
+			font-size: 22px;
+			font-weight: 400;
+		}
+
+		button {
+			border: 2px solid $-white-02;
+			padding: 3px 8px;
+			border-radius: 4px;
+			cursor: pointer;
+			background: none;
+		}
+	}
+
+	section {
+		display: flex;
+		gap: 5px;
+		background: $-line-dark;
+		min-height: calc($-abs-height - 10vh);
+				
+		aside {
+			flex: 1;
+			
+			display: flex;
+			flex-direction: column;
+			gap: 15px;
+
+			padding: 10px;
+			border: 5px solid $-line-dark;
+			border-right: none;
+
+			background: $-bg-dark;
+
+			.imageWrapper {
+				width: 100%;
+				aspect-ratio: 1/1;
+				border: 2px solid $-white-02;
+				border-radius: 50%;
+			}
+
+			table tbody {
+				display: flex;
+				flex-direction: column;
+				gap: 8px;
+
+				tr {
+					display: flex;
+					align-items: center;
+					justify-content: space-between;
+				}
+			}
+
+			button {
+				border: 2px solid $-line-dark;
+				background: $-line-dark;
+				border-radius: 4px;
+				padding: 5px 8px;
+				font-size: 15px;
+				font-weight: 500;
+				cursor: pointer;
+			}
+		}
+
+		main {
+			flex: 4;
+
+			padding: 10px;
+			border: 5px solid $-line-dark;
+			border-left: none;
+
+			background: $-bg-dark;
+
+			p {
+				font-size: 18px;
+				font-weight: 400;
+				text-align: center;
+			}
+		}
+		
+	}
+}
