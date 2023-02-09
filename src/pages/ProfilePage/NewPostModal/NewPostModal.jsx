@@ -3,7 +3,8 @@ import { useRef } from "react";
 import { useDispatch } from "react-redux";
 
 // import action creators
-import { addPost } from "../../../redux-store/userSlice";
+import { addUserPost } from "../../../redux-store/userSlice";
+import { addPost } from "../../../redux-store/newsSlice";
 
 // import style
 import style from "./NewPostModal.module.scss";

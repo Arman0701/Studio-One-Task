@@ -1,26 +1,64 @@
 @import "../../../sass/variables.scss";
 
 .searchAndFilterWrapper {
-	display: flex;
-	flex-direction: column;
-	align-items: center;
-	justify-content: center;
-	
-	input[type=text] {
-		width: 50%;
-		color: $-bg-dark;
-		font-size: 16px;
-		font-weight: 400;
-		padding: 3px 8px;
-	}
-	input[type=date] {
-		color: $-bg-dark;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+	> span {
+		margin-top: 10px;	
 	}
 
-	.feed {
-		margin: 30px 0;
+    .searchBox {
+        width: 70%;
+
 		display: flex;
-		flex-direction: column;
-		gap: 30px;
-	}
+		align-items: center;
+		gap: 10px;
+
+        input[type="text"] {
+			flex: 1;
+            font-size: 16px;
+            font-weight: 400;
+            color: cornflowerblue;
+
+            padding: 5px 8px;
+			border-radius: 5px;
+			border: 2px solid cornflowerblue;
+			background: $-line-dark;
+
+			&::placeholder {
+				color: cornflowerblue;
+			}
+        }
+
+        input[type="date"] {
+            background-color: cornflowerblue;
+            color: $-line-dark;
+            padding: 3px 8px;
+            font-family: "Montserrat", monospace;
+            font-size: 16px;
+            border: none;
+            outline: none;
+            border-radius: 5px;
+
+            &::-webkit-calendar-picker-indicator {
+                background-color: #ffffff;
+                padding: 5px;
+                cursor: pointer;
+                border-radius: 3px;
+            }
+        }
+    }
+
+    .feed {
+        margin: 30px 0;
+        display: flex;
+        flex-direction: column;
+        gap: 30px;
+
+		> p {
+			text-align: center;
+		}
+    }
 }

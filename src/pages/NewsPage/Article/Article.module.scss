@@ -19,7 +19,7 @@
 
         background: white;
         border-radius: 10px;
-		border: 2px solid transparent;
+        border: 2px solid transparent;
         color: $-bg-dark;
 
         font-size: 14px;
@@ -30,7 +30,7 @@
         display: flex;
         justify-content: space-between;
         align-items: baseline;
-		gap: 15px;
+        gap: 15px;
 
         span,
         a {
@@ -38,22 +38,16 @@
             font-weight: 500;
         }
 
-        a {
-            transition: $-transition;
-            border-bottom: 1px solid transparent;
-
-            &:hover {
-                text-decoration: underline;
-                border-bottom: 1px solid white;
-            }
+        a:hover {
+            text-decoration: underline;
         }
 
         .author {
             max-width: 20%;
-			width: fit-content;
+            width: fit-content;
 
-			word-wrap: break-word;
-			text-align: right;			
+            word-wrap: break-word;
+            text-align: right;
             font-size: 13px;
         }
     }

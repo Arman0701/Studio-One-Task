@@ -40,27 +40,30 @@ export const registerUser = createAsyncThunk(
     }
 );
 
-export const initUser = createAsyncThunk("userSlice", async (token) => {
-    const response = await fetch(
-        `http://localhost:3001/users?profile.token=${token}`
-    );
-    return response.json();
-});
+export const initUser = createAsyncThunk(
+    "userSlice/inituser",
+    async (token) => {
+        const response = await fetch(
+            `http://localhost:3001/users?profile.token=${token}`
+        );
+        const data = response.json();
+		return data
+    }
+);
 
-export const addPost = createAsyncThunk(
+export const addUserPost = createAsyncThunk(
     "userSlice/addPost",
     async (postData, { getState }) => {
         // I tried to get user data using getState function
         // but for some reason it returns "undefined",
-		// now user's data is comming from postData object
+        // now user's data is comming from postData object
+        const promises = [];
 
         const modified = {
             id: generateFakeID(),
             publishedAt: getToday(),
             ...postData,
         };
-
-        
     }
 );
 

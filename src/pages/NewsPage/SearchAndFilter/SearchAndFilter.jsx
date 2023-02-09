@@ -48,10 +48,13 @@ export default function SearchAndFilter() {
 
     return (
         <div className={style.searchAndFilterWrapper}>
-            <input type="text" placeholder="Search by author, title, or description" value={searchTerm} onChange={handleSearchTermChange} />
-            <input type="date" value={startDate} onChange={handleStartDateChange} />
-            to
-            <input type="date" value={endDate} onChange={handleEndDateChange} />
+			<div className={style.searchBox}>
+				<input type="text" placeholder="Search by author, title, or description" value={searchTerm} onChange={handleSearchTermChange} />
+				<input type="date" value={startDate} onChange={handleStartDateChange} />
+				<input type="date" value={endDate} onChange={handleEndDateChange} />
+			</div>
+
+			{filteredArticles?.length !== articles?.length && <span>Results: {filteredArticles?.length}</span>}
             
 			<div className={style.feed}>
                 {filteredArticles?.map((article, index) => {
