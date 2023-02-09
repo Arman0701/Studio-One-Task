@@ -29,8 +29,8 @@
 		gap: 5px;
 		background: $-line-dark;
 		min-height: calc($-abs-height - 10vh);
-				
-		aside {
+		 	
+		aside {			
 			width: 20%;
 			display: flex;
 			flex-direction: column;
@@ -79,7 +79,7 @@
 			}
 		}
 
-		main {
+		> main {
 			width: 80%;
 			padding: 10px;
 			border: 5px solid $-line-dark;

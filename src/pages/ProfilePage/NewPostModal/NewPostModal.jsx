@@ -26,7 +26,7 @@ export default function NewPostModal({ close, currentUser }) {
         e.preventDefault();
 		const postData = {
             id: generateFakeID(),
-			author: currentUser[0]?.profile?.name,
+			author: currentUser?.profile?.name,
 			title: titleRef.current.value,
 			description: descRef.current.value,
 			urlToImage: imageUrlRef.current.value,
@@ -39,23 +39,21 @@ export default function NewPostModal({ close, currentUser }) {
 
 		dispatch(addUserPost(
 			{
-				id: currentUser[0]?.id,
+				id: currentUser?.id,
 				profile: {
-				  name: currentUser[0]?.profile?.name,
-				  username: currentUser[0]?.profile?.username,
-				  password: currentUser[0]?.profile?.password,
-				  created: currentUser[0]?.profile?.created,
-				  token: currentUser[0]?.profile?.token
+				  name: currentUser?.profile?.name,
+				  username: currentUser?.profile?.username,
+				  password: currentUser?.profile?.password,
+				  created: currentUser?.profile?.created,
+				  token: currentUser?.profile?.token
 				},
-				role: currentUser[0]?.role,
+				role: currentUser?.role,
 				posts: [
 					postData,
-					...currentUser[0]?.posts,
+					...currentUser?.posts,
 				]
 			}
 		))
-
-		// dispatch(initUser(currentUser[0]?.profile.token))
 
         close();
     }

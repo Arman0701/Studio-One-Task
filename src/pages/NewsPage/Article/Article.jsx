@@ -43,13 +43,13 @@ export default function Article({ article }) {
                 <span className={style.author}>{author}</span>
             </header>
 
-            <main>
+            <main className={style.articleMain}>
                 <p>{description}</p>
                 <div className={style.imageWrapper}>
                     <img src={urlToImage} alt="article" />
                 </div>
 
-                <p>{content}</p>
+                <p className={style.articleContent}>{content}</p>
                 <footer>
                     <span>{convertDate(publishedAt)}</span>
                 </footer>

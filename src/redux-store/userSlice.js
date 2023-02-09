@@ -14,7 +14,6 @@ export const getUserProfile = createAsyncThunk(
             `http://localhost:3001/users?profile.username=${username}&profile.password=${password}`
         );
         const data = await response.json();
-		console.log("login user response ::: ", data)
 		return data;
     }
 );
@@ -41,7 +40,6 @@ export const registerUser = createAsyncThunk(
         });
 
         const data = await response.json();
-		console.log("rsgister user response ::: ", data)
 		return data;
     }
 );
@@ -65,7 +63,6 @@ export const addUserPost = createAsyncThunk(
         // now user's data is comming from postData object
 		const id = postData.id
 
-		console.log("user post modified ::: ", postData)
 		const response = await fetch(`http://localhost:3001/users/${id}`, {
 			method: "PUT",
             headers: {
@@ -96,6 +93,9 @@ const userSlice = createSlice({
 	extraReducers: (builder) => {
 		builder.addCase(initUser.fulfilled, (state, { payload }) => {
 			state.user = payload
+		})
+		.addCase(initUser.rejected, (state, { payload }) => {
+			// if an error occures
 		})
 	}
 });

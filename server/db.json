@@ -72,6 +72,26 @@
       "role": "user",
       "posts": [
         {
+          "id": "1asd28wtjil",
+          "author": "ARMAN TADEVOSYAN",
+          "title": "ChatGPT (Chat Generative Pre-trained Transformer)[",
+          "description": "ChatGPT (Chat Generative Pre-trained Transformer)[2] is a chatbot developed by OpenAI and launched in November 2022. It is built on top of OpenAI's GPT-3 family of large language models and has been fine-tuned (an approach to transfer learning)[3] using both supervised and reinforcement learning techniques.",
+          "urlToImage": "https://unsplash.com/photos/rv2ooDQuNuI",
+          "url": "https://en.wikipedia.org/wiki/ChatGPT",
+          "publishedAt": "10.02.2023",
+          "content": "ChatGPT – a generative pre-trained transformer (GPT) – was fine-tuned on top of GPT-3.5 using supervised learning as well as reinforcement learning.[6] Both approaches used human trainers to improve the model's performance. In the case of supervised learning, the model was provided with conversations in which the trainers played both sides: the user and the AI assistant. In the reinforcement step, human trainers first ranked responses that the model had created in a previous conversation. These rankings were used to create 'reward models' that the model was further fine-tuned on using several iterations of Proximal Policy Optimization (PPO).[7][8] Proximal Policy Optimization algorithms present a cost-effective benefit to trust region policy optimization algorithms; they negate many of the computationally expensive operations with faster performance.[9][10] The models were trained in collaboration with Microsoft on their Azure supercomputing infrastructure."
+        },
+        {
+          "id": "2ppf8hhrh7k",
+          "author": "ARMAN TADEVOSYAN",
+          "title": "NEW POST 33333333333",
+          "description": "NEW POST 33333333333",
+          "urlToImage": "NEW POST 33333333333",
+          "url": "NEW POST 33333333333",
+          "publishedAt": "10.02.2023",
+          "content": "NEW POST 33333333333"
+        },
+        {
           "id": "i6w3v1t4ygq",
           "author": "ARMAN TADEVOSYAN",
           "title": "NEW POST 222222222",
@@ -1104,6 +1124,35 @@
       "url": "NEW POST 222222222",
       "publishedAt": "10.02.2023",
       "content": "NEW POST 222222222"
+    },
+    {
+      "id": "w7bbif3yrxc",
+      "title": "NEW POST 33333333333",
+      "description": "NEW POST 33333333333",
+      "urlToImage": "NEW POST 33333333333",
+      "url": "NEW POST 33333333333",
+      "publishedAt": "10.02.2023",
+      "content": "NEW POST 33333333333"
+    },
+    {
+      "id": "2ppf8hhrh7k",
+      "author": "ARMAN TADEVOSYAN",
+      "title": "NEW POST 33333333333",
+      "description": "NEW POST 33333333333",
+      "urlToImage": "NEW POST 33333333333",
+      "url": "NEW POST 33333333333",
+      "publishedAt": "10.02.2023",
+      "content": "NEW POST 33333333333"
+    },
+    {
+      "id": "1asd28wtjil",
+      "author": "ARMAN TADEVOSYAN",
+      "title": "ChatGPT (Chat Generative Pre-trained Transformer)[",
+      "description": "ChatGPT (Chat Generative Pre-trained Transformer)[2] is a chatbot developed by OpenAI and launched in November 2022. It is built on top of OpenAI's GPT-3 family of large language models and has been fine-tuned (an approach to transfer learning)[3] using both supervised and reinforcement learning techniques.",
+      "urlToImage": "https://unsplash.com/photos/rv2ooDQuNuI",
+      "url": "https://en.wikipedia.org/wiki/ChatGPT",
+      "publishedAt": "10.02.2023",
+      "content": "ChatGPT – a generative pre-trained transformer (GPT) – was fine-tuned on top of GPT-3.5 using supervised learning as well as reinforcement learning.[6] Both approaches used human trainers to improve the model's performance. In the case of supervised learning, the model was provided with conversations in which the trainers played both sides: the user and the AI assistant. In the reinforcement step, human trainers first ranked responses that the model had created in a previous conversation. These rankings were used to create 'reward models' that the model was further fine-tuned on using several iterations of Proximal Policy Optimization (PPO).[7][8] Proximal Policy Optimization algorithms present a cost-effective benefit to trust region policy optimization algorithms; they negate many of the computationally expensive operations with faster performance.[9][10] The models were trained in collaboration with Microsoft on their Azure supercomputing infrastructure."
     }
   ]
 }
