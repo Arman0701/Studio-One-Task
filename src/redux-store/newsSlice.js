@@ -15,18 +15,15 @@ export const initNewsfeed = createAsyncThunk(
 export const addPost = createAsyncThunk(
 	"newsSlice/addPost",
 	async (postData) => {
-		const modified = {
-            id: generateFakeID(),
-            publishedAt: getToday(),
-            ...postData,
-        };
+
+		console.log("newsfeed modified ::: ", postData)
 		
 		const response = await fetch("http://localhost:3001/newsfeed", {
 			method: "POST",
 			headers: {
                 "Content-Type": "application/json",
             },
-            body: JSON.stringify(modified),
+            body: JSON.stringify(postData),
 		});
 
 		return response.json();
@@ -42,7 +39,7 @@ const newsSlice = createSlice({
         builder.addMatcher(initNewsfeed.fulfilled, (state, { payload }) => {
             state.value = payload;
         })
-		.addMatcher(addPost, (state, { payload }) => {
+		.addMatcher(addPost.fulfilled, (state, { payload }) => {
 			state.value = payload;
 		})
     },

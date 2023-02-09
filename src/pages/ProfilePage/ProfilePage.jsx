@@ -20,13 +20,11 @@ export default function ProfilePage() {
     const currentUser = useSelector((store) => store.userSlice.user);
 
     useEffect(() => {
-        if (!currentUser) {
-            const userToken = localStorage.getItem("news-app-user");
-            if (userToken) {
-                dispatch(initUser(userToken));
-            }
-        }
-    }, [currentUser]);
+		const userToken = localStorage.getItem("news-app-user");
+		if (userToken) {
+			dispatch(initUser(userToken));
+		}
+    }, []);
 
     function logOutHandler() {
         dispatch(logout());

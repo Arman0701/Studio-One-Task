@@ -64,7 +64,7 @@ export default function SearchAndFilter() {
                     };
                     return <Article key={article.id} article={article} />;
                 })}
-				<span>Copyright 2023</span>
+				<p>Copyright 2023</p>
             </div>
         </div>
     );

@@ -9,6 +9,7 @@ export const getUserProfile = createAsyncThunk(
     "userSlice/getUserProfile",
     async (userData) => {
         const { username, password } = userData;
+
         const response = await fetch(
             `http://localhost:3001/users?profile.username=${username}&profile.password=${password}`
         );
@@ -46,7 +47,7 @@ export const initUser = createAsyncThunk(
         const response = await fetch(
             `http://localhost:3001/users?profile.token=${token}`
         );
-        const data = response.json();
+        const data = await response.json();
 		return data
     }
 );
@@ -57,13 +58,17 @@ export const addUserPost = createAsyncThunk(
         // I tried to get user data using getState function
         // but for some reason it returns "undefined",
         // now user's data is comming from postData object
-        const promises = [];
+		const id = postData.id
 
-        const modified = {
-            id: generateFakeID(),
-            publishedAt: getToday(),
-            ...postData,
-        };
+		console.log("user post modified ::: ", postData)
+		const response = await fetch(`http://localhost:3001/users/${id}`, {
+			method: "PUT",
+            headers: {
+                "Content-Type": "application/json",
+            },
+            body: JSON.stringify(postData),
+		})
+		return await response.json()
     }
 );
 
@@ -82,15 +87,23 @@ const userSlice = createSlice({
     },
     extraReducers: (builder) => {
         builder
+			.addMatcher(initUser, (state, { payload }) => {
+				if (!!payload??[0]) {
+					state.user = payload[0];
+
+				} else {
+					state.user = null;
+				}
+			})
             .addMatcher(getUserProfile, (state, { payload }) => {
                 state.user = payload;
             })
             .addMatcher(registerUser, (state, { payload }) => {
                 state.user = payload;
             })
-            .addMatcher(initUser, (state, { payload }) => {
-                state.user = payload;
-            });
+			.addMatcher(addUserPost, (state, { payload }) => {
+				state.user = payload;
+			})
     },
 });
 
