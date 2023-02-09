@@ -34,7 +34,9 @@ export default function test_prime(n) {
         return false;
     } else if (n === 2) {
         return true;
-    } else {
+    } else if (n === Infinity) {
+		return false;
+	} else {
         for (let x = 2; x <= Math.ceil(Math.sqrt(n)); x++) {
             if (n % x === 0) {
                 return false;
