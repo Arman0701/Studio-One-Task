@@ -1,3 +1,6 @@
+// import hooks
+import { useMemo } from "react";
+
 // import helpers
 import convertDate from "../../../helpers/convertDate";
 import nthFibonacciNumber from "../../../helpers/nthFibonacciNumber";
@@ -5,7 +8,6 @@ import checkPrimeNumber from "../../../helpers/checkPrimeNumber";
 
 // import styles
 import style from "./Article.module.scss";
-import { useEffect, useMemo, useRef } from "react";
 
 export default function Article({ article }) {
     const {
@@ -21,12 +23,11 @@ export default function Article({ article }) {
 
 	const calcAndCheck = useMemo(() => {
 		const number = nthFibonacciNumber(index + 1)
-		// const isPrime = true
-		const isPrime = checkPrimeNumber(number)
+		// const isPrime = checkPrimeNumber(number)
 
 		return {
 			number,
-			isPrime: isPrime,
+			// isPrime: isPrime,
 		}
 		// eslint-disable-next-line
 	}, []);
@@ -34,7 +35,7 @@ export default function Article({ article }) {
     return (
         <div className={style.articleWrapper}>
 			<span style={{
-				backgroundColor: calcAndCheck.isPrime ? "lime" : "white"
+				// backgroundColor: calcAndCheck.isPrime ? "lime" : "white"
 			}}>{calcAndCheck.number}</span>
             <header>
                 <a href={url}>{title} | {index}</a>
