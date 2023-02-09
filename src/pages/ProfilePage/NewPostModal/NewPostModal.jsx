@@ -49,13 +49,13 @@ export default function NewPostModal({ close, currentUser }) {
 				},
 				role: currentUser[0]?.role,
 				posts: [
-					...postData,
+					postData,
 					...currentUser[0]?.posts,
 				]
 			}
 		))
 
-		dispatch(initUser(currentUser[0]?.profile.token))
+		// dispatch(initUser(currentUser[0]?.profile.token))
 
         close();
     }

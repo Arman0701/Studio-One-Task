@@ -13,7 +13,9 @@ export const getUserProfile = createAsyncThunk(
         const response = await fetch(
             `http://localhost:3001/users?profile.username=${username}&profile.password=${password}`
         );
-        return await response.json();
+        const data = await response.json();
+		console.log("login user response ::: ", data)
+		return data;
     }
 );
 
@@ -37,7 +39,10 @@ export const registerUser = createAsyncThunk(
             },
             body: JSON.stringify(newUser),
         });
-        return await response.json();
+
+        const data = await response.json();
+		console.log("rsgister user response ::: ", data)
+		return data;
     }
 );
 
@@ -84,27 +89,15 @@ const userSlice = createSlice({
             localStorage.removeItem("news-app-user");
             state.user = null;
         },
+		updateUser(state, { payload }) {
+			state.user = payload
+		}
     },
-    extraReducers: (builder) => {
-        builder
-			.addMatcher(initUser, (state, { payload }) => {
-				if (!!payload??[0]) {
-					state.user = payload[0];
-
-				} else {
-					state.user = null;
-				}
-			})
-            .addMatcher(getUserProfile, (state, { payload }) => {
-                state.user = payload;
-            })
-            .addMatcher(registerUser, (state, { payload }) => {
-                state.user = payload;
-            })
-			.addMatcher(addUserPost, (state, { payload }) => {
-				state.user = payload;
-			})
-    },
+	extraReducers: (builder) => {
+		builder.addCase(initUser.fulfilled, (state, { payload }) => {
+			state.user = payload
+		})
+	}
 });
 
 export const { logout } = userSlice.actions;
