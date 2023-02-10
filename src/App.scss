@@ -13,6 +13,19 @@ body {
 	background: $-bg-dark;
 }
 
+::-webkit-scrollbar {
+	width: 8px;
+}
+
+::-webkit-scrollbar-thumb {
+	border-radius: 3px;
+	background: $-white-02;
+}
+
+::-webkit-scrollbar-track {
+	background: #000;
+}
+
 a {
 	text-decoration: none;
 	color: white;

@@ -1,0 +1,79 @@
+@import "../../../sass/variables.scss";
+
+.deleteAccountModalWrapper {
+	width: 30vw;
+	padding: 15px;
+	border-radius: 10px;
+	border: 3px solid crimson;
+	background: $-line-dark;
+	
+	form {
+		display: flex;
+		flex-direction: column;
+		gap: 15px;
+
+		h3 {
+			text-align: center;
+			color: crimson;
+			font-weight: 400;
+		}
+		
+		h4 {
+			font-weight: 400;
+			color: crimson;
+		}
+
+		label {
+			display: flex;
+			flex-direction: column;
+			gap: 10px;
+			
+			span {
+				font-size: 14px;
+				font-weight: 500;
+			}
+			
+			input[type=text] {
+				padding: 5px 8px;
+				background: none;
+				border-radius: 5px;
+				border: 2px solid $-white-02;
+				transition: $-transition;
+
+
+				&:focus {
+					border-color: white;
+				}
+			}
+		}
+
+		.actions {
+			display: flex;
+			gap: 15px;
+
+			button {
+				flex: 1	;
+				
+				background: $-line-dark;
+				font-weight: 700;
+				color: white;
+				
+				padding: 5px 8px;
+				border: 3px solid $-white-02;
+				border-radius: 5px;
+				transition: $-transition;
+
+				cursor: pointer;
+
+				&:focus, &:hover {
+					&:first-child {
+						border-color: greenyellow;
+					}
+					&:last-child {
+						border-color: crimson;
+					}
+				}
+			}
+		}
+	}
+}

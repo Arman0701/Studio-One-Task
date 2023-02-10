@@ -9,19 +9,6 @@
 
     overflow: auto;
 
-    &::-webkit-scrollbar {
-        width: 8px;
-    }
-
-    &::-webkit-scrollbar-thumb {
-        border-radius: 3px;
-        background: $-white-02;
-    }
-
-    &::-webkit-scrollbar-track {
-        background: #000;
-    }
-
     form {
         display: flex;
         flex-direction: column;
@@ -88,6 +75,10 @@
                 &:hover {
                     border-color: cornflowerblue;
                 }
+
+				&:focus {
+					border-color: cornflowerblue;
+				}
             }
         }
     }

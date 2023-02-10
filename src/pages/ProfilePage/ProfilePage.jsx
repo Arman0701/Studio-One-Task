@@ -6,6 +6,7 @@ import { useNavigate } from "react-router-dom";
 // import components
 import Article from "../NewsPage/Article";
 import NewPostModal from "./NewPostModal";
+import DeleteAccountModal from "./DeleteAccountModal";
 import Popup from "reactjs-popup";
 
 // import action creators
@@ -27,13 +28,22 @@ export default function ProfilePage() {
 			} else {
 				navigate("/login")
 			}
-		} 
+		}
+		// eslint-disable-next-line
     }, [currentUser]);
 
     function logOutHandler() {
         dispatch(logout());
         navigate("/login");
     }
+
+	function scrollToTop() {
+		let c = document.documentElement.scrollTop || document.body.scrollTop;
+		if (c > 0) {
+			window.requestAnimationFrame(scrollToTop);
+			window.scrollTo(0, c - c / 8);
+		}
+	}
 
 	if (Array.isArray(currentUser) && currentUser.length > 0) {
 		currentUser = currentUser[0]
@@ -58,7 +68,7 @@ export default function ProfilePage() {
 							<td>{currentUser?.id || ""}</td>
 						</tr>
 						{currentUser?.profile && Object.keys(currentUser?.profile).map((key) => {
-							if (key === "token") return 
+							if (key === "token") return null
 							return (
 								<tr key={key}>
 									<td>{key}:</td>
@@ -74,21 +84,30 @@ export default function ProfilePage() {
 						modal
 					>
 						{close => <NewPostModal close={close} currentUser={currentUser} />}
-					</Popup>				
+					</Popup>	
+					<Popup
+						trigger={<button>Delete account</button>}
+						modal
+					>
+						{close => <DeleteAccountModal close={close} />}
+					</Popup>
 					
 				</aside>
 				<main>
 					<p>My posts</p>
 					{currentUser?.posts?.length > 0 &&
-						currentUser?.posts?.map((article, index) => {
+						currentUser?.posts.map((article, index) => {
 							article = {
 								...article,
 								index,
 							};
 							return (
-								<Article key={article.id} article={article} />
+								<Article key={article.id} article={article} forUser />
 							);
-						})}
+						})
+					}
+
+					<button onClick={scrollToTop}>Scroll to top</button>
 				</main>
 			</section>
 		</div>

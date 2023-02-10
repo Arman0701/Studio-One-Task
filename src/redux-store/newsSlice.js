@@ -1,14 +1,11 @@
 import { createSlice, createAsyncThunk } from "@reduxjs/toolkit";
 
-// import helpers
-import generateFakeID from "../helpers/generateFakeID";
-import getToday from "../helpers/getToday";
-
 export const initNewsfeed = createAsyncThunk(
     "newsSlice/initNewsfeed",
     async () => {
         const response = await fetch("http://localhost:3001/newsfeed/");
-        return response.json();
+
+        return await response.json();
     }
 );
 
@@ -16,8 +13,6 @@ export const addPost = createAsyncThunk(
 	"newsSlice/addPost",
 	async (postData) => {
 
-		console.log("newsfeed modified ::: ", postData)
-		
 		const response = await fetch("http://localhost:3001/newsfeed", {
 			method: "POST",
 			headers: {
@@ -26,7 +21,19 @@ export const addPost = createAsyncThunk(
             body: JSON.stringify(postData),
 		});
 
-		return response.json();
+		return await response.json();
+	}
+)
+
+export const deletePost = createAsyncThunk(
+	"newsSlice/deletePost",
+	async (postID) => {
+
+		const response = await fetch(`http://localhost:3001/newsfeed/${postID}`, {
+			method: "DELETE",
+		});
+
+		return await response.json()
 	}
 )
 
@@ -36,11 +43,28 @@ const newsSlice = createSlice({
         value: []
     },
     extraReducers: (builder) => {
-        builder.addMatcher(initNewsfeed.fulfilled, (state, { payload }) => {
+        builder.addCase(initNewsfeed.fulfilled, (state, { payload }) => {
             state.value = payload;
         })
-		.addMatcher(addPost.fulfilled, (state, { payload }) => {
+		.addCase(initNewsfeed.rejected, (state, { payload }) => {
+			// if an error occured
+			alert("Can not initailize newsfeed. Please try later.")
+		})
+		
+		.addCase(addPost.fulfilled, (state, { payload }) => {
 			state.value = payload;
+		})
+		.addCase(addPost.rejected, (state, { payload }) => {
+			// if an error occured
+			alert("Can not initailize newsfeed. Please try later.")
+		})
+
+		.addCase(deletePost.fulfilled, (state, { payload }) => {
+			state.value = payload;
+		})
+		.addCase(deletePost.rejected, (state, { payload }) => {
+			// if an error occured
+			alert("Can not update the state of newsfeed. Please reload the page.")
 		})
     },
 });

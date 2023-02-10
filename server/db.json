@@ -10,7 +10,18 @@
         "token": "P780qE2Q25rcVpytkZpx0AjEUsVYWLNG"
       },
       "role": "user",
-      "posts": []
+      "posts": [
+        {
+          "id": "uqfif2a807b",
+          "author": "Arman Tadevosyan",
+          "title": "POstahjalsk",
+          "description": "jkjashdflakjh",
+          "urlToImage": "halkdfjh",
+          "url": "ajkshdflkajh",
+          "publishedAt": "2/10/2023 8:32:39 PM",
+          "content": "hjkahsdlfkjashdf"
+        }
+      ]
     },
     {
       "id": "9d4gx9soud",
@@ -22,7 +33,48 @@
         "token": "fcmekh0HHo1Wf9me1RNNpAWxVGcov4qY"
       },
       "role": "user",
-      "posts": []
+      "posts": [
+        {
+          "id": "e1xknf5u385",
+          "author": "arman1234",
+          "title": "sdfas",
+          "description": "",
+          "urlToImage": "",
+          "url": "",
+          "publishedAt": "2/10/2023 10:18:52 PM",
+          "content": ""
+        },
+        {
+          "id": "7d63e0n4p1x",
+          "author": "arman1234",
+          "title": "asdfasdf",
+          "description": "",
+          "urlToImage": "",
+          "url": "",
+          "publishedAt": "2/10/2023 10:18:06 PM",
+          "content": ""
+        },
+        {
+          "id": "2v15x482w7g",
+          "author": "arman1234",
+          "title": "asdfasdf",
+          "description": "",
+          "urlToImage": "",
+          "url": "",
+          "publishedAt": "2/10/2023 10:16:22 PM",
+          "content": ""
+        },
+        {
+          "id": "vs0l3jpwjff",
+          "author": "arman1234",
+          "title": "d",
+          "description": "",
+          "urlToImage": "",
+          "url": "",
+          "publishedAt": "2/10/2023 10:10:30 PM",
+          "content": ""
+        }
+      ]
     },
     {
       "id": "r0xfe66vuck",
@@ -59,49 +111,6 @@
       },
       "role": "user",
       "posts": []
-    },
-    {
-      "id": "lu9f22txjbm",
-      "profile": {
-        "name": "ARMAN TADEVOSYAN",
-        "username": "arman777",
-        "password": "arman111",
-        "created": "10.02.2023",
-        "token": "M6IEbnXZm6HccP8qvdTOnCiJ_4isgUYW"
-      },
-      "role": "user",
-      "posts": [
-        {
-          "id": "1asd28wtjil",
-          "author": "ARMAN TADEVOSYAN",
-          "title": "ChatGPT (Chat Generative Pre-trained Transformer)[",
-          "description": "ChatGPT (Chat Generative Pre-trained Transformer)[2] is a chatbot developed by OpenAI and launched in November 2022. It is built on top of OpenAI's GPT-3 family of large language models and has been fine-tuned (an approach to transfer learning)[3] using both supervised and reinforcement learning techniques.",
-          "urlToImage": "https://unsplash.com/photos/rv2ooDQuNuI",
-          "url": "https://en.wikipedia.org/wiki/ChatGPT",
-          "publishedAt": "10.02.2023",
-          "content": "ChatGPT – a generative pre-trained transformer (GPT) – was fine-tuned on top of GPT-3.5 using supervised learning as well as reinforcement learning.[6] Both approaches used human trainers to improve the model's performance. In the case of supervised learning, the model was provided with conversations in which the trainers played both sides: the user and the AI assistant. In the reinforcement step, human trainers first ranked responses that the model had created in a previous conversation. These rankings were used to create 'reward models' that the model was further fine-tuned on using several iterations of Proximal Policy Optimization (PPO).[7][8] Proximal Policy Optimization algorithms present a cost-effective benefit to trust region policy optimization algorithms; they negate many of the computationally expensive operations with faster performance.[9][10] The models were trained in collaboration with Microsoft on their Azure supercomputing infrastructure."
-        },
-        {
-          "id": "2ppf8hhrh7k",
-          "author": "ARMAN TADEVOSYAN",
-          "title": "NEW POST 33333333333",
-          "description": "NEW POST 33333333333",
-          "urlToImage": "NEW POST 33333333333",
-          "url": "NEW POST 33333333333",
-          "publishedAt": "10.02.2023",
-          "content": "NEW POST 33333333333"
-        },
-        {
-          "id": "i6w3v1t4ygq",
-          "author": "ARMAN TADEVOSYAN",
-          "title": "NEW POST 222222222",
-          "description": "NEW POST 222222222",
-          "urlToImage": "NEW POST 222222222",
-          "url": "NEW POST 222222222",
-          "publishedAt": "10.02.2023",
-          "content": "NEW POST 222222222"
-        }
-      ]
     }
   ],
   "newsfeed": [
@@ -114,16 +123,6 @@
       "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/f381043365873cba42f825c7441c0845.jpg",
       "publishedAt": "2024-12-01T02:55:27.824Z",
       "content": "Twitch isnt just a place where artificial intelligence festers and drama proliferates. Its also a useful organizational platform for raising awareness around and funds for various global causes, whic… [+2523 chars]"
-    },
-    {
-      "id": "q22jr142gq",
-      "author": "bitcoin.com",
-      "title": "Reddit User Discovers 7zip File Possibly Linked to Julian Assange Hidden in Bitcoin Blockchain",
-      "description": "According to a post on the Reddit community r/bitcoin, an old file was discovered that may be linked to Julian Assange, the whistleblower and founder of Wikileaks. The encrypted 7zip file is in the output script from a transaction that took place on Jan. 5, 2…",
-      "url": "https://biztoc.com/x/6da84f9d3da8aa3c",
-      "urlToImage": "https://c.biztoc.com/p/6da84f9d3da8aa3c/og.webp",
-      "publishedAt": "2020-12-03T19:46:18.382Z",
-      "content": "According to a post on the Reddit community r/bitcoin, an old file was discovered that may be linked to Julian Assange, the whistleblower and founder of Wikileaks. The encrypted 7zip file is in the o… [+328 chars]"
     },
     {
       "id": "cw6e1cnuh6h",
@@ -1106,53 +1105,54 @@
       "content": "Bitcoin has entered the greed zone with the Fear and Greed Index at a 10-month high of 61, signalling a strong bullish sentiment. </li><li>The recent change in investors’ sentiments comes fol… [+2354 chars]"
     },
     {
-      "id": "1eew02a013j",
-      "author": "ARMAN TADEVOSYAN",
-      "title": "NEW POST 222222222",
-      "description": "NEW POST 222222222",
-      "urlToImage": "NEW POST 222222222",
-      "url": "NEW POST 222222222",
-      "publishedAt": "10.02.2023",
-      "content": "NEW POST 222222222"
+      "id": "uqfif2a807b",
+      "author": "Arman Tadevosyan",
+      "title": "POstahjalsk",
+      "description": "jkjashdflakjh",
+      "urlToImage": "halkdfjh",
+      "url": "ajkshdflkajh",
+      "publishedAt": "2/10/2023 8:32:39 PM",
+      "content": "hjkahsdlfkjashdf"
     },
     {
-      "id": "i6w3v1t4ygq",
-      "author": "ARMAN TADEVOSYAN",
-      "title": "NEW POST 222222222",
-      "description": "NEW POST 222222222",
-      "urlToImage": "NEW POST 222222222",
-      "url": "NEW POST 222222222",
-      "publishedAt": "10.02.2023",
-      "content": "NEW POST 222222222"
+      "id": "vs0l3jpwjff",
+      "author": "arman1234",
+      "title": "d",
+      "description": "",
+      "urlToImage": "",
+      "url": "",
+      "publishedAt": "2/10/2023 10:10:30 PM",
+      "content": ""
     },
     {
-      "id": "w7bbif3yrxc",
-      "title": "NEW POST 33333333333",
-      "description": "NEW POST 33333333333",
-      "urlToImage": "NEW POST 33333333333",
-      "url": "NEW POST 33333333333",
-      "publishedAt": "10.02.2023",
-      "content": "NEW POST 33333333333"
+      "id": "2v15x482w7g",
+      "author": "arman1234",
+      "title": "asdfasdf",
+      "description": "",
+      "urlToImage": "",
+      "url": "",
+      "publishedAt": "2/10/2023 10:16:22 PM",
+      "content": ""
     },
     {
-      "id": "2ppf8hhrh7k",
-      "author": "ARMAN TADEVOSYAN",
-      "title": "NEW POST 33333333333",
-      "description": "NEW POST 33333333333",
-      "urlToImage": "NEW POST 33333333333",
-      "url": "NEW POST 33333333333",
-      "publishedAt": "10.02.2023",
-      "content": "NEW POST 33333333333"
+      "id": "7d63e0n4p1x",
+      "author": "arman1234",
+      "title": "asdfasdf",
+      "description": "",
+      "urlToImage": "",
+      "url": "",
+      "publishedAt": "2/10/2023 10:18:06 PM",
+      "content": ""
     },
     {
-      "id": "1asd28wtjil",
-      "author": "ARMAN TADEVOSYAN",
-      "title": "ChatGPT (Chat Generative Pre-trained Transformer)[",
-      "description": "ChatGPT (Chat Generative Pre-trained Transformer)[2] is a chatbot developed by OpenAI and launched in November 2022. It is built on top of OpenAI's GPT-3 family of large language models and has been fine-tuned (an approach to transfer learning)[3] using both supervised and reinforcement learning techniques.",
-      "urlToImage": "https://unsplash.com/photos/rv2ooDQuNuI",
-      "url": "https://en.wikipedia.org/wiki/ChatGPT",
-      "publishedAt": "10.02.2023",
-      "content": "ChatGPT – a generative pre-trained transformer (GPT) – was fine-tuned on top of GPT-3.5 using supervised learning as well as reinforcement learning.[6] Both approaches used human trainers to improve the model's performance. In the case of supervised learning, the model was provided with conversations in which the trainers played both sides: the user and the AI assistant. In the reinforcement step, human trainers first ranked responses that the model had created in a previous conversation. These rankings were used to create 'reward models' that the model was further fine-tuned on using several iterations of Proximal Policy Optimization (PPO).[7][8] Proximal Policy Optimization algorithms present a cost-effective benefit to trust region policy optimization algorithms; they negate many of the computationally expensive operations with faster performance.[9][10] The models were trained in collaboration with Microsoft on their Azure supercomputing infrastructure."
+      "id": "e1xknf5u385",
+      "author": "arman1234",
+      "title": "sdfas",
+      "description": "",
+      "urlToImage": "",
+      "url": "",
+      "publishedAt": "2/10/2023 10:18:52 PM",
+      "content": ""
     }
   ]
 }

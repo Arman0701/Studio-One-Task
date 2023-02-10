@@ -1,0 +1,30 @@
+@import "../../../../sass/variables.scss";
+
+.removeModalWrapper {
+	width: fit-content;
+	display: flex;
+	flex-direction: column;
+	gap: 20px;
+
+	padding: 10px;
+	border-radius: 8px;
+	background: $-line-dark;
+
+	.actions {
+		display: flex;
+		gap: 10px;
+		button {
+			flex: 1;
+			color: white;
+			background: $-bg-dark;
+			border-radius: 4px;
+			padding: 5px 8px;
+			border: 2px solid transparent;
+
+			&:focus {
+				border-color: cornflowerblue;
+
+			}
+		}		
+	}
+}

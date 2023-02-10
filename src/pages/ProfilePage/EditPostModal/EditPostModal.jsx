@@ -3,17 +3,20 @@ import { useRef } from "react";
 import { useDispatch } from "react-redux";
 
 // import action creators
-import { addUserPost } from "../../../redux-store/userSlice";
-import { addPost } from "../../../redux-store/newsSlice";
+import { editUserPost } from "../../../redux-store/userSlice";
 
-// import helpers
-import generateFakeID from "../../../helpers/generateFakeID";
-import convertDate from "../../../helpers/convertDate";
+// import styles
+import style from "../NewPostModal/NewPostModal.module.scss";
 
-// import style
-import style from "./NewPostModal.module.scss";
+export default function EditPostModal({ close, article }) {
+	const {
+        title,
+        url,
+        urlToImage,
+        description,
+        content,
+    } = article;
 
-export default function NewPostModal({ close, currentUser }) {
 	const dispatch = useDispatch();
 	
     const titleRef = useRef();
@@ -21,56 +24,45 @@ export default function NewPostModal({ close, currentUser }) {
     const imageUrlRef = useRef();
     const sourceRef = useRef();
     const contentRef = useRef();
+	
+	function formSubmitHandler(e) {
+		e.preventDefault();
 
-    function formSubmitHandler(e) {
-        e.preventDefault();
-		const postData = {
-            id: generateFakeID(),
-			author: currentUser?.profile?.name,
+		dispatch(editUserPost({
+			...article,
 			title: titleRef.current.value,
-			description: descRef.current.value,
-			urlToImage: imageUrlRef.current.value,
 			url: sourceRef.current.value,
-			publishedAt: convertDate(),
+			urlToImage: imageUrlRef.current.value,
+			description: descRef.current.value,
 			content: contentRef.current.value
-		}
-
-		dispatch(addPost(postData))
-
-		dispatch(addUserPost({
-			...currentUser,
-			posts: [
-				postData,
-				...currentUser?.posts,
-			]
 		}))
-
-        close();
-    }
-
+		
+		close();
+	}
+	
     return (
         <div className={style.modalWrapper}>
             <form onSubmit={formSubmitHandler} onReset={close}>
-				<h3>Add a new post</h3>
+                <h3>Edit post</h3>
                 <label>
                     <span>Title</span>
-                    <input type="text" ref={titleRef} />
+                    <input type="text" ref={titleRef} defaultValue={title} />
                 </label>
                 <label>
                     <span>Source url</span>
-                    <input type="text" ref={sourceRef} />
+                    <input type="text" ref={sourceRef} defaultValue={url} />
                 </label>
                 <label>
                     <span>Image url</span>
-                    <input type="text" ref={imageUrlRef} />
+                    <input type="text" ref={imageUrlRef} defaultValue={urlToImage} />
                 </label>
                 <label>
                     <span>Description</span>
-                    <textarea ref={descRef} />
+                    <textarea ref={descRef} defaultValue={description} />
                 </label>
                 <label>
                     <span>Content</span>
-                    <textarea ref={contentRef} />
+                    <textarea ref={contentRef} defaultValue={content} />
                 </label>
 
                 <div className={style.actions}>

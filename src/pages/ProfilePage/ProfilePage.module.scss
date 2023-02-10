@@ -84,6 +84,9 @@
 			padding: 10px;
 			border: 5px solid $-line-dark;
 			border-left: none;
+			display: flex;
+			flex-direction: column;
+			gap: 30px;
 
 			background: $-bg-dark;
 
@@ -91,6 +94,19 @@
 				font-size: 18px;
 				font-weight: 400;
 				text-align: center;
+			}
+
+			> button {
+				width: fit-content;
+				margin: 0 auto;
+
+				font-size: 17px;
+				padding: 5px 8px;
+				color: white;
+				border-radius: 5px;
+				background: $-line-dark;
+
+				cursor: pointer;
 			}
 		}
 		

@@ -4,6 +4,7 @@
     width: 70%;
     margin: 0 auto;
 
+	position: relative;
     display: flex;
     flex-direction: column;
     gap: 15px;
@@ -25,6 +26,23 @@
         font-size: 14px;
         font-weight: 700;
     }
+
+	.articleActions {
+		position: absolute;
+		top: 25px;
+		right: 25px;
+
+		display: flex;
+		gap: 10px;
+
+		button {
+			background: none;
+			border: 2px solid $-white-02;
+			border-radius: 4px;
+			padding: 5px 12px;
+			cursor: pointer;
+		}
+	}
 
     header {
         display: flex;
