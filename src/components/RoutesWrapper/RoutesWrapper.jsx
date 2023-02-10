@@ -16,23 +16,33 @@ import PrivateRoute from "../../hocs/PrivateRoute";
 export default function RoutesWrapper() {
     const location = useLocation();
     const transitions = useTransition(location, {
-        from: { opacity: 0, y: 100 },
-        enter: { opacity: 1, y: 0 },
-        leave: { opacity: 0, y: -100 },
+        from: { opacity: 0,  x: -100, delay: 1000 },
+        enter: { opacity: 1, x: 0,  delay: 1000 },
+        leave: { opacity: 0, x: -100,  delay: 1000 },
     });
 
-    return transitions(() => (
-        <animated.div className={style.routesWrapper}>
-            <Routes>
+    return transitions((props, item) => (
+        <animated.div
+            className={style.routesWrapper}
+            style={{
+				...props,
+                position: "absolute",
+                width: "100%",
+            }}
+        >
+            <Routes location={item}>
                 <Route path="/" element={<MainPage />} />
                 <Route path="/login" element={<LoginPage />} />
                 <Route path="/register" element={<RegisterPage />} />
                 <Route path="/news" element={<NewsPage />} />
-                <Route path="/profile" element={
-					<PrivateRoute>
-						<ProfilePage />
-					</PrivateRoute>
-				} />
+                <Route
+                    path="/profile"
+                    element={
+                        <PrivateRoute>
+                            <ProfilePage />
+                        </PrivateRoute>
+                    }
+                />
             </Routes>
         </animated.div>
     ));
