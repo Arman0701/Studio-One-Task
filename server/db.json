@@ -1,1158 +1,1077 @@
 {
-  "users": [
-    {
-      "id": "lfsotgc7sc",
-      "profile": {
-        "name": "Arman Tadevosyan",
-        "username": "arman1234",
-        "password": "arman1234",
-        "created": "07.02.2023",
-        "token": "P780qE2Q25rcVpytkZpx0AjEUsVYWLNG"
-      },
-      "role": "user",
-      "posts": [
+    "users": [
         {
-          "id": "uqfif2a807b",
-          "author": "Arman Tadevosyan",
-          "title": "POstahjalsk",
-          "description": "jkjashdflakjh",
-          "urlToImage": "halkdfjh",
-          "url": "ajkshdflkajh",
-          "publishedAt": "2/10/2023 8:32:39 PM",
-          "content": "hjkahsdlfkjashdf"
+            "id": "lfsotgc7sc",
+            "profile": {
+                "name": "Arman Tadevosyan",
+                "username": "arman1234",
+                "password": "arman1234",
+                "created": "07.02.2023",
+                "token": "P780qE2Q25rcVpytkZpx0AjEUsVYWLNG"
+            },
+            "role": "user",
+            "posts": [
+                {
+					"id": "lgvbyb7a02",
+					"author": "Arman Tadevosyan",
+					"title": "Twitch, YouTube Streamers Raise Big Funds For Syria-Turkey Earthquake Relief",
+					"description": "Twitch isn’t just a place where artificial intelligence festers and drama proliferates. It’s also a useful organizational platform for raising awareness around and funds for various global causes, which is exactly what a handful of big-name streamers, like Be…",
+					"url": "https://kotaku.com/twitch-streamers-youtube-syria-turkey-earthquake-hasan-1850084424",
+					"urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/f381043365873cba42f825c7441c0845.jpg",
+					"publishedAt": "2024-12-01T02:55:27.824Z",
+					"content": "Twitch isnt just a place where artificial intelligence festers and drama proliferates. Its also a useful organizational platform for raising awareness around and funds for various global causes, whic… [+2523 chars]"
+				}
+            ]
+        },
+        {
+            "id": "9d4gx9soud",
+            "profile": {
+                "name": "arman1234",
+                "username": "arman1234",
+                "password": "arman123",
+                "created": "07.02.2023",
+                "token": "fcmekh0HHo1Wf9me1RNNpAWxVGcov4qY"
+            },
+            "role": "user",
+            "posts": []
+        },
+        {
+            "id": "r0xfe66vuck",
+            "profile": {
+                "name": "arman 4",
+                "username": "arman123",
+                "password": "arman1234",
+                "created": "07.02.2023",
+                "token": "9yNshSK0exzxG4ONSFjNzJrfn0cRgh8b"
+            },
+            "role": "user",
+            "posts": []
+        },
+        {
+            "id": "1k5typeebtfj",
+            "profile": {
+                "name": "arman 5",
+                "username": "arman1235",
+                "password": "arman1234",
+                "created": "07.02.2023",
+                "token": "Jsmgbs5aClB67yS6l25-ld81SWwEDnjk"
+            },
+            "role": "user",
+            "posts": []
+        },
+        {
+            "id": "zj26c5xc05d",
+            "profile": {
+                "name": "arman 66",
+                "username": "arman1234213",
+                "password": "arman123",
+                "created": "07.02.2023",
+                "token": "OcvPrdKV4FPeIc3PdbpLzL0qE26Shcj6"
+            },
+            "role": "user",
+            "posts": []
         }
-      ]
-    },
-    {
-      "id": "9d4gx9soud",
-      "profile": {
-        "name": "arman1234",
-        "username": "arman1234",
-        "password": "arman123",
-        "created": "07.02.2023",
-        "token": "fcmekh0HHo1Wf9me1RNNpAWxVGcov4qY"
-      },
-      "role": "user",
-      "posts": [
+    ],
+    "newsfeed": [
         {
-          "id": "e1xknf5u385",
-          "author": "arman1234",
-          "title": "sdfas",
-          "description": "",
-          "urlToImage": "",
-          "url": "",
-          "publishedAt": "2/10/2023 10:18:52 PM",
-          "content": ""
+            "id": "lgvbyb7a02",
+            "author": "Levi Winslow",
+            "title": "Twitch, YouTube Streamers Raise Big Funds For Syria-Turkey Earthquake Relief",
+            "description": "Twitch isn’t just a place where artificial intelligence festers and drama proliferates. It’s also a useful organizational platform for raising awareness around and funds for various global causes, which is exactly what a handful of big-name streamers, like Be…",
+            "url": "https://kotaku.com/twitch-streamers-youtube-syria-turkey-earthquake-hasan-1850084424",
+            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/f381043365873cba42f825c7441c0845.jpg",
+            "publishedAt": "2024-12-01T02:55:27.824Z",
+            "content": "Twitch isnt just a place where artificial intelligence festers and drama proliferates. Its also a useful organizational platform for raising awareness around and funds for various global causes, whic… [+2523 chars]"
         },
         {
-          "id": "7d63e0n4p1x",
-          "author": "arman1234",
-          "title": "asdfasdf",
-          "description": "",
-          "urlToImage": "",
-          "url": "",
-          "publishedAt": "2/10/2023 10:18:06 PM",
-          "content": ""
+            "id": "cw6e1cnuh6h",
+            "author": "cryptoslate.com",
+            "title": "Average BTC block size reaches new ATH at over 2 MB",
+            "description": "Glassnode data analyzed by CryptoSlate shows that Bitcoin (BTC) average block size reached a new all-time high by reaching 2.25 megabytes (MB). BTC Mean Block Size (Source: Glassnode) The chart above demonstrates the average block size of BTC since the beginn…",
+            "url": "https://biztoc.com/x/7365b200a122e070",
+            "urlToImage": "https://c.biztoc.com/p/7365b200a122e070/og.webp",
+            "publishedAt": "2027-10-29T00:57:14.824Z",
+            "content": "Glassnode data analyzed by CryptoSlate shows that Bitcoin (BTC) average block size reached a new all-time high by reaching 2.25 megabytes (MB).BTC Mean Block Size (Source: Glassnode)The chart above d… [+288 chars]"
         },
         {
-          "id": "2v15x482w7g",
-          "author": "arman1234",
-          "title": "asdfasdf",
-          "description": "",
-          "urlToImage": "",
-          "url": "",
-          "publishedAt": "2/10/2023 10:16:22 PM",
-          "content": ""
+            "id": "k74th7y6dve",
+            "author": "u.today",
+            "title": "Jim Cramer's Latest Insight: Here’s What Crypto Investors Need to Know",
+            "description": "In a recent tweet, Jim Cramer, the host of CNBC's “Mad Money”, recently reiterated his opinion that a new bull market is already here. This comes as no surprise given his previous comments on the state of the markets. Back in January, Cramer told investors th…",
+            "url": "https://biztoc.com/x/564fbf34f7ca5010",
+            "urlToImage": "https://c.biztoc.com/p/564fbf34f7ca5010/og.webp",
+            "publishedAt": "2021-10-03T10:08:44.617Z",
+            "content": "In a recent tweet, Jim Cramer, the host of CNBC's Mad Money, recently reiterated his opinion that a new bull market is already here.This comes as no surprise given his previous comments on the state … [+306 chars]"
         },
         {
-          "id": "vs0l3jpwjff",
-          "author": "arman1234",
-          "title": "d",
-          "description": "",
-          "urlToImage": "",
-          "url": "",
-          "publishedAt": "2/10/2023 10:10:30 PM",
-          "content": ""
-        }
-      ]
-    },
-    {
-      "id": "r0xfe66vuck",
-      "profile": {
-        "name": "arman 4",
-        "username": "arman123",
-        "password": "arman1234",
-        "created": "07.02.2023",
-        "token": "9yNshSK0exzxG4ONSFjNzJrfn0cRgh8b"
-      },
-      "role": "user",
-      "posts": []
-    },
-    {
-      "id": "1k5typeebtfj",
-      "profile": {
-        "name": "arman 5",
-        "username": "arman1235",
-        "password": "arman1234",
-        "created": "07.02.2023",
-        "token": "Jsmgbs5aClB67yS6l25-ld81SWwEDnjk"
-      },
-      "role": "user",
-      "posts": []
-    },
-    {
-      "id": "zj26c5xc05d",
-      "profile": {
-        "name": "arman 66",
-        "username": "arman1234213",
-        "password": "arman123",
-        "created": "07.02.2023",
-        "token": "OcvPrdKV4FPeIc3PdbpLzL0qE26Shcj6"
-      },
-      "role": "user",
-      "posts": []
-    }
-  ],
-  "newsfeed": [
-    {
-      "id": "lgvbyb7a02",
-      "author": "Levi Winslow",
-      "title": "Twitch, YouTube Streamers Raise Big Funds For Syria-Turkey Earthquake Relief",
-      "description": "Twitch isn’t just a place where artificial intelligence festers and drama proliferates. It’s also a useful organizational platform for raising awareness around and funds for various global causes, which is exactly what a handful of big-name streamers, like Be…",
-      "url": "https://kotaku.com/twitch-streamers-youtube-syria-turkey-earthquake-hasan-1850084424",
-      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/f381043365873cba42f825c7441c0845.jpg",
-      "publishedAt": "2024-12-01T02:55:27.824Z",
-      "content": "Twitch isnt just a place where artificial intelligence festers and drama proliferates. Its also a useful organizational platform for raising awareness around and funds for various global causes, whic… [+2523 chars]"
-    },
-    {
-      "id": "cw6e1cnuh6h",
-      "author": "cryptoslate.com",
-      "title": "Average BTC block size reaches new ATH at over 2 MB",
-      "description": "Glassnode data analyzed by CryptoSlate shows that Bitcoin (BTC) average block size reached a new all-time high by reaching 2.25 megabytes (MB). BTC Mean Block Size (Source: Glassnode) The chart above demonstrates the average block size of BTC since the beginn…",
-      "url": "https://biztoc.com/x/7365b200a122e070",
-      "urlToImage": "https://c.biztoc.com/p/7365b200a122e070/og.webp",
-      "publishedAt": "2027-10-29T00:57:14.824Z",
-      "content": "Glassnode data analyzed by CryptoSlate shows that Bitcoin (BTC) average block size reached a new all-time high by reaching 2.25 megabytes (MB).BTC Mean Block Size (Source: Glassnode)The chart above d… [+288 chars]"
-    },
-    {
-      "id": "k74th7y6dve",
-      "author": "u.today",
-      "title": "Jim Cramer's Latest Insight: Here’s What Crypto Investors Need to Know",
-      "description": "In a recent tweet, Jim Cramer, the host of CNBC's “Mad Money”, recently reiterated his opinion that a new bull market is already here. This comes as no surprise given his previous comments on the state of the markets. Back in January, Cramer told investors th…",
-      "url": "https://biztoc.com/x/564fbf34f7ca5010",
-      "urlToImage": "https://c.biztoc.com/p/564fbf34f7ca5010/og.webp",
-      "publishedAt": "2021-10-03T10:08:44.617Z",
-      "content": "In a recent tweet, Jim Cramer, the host of CNBC's Mad Money, recently reiterated his opinion that a new bull market is already here.This comes as no surprise given his previous comments on the state … [+306 chars]"
-    },
-    {
-      "id": "q1qj78cweon",
-      "author": "Beyond Market Insights",
-      "title": "Cryptocurrency Market is likely to reach $12.10 billion by 2030 Globally at a CAGR of 11.9 %",
-      "description": "According to Beyond Market Insights, the global cryptocurrency market size was worth USD 4.40 billion in 2021 and is estimated to grow to USD 12.10 billion by 2030, with a CAGR of 11.9 % between 2022 to 2030. Industry Overview, Trend Analysis, Growth, Researc…",
-      "url": "https://www.globenewswire.com/news-release/2023/02/07/2603472/0/en/Cryptocurrency-Market-is-likely-to-reach-12-10-billion-by-2030-Globally-at-a-CAGR-of-11-9.html",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/088ef293-2128-4fec-bdbd-69eee39d5de5?size=1",
-      "publishedAt": "2025-12-25T08:52:47.683Z",
-      "content": "Austin, Feb. 07, 2023 (GLOBE NEWSWIRE) -- Cryptocurrency Market Overview: Cryptocurrency is a form of currency with no central issuing or regulatory organization above it and only exists in digital f… [+13213 chars]"
-    },
-    {
-      "id": "30vp5msslc",
-      "author": "Jesús González",
-      "title": "Bitcoin en español: El Salvador enfrenta críticas por bono BTC y nace Ley Fintech en Chile",
-      "description": "Los sistemas monetarios de Latinoamérica están en disyuntiva entre el sistema establecido y las nuevas economías.\nLeer más",
-      "url": "https://www.criptonoticias.com/comunidad/bitcoin-salvador-enfrenta-criticas-bono-btc-nace-ley-fintech-chile/",
-      "urlToImage": "https://www.criptonoticias.com/wp-content/uploads/2023/01/bitcoin-el-salvador-bonos.png",
-      "publishedAt": "2026-12-23T08:18:05.820Z",
-      "content": "Hechos clave:\r\nUna moneda única para Latinoamérica genera debate en la comunidad.\r\n</li><li>Los pagos con criptomonedas crecen en Latinoamérica y te explicamos las razones.\r\n</li></ul>\r\nBitco… [+5782 chars]"
-    },
-    {
-      "id": "k2qp4cuztt",
-      "author": "Zeynep Geylan",
-      "title": "Average BTC block size reaches new ATH at over 2 MB",
-      "description": "Glassnode data analyzed by CryptoSlate shows that Bitcoin (BTC) average block size reached a new all-time high by reaching 2.25 megabytes (MB). \nThe post Average BTC block size reaches new ATH at over 2 MB appeared first on CryptoSlate.",
-      "url": "https://cryptoslate.com/average-btc-block-size-reaches-new-ath-at-over-2-mb/",
-      "urlToImage": "https://cryptoslate.com/wp-content/uploads/2023/01/bitcoin-open-interest.jpg",
-      "publishedAt": "2018-09-12T03:03:39.242Z",
-      "content": "Glassnode data analyzed by CryptoSlate shows that Bitcoin (BTC) average block size reached a new all-time high by reaching 2.25 megabytes (MB).\r\nBTC Mean Block Size (Source: Glassnode)\r\nThe chart abo… [+1451 chars]"
-    },
-    {
-      "id": "w92109k67db",
-      "author": "Stan Kaminsky",
-      "title": "Fraudes em recrutamentos: como reconhecê-las e evitá-las",
-      "description": "Os principais métodos de engano usados ao “contratar” em 2023",
-      "url": "https://www.kaspersky.com.br/blog/top-2023-job-scams-and-how-to-avoid-them/20659/",
-      "urlToImage": "https://media.kasperskydaily.com/wp-content/uploads/sites/94/2023/02/07170847/2023-job-scams-and-how-to-avoid-them-featured-1.jpg",
-      "publishedAt": "2023-03-28T02:02:40.332Z",
-      "content": "Empregos falsos existem há séculos. Até o próprio Sherlock Holmes os encontrou em The Red-Headed League, de Arthur Conan Doyle. Os verdadeiros fraudadores são tão sofisticados quanto os personagens l… [+10240 chars]"
-    },
-    {
-      "id": "5o62s5y4v9x",
-      "author": "coindesk.com",
-      "title": "Bitcoin Favored Over Ether by CME Traders So Far This Year, Arcane Research Report Shows",
-      "description": "Bitcoin Favored Over Ether by CME Traders So Far This Year, Arcane Research Report Shows Open interest in bitcoin futures on the Chicago Mercantile Exchange has risen while ether’s has declined, according to an Arcane Research report.#cmetraderssofar #arcaner…",
-      "url": "https://biztoc.com/x/5d13077029952eb0",
-      "urlToImage": "https://c.biztoc.com/p/5d13077029952eb0/og.webp",
-      "publishedAt": "2024-08-15T07:44:53.614Z",
-      "content": "Bitcoin Favored Over Ether by CME Traders So Far This Year, Arcane Research Report ShowsOpen interest in bitcoin futures on the Chicago Mercantile Exchange has risen while ethers has declined, accord… [+117 chars]"
-    },
-    {
-      "id": "rlqjo2vw009",
-      "author": "Andrea Leal",
-      "title": "¿Qué es Tether (USDT)?",
-      "description": "Tether es una stablecoin que salió al mercado en el año 2014 y ahora es la criptomoneda con mayor volumen de comercialización.\nLeer más",
-      "url": "https://www.criptonoticias.com/?p=370228",
-      "urlToImage": "https://www.criptonoticias.com/wp-content/uploads/2023/01/portada-criptopedia-tether.jpg",
-      "publishedAt": "2029-07-19T06:03:22.768Z",
-      "content": "Tether (USDT) es una de las criptomonedas estables (stablecoins) más populares y con mayor capitalización de mercado que existen hoy en día. Se trata de una herramienta financiera capaz de interactua… [+16523 chars]"
-    },
-    {
-      "id": "bx65t6isc6d",
-      "author": "coinjournal.net",
-      "title": "Bitcoin’s on-chain metrics are flipping bullish: Bitfinex report",
-      "description": "Bitfinex market report points to bullish metrics for BTC Supply in Profit, Bitcoin Realised HODL (RHODL) Multiple and Reserve Risk ratio are all flashing green. Bitcoin has traded to above $23k again after slipping on Monday following broader market reaction …",
-      "url": "https://biztoc.com/x/30d9e4b8804c8f6e",
-      "urlToImage": "https://c.biztoc.com/p/30d9e4b8804c8f6e/og.webp",
-      "publishedAt": "2027-08-29T09:51:49.150Z",
-      "content": "Bitfinex market report points to bullish metrics for BTCSupply in Profit, Bitcoin Realised HODL (RHODL) Multiple and Reserve Risk ratio are all flashing green.Bitcoin has traded to above $23k again a… [+321 chars]"
-    },
-    {
-      "id": "et8zngd3o4o",
-      "author": "Benson Toti",
-      "title": "Bitcoin’s on-chain metrics are flipping bullish: Bitfinex report",
-      "description": "Bitfinex market report points to bullish metrics for BTC Supply in Profit, Bitcoin Realised HODL (RHODL) Multiple and Reserve Risk ratio are all flashing green. Bitcoin has traded to above $23k again after slipping on Monday following broader market reaction …",
-      "url": "https://coinjournal.net/news/bitcoins-on-chain-metrics-are-flipping-bullish-bitfinex-report/",
-      "urlToImage": "https://coinjournal.net/wp-content/uploads/1970/01/1675799640578-df4cff83-911a-413d-a48a-18dbf21119ce.jpg",
-      "publishedAt": "2023-09-20T20:03:39.056Z",
-      "content": "Bitfinex market report points to bullish metrics for BTC</li><li>Supply in Profit, Bitcoin Realised HODL (RHODL) Multiple and Reserve Risk ratio are all flashing green.</li><li>Bitcoin has tr… [+3820 chars]"
-    },
-    {
-      "id": "y5an463xm",
-      "author": "cnn.com",
-      "title": "‘Britcoin’ could arrive in the second half of the decade",
-      "description": "The United Kingdom is pushing ahead with plans to create a digital pound issued by the Bank of England that would offer a stable alternative to bitcoin or ether. The central bank and the UK Treasury said Monday that an official digital currency is “likely to …",
-      "url": "https://biztoc.com/x/6610c9d55aaca881",
-      "urlToImage": "https://c.biztoc.com/p/6610c9d55aaca881/og.webp",
-      "publishedAt": "2021-07-16T23:27:05.665Z",
-      "content": "The United Kingdom is pushing ahead with plans to create a digital pound issued by the Bank of England that would offer a stable alternative to bitcoin or ether.The central bank and the UK Treasury s… [+316 chars]"
-    },
-    {
-      "id": "55cog1zacc9",
-      "author": "dailyhodl.com",
-      "title": "Scaling Firm StarkWare To Make Key Technology Open Source",
-      "description": "layer-2 scaling firm Starkware is revealing its plans to open source one of its software products. The blockchain company says its Starknet Prover, which powers its scalability engine, will be made open source to boost accessibility to developers and promote …",
-      "url": "https://biztoc.com/x/198a3f6d2daec06c",
-      "urlToImage": "https://c.biztoc.com/p/198a3f6d2daec06c/og.webp",
-      "publishedAt": "2017-12-31T14:18:28.552Z",
-      "content": "layer-2 scaling firm Starkware is revealing its plans to open source one of its software products.The blockchain company says its Starknet Prover, which powers its scalability engine, will be made op… [+301 chars]"
-    },
-    {
-      "id": "rjtc5lgtmr",
-      "author": "dailyhodl.com",
-      "title": "JPMorgan Institutional Survey Says Crypto and Blockchain To Soar in Prominence This Year",
-      "description": "A new survey conducted by banking giant JPMorgan finds that institutional traders believe cryptocurrency and blockchain technologies will become more mainstream in 2023. JPMorgan’s new “The e-Trading Edit: Insights from the Inside” survey reports that all ins…",
-      "url": "https://biztoc.com/x/c131eb93b5c91b55",
-      "urlToImage": "https://c.biztoc.com/p/c131eb93b5c91b55/og.webp",
-      "publishedAt": "2020-05-25T14:36:38.350Z",
-      "content": "A new survey conducted by banking giant JPMorgan finds that institutional traders believe cryptocurrency and blockchain technologies will become more mainstream in 2023.JPMorgans new The e-Trading Ed… [+334 chars]"
-    },
-    {
-      "id": "cf3bap9ksp7",
-      "author": null,
-      "title": "Jarden Brief: New car shortages and leisure travel boom drive rental car company up",
-      "description": "All eyes and ears on Fed chairman for potential insights on interest rates.",
-      "url": "https://www.nzherald.co.nz/business/jarden-brief-new-car-shortages-and-leisure-travel-boom-drive-rental-car-company-up/MZXB6WOPEFGFLAWRVCWQM52WCU/",
-      "urlToImage": "https://www.nzherald.co.nz/resizer/PkIltcYdBHctlnqn_UqMFMdldXY=/1200x675/smart/filters:quality(70)/cloudfront-ap-southeast-2.images.arcpublishing.com/nzme/IDDHH2R5LRBBNDU6DC57SAOP7A.jpg",
-      "publishedAt": "2023-11-10T01:29:50.882Z",
-      "content": "Hertz Global gained after reporting strong demand for rental cars from leisure travelers and demand for car buyers facing automotive shortages. Photo / Cindy Ord, Getty ImagesKeeping you up to date w… [+5918 chars]"
-    },
-    {
-      "id": "0o6yqgrrqitj",
-      "author": "Siamak Masnavi",
-      "title": "BitMEX Co-Founder on Bitcoin: “Time To Get In While the Getting Is Good”",
-      "description": "On Tuesday (7 February 2023), Arthur Hayes, Co-Founder and former CEO of BitMEX, revealed that he is getting back into Bitcoin even though he realizes that “buying into Bitcoin when it is already up 50% off the lows is dangerous.” In a blog post published ear…",
-      "url": "https://www.cryptoglobe.com/latest/2023/02/bitmex-co-founder-on-bitcoin-time-to-get-in-while-the-getting-is-good/",
-      "urlToImage": "https://cryptoglobe.s3.eu-west-2.amazonaws.com/2022/08/bitcoin-g4c5ff6894_1920-768x508.jpg",
-      "publishedAt": "2024-05-16T05:39:52.867Z",
-      "content": "On Tuesday (7 February 2023), Arthur Hayes, Co-Founder and former CEO of BitMEX, revealed that he is getting back into Bitcoin even though he realizes that buying into Bitcoin when it is already up 5… [+1315 chars]"
-    },
-    {
-      "id": "zwtqn7sduq",
-      "author": "Jess Weatherbed",
-      "title": "Disney removes Simpsons episode in Hong Kong that references Chinese labor camps",
-      "description": "Disney has pulled the One Angry Lisa episode of The Simpsons that alludes to “forced labor camps where children make smartphones” from its Disney Plus streaming platform in Hong Kong.",
-      "url": "https://www.theverge.com/2023/2/7/23589559/disney-removes-simpsons-episode-hong-kong-china-labor-camps",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/uNDv1sLRESQiMvFVABg8hopATN8=/0x0:2959x1942/1200x628/filters:focal(1480x971:1481x972)/cdn.vox-cdn.com/uploads/chorus_asset/file/24415875/One_Angry_Lisa_The_Simpsons.jpg",
-      "publishedAt": "2029-09-16T21:17:15.213Z",
-      "content": "Disney removes Simpsons episode in Hong Kong that references Chinese labor camps\r\nDisney removes Simpsons episode in Hong Kong that references Chinese labor camps\r\n / The episode One Angry Lisa has b… [+2411 chars]"
-    },
-    {
-      "id": "qrj2ypt4gws",
-      "author": "ambcrypto.com",
-      "title": "Bitcoin: For the first time since April 2022, BTC holders see profit",
-      "description": "The recent rally in BTC’s price has put many holders in profit. • Many holders are, however, inclined to sell, rather than hold. In the first 30 days of 2023, Bitcoin’s price rallied significantly, causing many of its holders to hold unrealized profits. Howev…",
-      "url": "https://biztoc.com/x/b435b782a31b7f3a",
-      "urlToImage": "https://c.biztoc.com/p/b435b782a31b7f3a/og.webp",
-      "publishedAt": "2023-05-23T01:24:45.454Z",
-      "content": "The recent rally in BTCs price has put many holders in profit.Many holders are, however, inclined to sell, rather than hold.In the first 30 days of 2023, Bitcoins price rallied significantly, causing… [+291 chars]"
-    },
-    {
-      "id": "66l4xz1x1lf",
-      "author": "cryptodaily.co.uk",
-      "title": "Coinbase-Backed DeSo Unveils MegaSwap, a \"Stripe for Crypto\" product, with Over $5 Million in Volume",
-      "description": "Los Angeles, United States, 7th February, 2023, Chainwire DeSo is excited to announce the launch of MegaSwap – a revolutionary, cross-chain smart service that enables users to securely and easily swap coins between different blockchains with a frictionless ze…",
-      "url": "https://biztoc.com/x/c3163a0a015c7621",
-      "urlToImage": "https://c.biztoc.com/p/c3163a0a015c7621/og.webp",
-      "publishedAt": "2027-11-06T13:23:05.853Z",
-      "content": "Los Angeles, United States, 7th February, 2023, ChainwireDeSo is excited to announce the launch of MegaSwap a revolutionary, cross-chain smart service that enables users to securely and easily swap c… [+281 chars]"
-    },
-    {
-      "id": "jnejq1gal4l",
-      "author": "Abiodun Oladokun",
-      "title": "Bitcoin: For the first time since April 2022, BTC holders see profit",
-      "description": "The recent rally in BTC’s price has put many holders in profit. Many holders are, however, inclined to sell, rather than hold. In the first 30 days of 2023, Bitcoin’s price rallied significantly, causing many of its holders to hold unrealized profits. However…",
-      "url": "https://ambcrypto.com/bitcoin-for-the-first-time-since-april-2022-btc-holders-see-profit/",
-      "urlToImage": "https://ambcrypto.com/wp-content/uploads/2023/02/madison-oren-uGP_6CAD-14-unsplash-2-1000x600.jpg",
-      "publishedAt": "2019-12-26T07:51:53.538Z",
-      "content": "The recent rally in BTC’s price has put many holders in profit.</li><li>Many holders are, however, inclined to sell, rather than hold.</li></ul>In the first 30 days of 2023, Bitcoins price ra… [+2917 chars]"
-    },
-    {
-      "id": "8t9kva080c5",
-      "author": "cnbc.com",
-      "title": "Bitcoin trades around $23,000 after Fed Chair Powell warns that rates could rise further",
-      "description": "More than $1.3 trillion has been wiped off the cryptocurrency market so far in 2022 as the fallout from the FTX collapse continues to weigh on investor confidence. Bitcoin hovered around the $23,000 level after Federal Reserve Chair Jerome Powell spoke at an …",
-      "url": "https://biztoc.com/x/c2f7374838bf5f02",
-      "urlToImage": "https://c.biztoc.com/p/c2f7374838bf5f02/og.webp",
-      "publishedAt": "2029-10-22T20:42:06.723Z",
-      "content": "More than $1.3 trillion has been wiped off the cryptocurrency market so far in 2022 as the fallout from the FTX collapse continues to weigh on investor confidence.Bitcoin hovered around the $23,000 l… [+290 chars]"
-    },
-    {
-      "id": "gtiw1woae4m",
-      "author": "Meredith Clark",
-      "title": "Super Bowl 2023: The 10 most controversial Super Bowl ads ever",
-      "description": "From robot suicide to cryptocurrency, the Super Bowl has been known to air controversial ads during the big game",
-      "url": "https://www.independent.co.uk/life-style/super-bowl-sunday-controversial-ads-commercials-nfl-b2277653.html",
-      "urlToImage": "https://static.independent.co.uk/2023/02/03/17/controversial%20super%20bowl%20ad.jpg?quality=75&width=1200&auto=webp",
-      "publishedAt": "2028-08-26T05:30:35.481Z",
-      "content": "Stay ahead of the trend in fashion and beyond with our free weekly Lifestyle Edit newsletter\r\nStay ahead of the trend in fashion and beyond with our free weekly Lifestyle Edit newsletter \r\nThe Super … [+6256 chars]"
-    },
-    {
-      "id": "b8j6hl73ovc",
-      "author": "By Danica Kirka",
-      "title": "Britcoin? UK closer to launching digital currency version of pound",
-      "description": "\"Britcoin\" is a digital version of the pound, not a cryptocurrency.",
-      "url": "https://www.nzherald.co.nz/business/britcoin-uk-closer-to-launching-digital-currency-version-of-pound/CAMLUA7W5NCEBAXICXWOW6P3QY/",
-      "urlToImage": "https://www.nzherald.co.nz/resizer/42mbtyOkLLwahT6xxdNXdwysCOc=/1200x675/smart/filters:quality(70)/cloudfront-ap-southeast-2.images.arcpublishing.com/nzme/AQL3Z62675FI3JMB727LLS2GJA.JPG",
-      "publishedAt": "2028-05-15T15:33:45.199Z",
-      "content": "The Union Jack flag waves on top of the Bank of England in London this month. Could the UK be heading towards a digital pound, known as \"Britcoin\"? Photo / APBritcoin is moving closer to reality.\r\nUK… [+3323 chars]"
-    },
-    {
-      "id": "vpgq75pyrj9",
-      "author": "decrypt.co",
-      "title": "Bitcoin Pops, Then Drops as Fed Chief Powell Says Beating Inflation Will 'Take Time'",
-      "description": "Bitcoin swung upwards with stocks but then settled lower following Federal Reserve Chairman Jerome Powell’s comments that the central bank is beginning to get inflation under control. Powell cautioned, however, that it will take a long time to fully tame infl…",
-      "url": "https://biztoc.com/x/97dd11ed6971aeb3",
-      "urlToImage": "https://c.biztoc.com/p/97dd11ed6971aeb3/og.webp",
-      "publishedAt": "2019-08-19T13:58:57.515Z",
-      "content": "Bitcoin swung upwards with stocks but then settled lower following Federal Reserve Chairman Jerome Powells comments that the central bank is beginning to get inflation under control. Powell cautioned… [+305 chars]"
-    },
-    {
-      "id": "oh7osi7qrs",
-      "author": "Crypto Daily",
-      "title": "Coinbase-Backed DeSo Unveils MegaSwap, a \"Stripe for Crypto\" product, with Over $5 Million in Volume",
-      "description": "Los Angeles, United States, 7th February, 2023, ChainwireDeSo is excited to announce the launch of MegaSwap – a revolutionary, cross-chain smart service that enables users to securely and easily swap coins between different blockchains with a frictionless zer…",
-      "url": "https://cryptodaily.co.uk/2023/02/coinbase-backed-deso-unveils-megaswap-a-stripe-for-crypto-product-with-over-5-million-in-volume",
-      "urlToImage": "https://app.chainwire.org/storage/uploads/users/megaswap-solana_16757551838bQYTL6Gtc.jpg",
-      "publishedAt": "2029-11-10T10:00:23.915Z",
-      "content": "Los Angeles, United States, 7th February, 2023, Chainwire\r\nDeSo\r\nis excited to announce the launch of MegaSwap \r\n– a revolutionary, cross-chain smart service that enables users to securely and easily… [+3841 chars]"
-    },
-    {
-      "id": "ri129s28gem",
-      "author": "beincrypto.com",
-      "title": "‘Britcoin’ CBDC Is Nothing Like Crypto, Says Bank of England",
-      "description": "The UK’s central bank, the Bank of England, made it very clear on Tuesday that they do not want you to refer to the country’s CBDC as ‘Britcoin.’ British and international press — including CNN, ABC News, The Guardian, The Daily Mail, and others — have adopte…",
-      "url": "https://biztoc.com/x/a13f01e38d702cf9",
-      "urlToImage": "https://c.biztoc.com/p/a13f01e38d702cf9/og.webp",
-      "publishedAt": "2028-06-26T16:53:24.293Z",
-      "content": "The UKs central bank, the Bank of England, made it very clear on Tuesday that they do not want you to refer to the countrys CBDC as Britcoin. British and international press including CNN, ABC News, … [+308 chars]"
-    },
-    {
-      "id": "xq9tp3ckd5",
-      "author": "Abdullah",
-      "title": "Here’s how to get rich using ChatGPT!",
-      "description": "Can you make a million dollars using ChatGPT? Many popular influencers claim that it is possible and accessible to anyone. Unfortunately, this lovely promise is ...\nThe post Here’s how to get rich using ChatGPT! appeared first on Gizchina.com.",
-      "url": "https://www.gizchina.com/2023/02/07/heres-how-to-get-rich-using-chatgpt/",
-      "urlToImage": "https://www.gizchina.com/wp-content/uploads/images/2023/02/ChatGPT.jpg",
-      "publishedAt": "2027-03-03T19:51:18.180Z",
-      "content": "Can you make a million dollars using ChatGPT? Many popular influencers claim that it is possible and accessible to anyone. Unfortunately, this lovely promise is more of a mirage than anything else.\r\n… [+7317 chars]"
-    },
-    {
-      "id": "5pbiitzy46f",
-      "author": "Mathew Di Salvo",
-      "title": "Bitcoin Pops, Then Drops as Fed Chief Powell Says Beating Inflation Will 'Take Time'",
-      "description": "Powell today said that there will be “significant declines in inflation” this year, but there's no guarantee it will be easy.",
-      "url": "https://decrypt.co/120771/bitcoin-price-fed-chief-jerome-powell-inflation",
-      "urlToImage": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2020/02/fed-chairman-powell-federal-reserve-dollar-digital-currency-central-bank1-gID_6.jpg@png",
-      "publishedAt": "2017-08-12T08:53:12.304Z",
-      "content": "Bitcoin swung upwards with stocks but then settled lower following Federal Reserve Chairman Jerome Powells comments that the central bank is beginning to get inflation under control. Powell cautioned… [+1874 chars]"
-    },
-    {
-      "id": "uenc2ot4wvm",
-      "author": "geyser.fund",
-      "title": "Geyser Fund",
-      "description": "Geyser is a bitcoin crowdfunding platform that enables campaign creators to launch their projects with rewards and engage their communities with posts and content.",
-      "url": "https://biztoc.com/x/9eb757bfc4a9315a",
-      "urlToImage": "https://c.biztoc.com/p/9eb757bfc4a9315a/og.webp",
-      "publishedAt": "2028-02-07T04:50:23.330Z",
-      "content": "Geyser is a bitcoin crowdfunding platform that enables campaign creators to launch their projects with rewards and engage their communities with posts and content. \r\n This story appeared on geyser.fu… [+14 chars]"
-    },
-    {
-      "id": "cqxiaxosyb6",
-      "author": "Tanaya Macheel",
-      "title": "Bitcoin trades around $23,000 after Fed Chair Powell warns that rates could rise further",
-      "description": "The cryptocurrency struggled to hold the $23,000 level in the previous session as the rally loses momentum.",
-      "url": "https://www.cnbc.com/2023/02/07/bitcoin-trades-around-23000-after-fed-chair-powell-warns-that-rates-could-rise-further.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107091307-1658311312247-gettyimages-1241545732-US_Dollars_Bitcoin.jpeg?v=1675796542&w=1920&h=1080",
-      "publishedAt": "2027-03-05T04:28:41.311Z",
-      "content": "Bitcoin hovered around the $23,000 level after Federal Reserve Chair Jerome Powell spoke at an event in Washington, D.C., noting that interest rates could rise higher if inflation winds up being hott… [+1313 chars]"
-    },
-    {
-      "id": "3x73wauxl43",
-      "author": "dailyhodl.com",
-      "title": "Coinbase-Backed DeSo Unveils MegaSwap, a ‘Stripe for Crypto’ Product, With Over $5 Million in Volume",
-      "description": "February 7, 2023 – Los Angeles, California DeSo is excited to announce the launch of MegaSwap – a revolutionary cross-chain smart service that enables users to securely and easily swap coins between different blockchains with a frictionless zero-login. MegaSw…",
-      "url": "https://biztoc.com/x/5f60ba5c4c406953",
-      "urlToImage": "https://c.biztoc.com/p/5f60ba5c4c406953/og.webp",
-      "publishedAt": "2028-08-22T02:13:20.425Z",
-      "content": "February 7, 2023 Los Angeles, CaliforniaDeSo is excited to announce the launch of MegaSwap a revolutionary cross-chain smart service that enables users to securely and easily swap coins between diffe… [+280 chars]"
-    },
-    {
-      "id": "pitijygwhy",
-      "author": "ChainWire",
-      "title": "Coinbase-Backed DeSo Unveils MegaSwap, a ‘Stripe for Crypto’ Product, With Over $5 Million in Volume",
-      "description": "February 7, 2023 – Los Angeles, California DeSo is excited to announce the launch of MegaSwap – a revolutionary cross-chain smart service that enables users to securely and easily swap coins between different blockchains with a frictionless zero-login. MegaSw…",
-      "url": "https://dailyhodl.com/2023/02/07/coinbase-backed-deso-unveils-megaswap-a-stripe-for-crypto-product-with-over-5-million-in-volume/",
-      "urlToImage": "https://dailyhodl.com/wp-content/uploads/2022/03/DeSo-Protocol-Industry-Announcement-Featured-Image-Template.jpg",
-      "publishedAt": "2028-05-01T21:13:22.458Z",
-      "content": "February 7, 2023 Los Angeles, California\r\nDeSo is excited to announce the launch of MegaSwap a revolutionary cross-chain smart service that enables users to securely and easily swap coins between dif… [+4450 chars]"
-    },
-    {
-      "id": "b6693lbu00e",
-      "author": "Lorenzo Franceschi-Bicchierai",
-      "title": "'Tracers in the Dark' shows how cops go after crypto-criminals",
-      "description": "\"That was the only path through this darkness,\" says U.S. prosecutor Zia Faruqui. \"The darker the darknet gets, the way that you shine the light is following the money.\" In Tracers in the Dark, Andy Greenberg, a senior writer at Wired, tak",
-      "url": "https://techcrunch.com/2023/02/07/andy-greenberg-tracers-in-the-dark-book-review/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/02/GettyImages-486192134.jpg?resize=1200,805",
-      "publishedAt": "2024-09-01T05:40:03.066Z",
-      "content": "That was the only path through this darkness, says U.S. prosecutor Zia Faruqui. The darker the darknet gets, the way that you shine the light is following the money.\r\nIn Tracers in the Dark, Andy Gre… [+4503 chars]"
-    },
-    {
-      "id": "n7s9dyq25lj",
-      "author": "coindesk.com",
-      "title": "Bitcoin Rises to $23.3K as Powell Repeats 'Disinflationary' Comment",
-      "description": "The Fed chair spoke days after the central bank last hiked interest rates.",
-      "url": "https://biztoc.com/x/56d36dacf9af1cf5",
-      "urlToImage": "https://c.biztoc.com/p/56d36dacf9af1cf5/og.webp",
-      "publishedAt": "2024-11-09T18:40:12.282Z",
-      "content": "The Fed chair spoke days after the central bank last hiked interest rates. \r\n This story appeared on coindesk.com, 2023-02-07."
-    },
-    {
-      "id": "8m90awgzpfr",
-      "author": "Kyle White",
-      "title": "El precio de Avalanche (AVAX) subió, pero ¿los fundamentales respaldan el repunte?",
-      "description": "El precio de AVAX ha experimentado un fuerte repunte desde principios de 2023, pero se necesita una subida sostenida de sus componentes DeFi para mantener el actual impulso alcista.\n \nEl precio de Avalanche (AVAX) ha tenido un comienzo meteórico en 2023, con …",
-      "url": "https://es.cointelegraph.com/news/avalanche-avax-price-is-up-but-do-fundamentals-support-the-rally",
-      "urlToImage": "https://s3.cointelegraph.com/uploads/2023-02/125e0c63-74a7-4f28-a36e-8256270f3b8c.jpg",
-      "publishedAt": "2022-03-08T16:14:17.637Z",
-      "content": "El precio de Avalanche (AVAX) ha tenido un comienzo meteórico en 2023, con una ganancia del 98% en 30 días, y los traders tienen curiosidad por saber si el repunte se extenderá a lo largo de febrero.… [+5163 chars]"
-    },
-    {
-      "id": "xl1jfnuwc59",
-      "author": "Marianella Vanci",
-      "title": "Exasesor del Banco de China pide que se elimine la prohibición sobre Bitcoin",
-      "description": "Exasesor del banco central cree que el país pierde valiosas oportunidades al prohibir a bitcoin y otras criptomonedas.\nLeer más",
-      "url": "https://www.criptonoticias.com/regulacion/exasesor-banco-china-pide-elimine-prohibicion-bitcoin/",
-      "urlToImage": "https://www.criptonoticias.com/wp-content/uploads/2023/01/economista-solicita-fin-prohibicion-bitcoin-china.jpg",
-      "publishedAt": "2018-03-16T15:27:05.652Z",
-      "content": "Hechos clave:\r\nLos habitantes siguen centrando su atención en bitcoin y otras criptomonedas.\r\n</li><li>El yuan digital no ha conquistado del todo a la población de China.\r\n</li></ul>\r\nHuang Y… [+3393 chars]"
-    },
-    {
-      "id": "owmxhv4lps8",
-      "author": "Megan Cerullo",
-      "title": "Disney yanks \"Simpsons\" episode in Hong Kong over \"forced labor\" joke",
-      "description": "Entertainment giant has previously faced accusations of self-censorship for taking down \"Simpsons\" episode in deference to China.",
-      "url": "https://www.cbsnews.com/news/disney-simpsons-episode-forced-labor-china-hong-kong/",
-      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2023/02/07/7c722218-6e11-4c21-83bd-27760352bd6f/thumbnail/1200x630/37c6d3836578e0dcc224f911de301790/fullsizerender.jpg",
-      "publishedAt": "2022-08-19T14:35:31.156Z",
-      "content": "Disney has removed an episode of \"The Simpsons\" that mentions China's human rights abuses from the entertainment company's streaming platform in Hong Kong, the Financial Times reports. \r\nThe episode,… [+1777 chars]"
-    },
-    {
-      "id": "pc3zxx5xngn",
-      "author": "Judith BannermanQuist",
-      "title": "Binance apoyará a los usuarios de la región del terremoto de Turquía con airdrops de USD en tokens BNB",
-      "description": "Según el CEO de Binance, Changpeng Zhao, el exchange está trabajando en más esfuerzos para ayudar.\n \nEl devastador terremoto que sacudió Turquía el 6 de febrero ha dejado un rastro de destrucción a su paso, afectando a numerosas comunidades y personas.\r\n\nEn r…",
-      "url": "https://es.cointelegraph.com/news/binance-to-support-users-in-turkey-s-earthquake-region-with-100-airdrops-in-bnb-tokens",
-      "urlToImage": "https://s3.cointelegraph.com/uploads/2023-02/5f9698e9-7979-4ee8-8c47-7b6a4bd83b3a.jpg",
-      "publishedAt": "2017-03-10T15:32:55.562Z",
-      "content": "El devastador terremoto que sacudió Turquía el 6 de febrero ha dejado un rastro de destrucción a su paso, afectando a numerosas comunidades y personas.\r\nEn respuesta a la tragedia, el exchange de cri… [+3540 chars]"
-    },
-    {
-      "id": "5te4zz90b2q",
-      "author": "bitcoiner",
-      "title": "Forum Geral • Re: Bitcoin - a moeda do futuro?",
-      "description": "",
-      "url": "http://caldeiraodebolsa.jornaldenegocios.pt/viewtopic.php?t=75434&p=1779454#p1779454",
-      "urlToImage": null,
-      "publishedAt": "2023-10-26T11:27:05.941Z",
-      "content": "RarityHumans are collectors, and since satoshis can now be tracked and transferred, people will naturally want to collect them. Ordinal theorists can decide for themselves which sats are rare and des… [+3030 chars]"
-    },
-    {
-      "id": "uf78rzvgkl",
-      "author": "cryptopotato.com",
-      "title": "Bitcoin Increases to $23.3K as Powell Reiterates 2% Inflation Target",
-      "description": "Federal Reserve Chairman Jerome Powell spoke more on the future direction of monetary policy following an unexpectedly strong U.S. jobs report on Friday. Here’s what he had to say: During an interview, Powell reiterated his comments from last week that the ec…",
-      "url": "https://biztoc.com/x/fb4246d230b2d311",
-      "urlToImage": "https://c.biztoc.com/p/fb4246d230b2d311/og.webp",
-      "publishedAt": "2025-10-17T19:44:07.682Z",
-      "content": "Federal Reserve Chairman Jerome Powell spoke more on the future direction of monetary policy following an unexpectedly strong U.S. jobs report on Friday.Heres what he had to say:During an interview, … [+312 chars]"
-    },
-    {
-      "id": "h36ku9rfyzo",
-      "author": "theblock.co",
-      "title": "Bitcoin, ether retrench after rising with traditional markets on Fed Chair comments",
-      "description": "Cryptocurrencies rose alongside traditional markets in response to comments delivered by Federal Reserve Chair Jerome Powell at The Economic Club in Washington before turning lower. Bitcoin rose to a high of $23,320 around 1:00 pm EST only to slide back down …",
-      "url": "https://biztoc.com/x/c601416850222be9",
-      "urlToImage": "https://c.biztoc.com/p/c601416850222be9/og.webp",
-      "publishedAt": "2024-03-31T10:52:35.057Z",
-      "content": "Cryptocurrencies rose alongside traditional markets in response to comments delivered by Federal Reserve Chair Jerome Powell at The Economic Club in Washington before turning lower.Bitcoin rose to a … [+323 chars]"
-    },
-    {
-      "id": "ghdnuzo7ej",
-      "author": "cointelegraph.com",
-      "title": "price is up, but do fundamentals support the rally?",
-      "description": "witnessed a meteoric start to 2023, gaining 98% in 30 days, and traders are now curious about whether the rally will extend throughout February. AVAX’s year-to-date gains for 2023 have outpaced those of Bitcoin (BTC) and Ether (ETH). Recent reasons for AVAX’s…",
-      "url": "https://biztoc.com/x/d74dff60c964460d",
-      "urlToImage": "https://c.biztoc.com/p/d74dff60c964460d/og.webp",
-      "publishedAt": "2019-12-13T10:06:29.882Z",
-      "content": "witnessed a meteoric start to 2023, gaining 98% in 30 days, and traders are now curious about whether the rally will extend throughout February. AVAXs year-to-date gains for 2023 have outpaced those … [+297 chars]"
-    },
-    {
-      "id": "qd5vt9esyek",
-      "author": null,
-      "title": "Bitcoin e ether aceleram ganhos e depois recuam com fala de Powell",
-      "description": "Maior das criptomoedas chegou a bater em US$ 23.610, mas depois recuou com discurso cauteloso do dirigente do Fed O bitcoin (BTC) e o ether (ETH) aceleraram inicialmente o ritmo de valorização após o presidente do Federal Reserve, Jerome Powell, repetir em gr…",
-      "url": "https://valor.globo.com/financas/criptomoedas/noticia/2023/02/07/bitcoin-e-ether-aceleram-ganhos-e-depois-recuam-com-fala-de-powell.ghtml",
-      "urlToImage": "https://s2.glbimg.com/8Xx0YAbQyUUIjM5MXZZ9IlG8_T0=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2023/B/X/gSY5rBSkWFn1x2F711vQ/bitcoin-subindo.jpg",
-      "publishedAt": "2028-04-01T04:38:52.308Z",
-      "content": "O bitcoin (BTC) e o ether (ETH) aceleraram inicialmente o ritmo de valorização após o presidente do Federal Reserve, Jerome Powell, repetir em grande parte o seu discurso da semana passada sobre a ne… [+1732 chars]"
-    },
-    {
-      "id": "osxlslajyie",
-      "author": "cryptoslate.com",
-      "title": "Grayscale continues to challenge SEC for spot Bitcoin ETF conversion",
-      "description": "Grayscale announced that it had filed its final briefs in its litigation against the SEC to challenge the decision to deny the conversion of the Grayscale Bitcoin Trust into a spot Bitcoin ETF on Feb. 7. The company disclosed that it filed documents “essentia…",
-      "url": "https://biztoc.com/x/58eb0903bf19ada8",
-      "urlToImage": "https://c.biztoc.com/p/58eb0903bf19ada8/og.webp",
-      "publishedAt": "2028-05-19T14:31:03.283Z",
-      "content": "Grayscale announced that it had filed its final briefs in its litigation against the SEC to challenge the decision to deny the conversion of the Grayscale Bitcoin Trust into a spot Bitcoin ETF on Feb… [+303 chars]"
-    },
-    {
-      "id": "ggxbpulj2xk",
-      "author": "Liam 'Akiba' Wright",
-      "title": "Grayscale continues to challenge SEC for spot Bitcoin ETF conversion",
-      "description": "Grayscale announced that it had filed its final briefs in its litigation against the SEC to challenge the decision to deny the conversion of the Grayscale Bitcoin Trust into a spot Bitcoin ETF on February 7. \nThe post Grayscale continues to challenge SEC for …",
-      "url": "https://cryptoslate.com/grayscale-continues-to-challenge-sec-for-spot-bitcoin-etf-conversion/",
-      "urlToImage": "https://cryptoslate.com/wp-content/uploads/2023/02/grayscale-sec.jpg",
-      "publishedAt": "2020-11-10T16:07:15.414Z",
-      "content": "Grayscale announced that it had filed its final briefs in its litigation against the SEC to challenge the decision to deny the conversion of the Grayscale Bitcoin Trust into a spot Bitcoin ETF on Feb… [+2094 chars]"
-    },
-    {
-      "id": "5dl76yym8r9",
-      "author": "Monica Kingsley",
-      "title": "S&P 500 Refused Further Decline – Second FOMC",
-      "description": "S&P 500 refused further decline, but picture is far from impending rebound strength. One though can‘t get rid of the impression from Kashkari’s speech (the Fed is happy about the marlet reaction to Powell‘s FOMC speech), that this stock market rally isn‘t loo…",
-      "url": "https://www.valuewalk.com/sp-500-refused-further-decline-second-fomc/",
-      "urlToImage": "https://www.valuewalk.com/wp-content/uploads/2023/02/Stock-Market-Volatility.jpeg",
-      "publishedAt": "2022-01-04T12:30:09.740Z",
-      "content": "S&amp;P 500 refused further decline, but picture is far from impending rebound strength. One though cant get rid of the impression from Kashkaris speech (the Fed is happy about the marlet reaction to… [+5700 chars]"
-    },
-    {
-      "id": "rysqd8in8ms",
-      "author": "Cointelegraph By Kyle White",
-      "title": "Avalanche (AVAX) price is up, but do fundamentals support the rally?",
-      "description": "AVAX price has been in a strong rally since the start of 2023, but a sustained uptick in its DeFi components is needed in order to sustain the current bullish momentum.",
-      "url": "https://cointelegraph.com/news/avalanche-avax-price-is-up-but-do-fundamentals-support-the-rally",
-      "urlToImage": "https://s3.cointelegraph.com/uploads/2023-02/125e0c63-74a7-4f28-a36e-8256270f3b8c.jpg",
-      "publishedAt": "2025-08-01T17:58:15.901Z",
-      "content": "Avalanche (AVAX) witnessed a meteoric start to 2023, gaining 98% in 30 days, and traders are now curious about whether the rally will extend throughout February. AVAXs year-to-date gains for 2023 hav… [+4067 chars]"
-    },
-    {
-      "id": "b5z30hvfzg",
-      "author": "Joe Light",
-      "title": "Bankruptcy Deal Is Sign of Warming in Crypto Winter",
-      "description": "If the agreement moves forward, it could reduce pressure on creditors of Genesis Global to sell assets at fire-sale prices, slamming crypto prices.",
-      "url": "https://www.barrons.com/articles/genesis-gemini-crypto-bankruptcy-deal-51675794259",
-      "urlToImage": "https://images.barrons.com/im-718919/social",
-      "publishedAt": "2026-07-09T16:37:02.605Z",
-      "content": "Failed crypto lender Genesis Global Holdco and its major creditors have reached a deal to resolve its bankruptcy case. For investors owed money by Genesis, it means they could get some of their money… [+3136 chars]"
-    },
-    {
-      "id": "s9hcqaztg7i",
-      "author": "newsbtc.com",
-      "title": "Half Of All Bitcoin Unmoved In 2 Years: What Does This Mean For The BTC Price?",
-      "description": "A popular crypto analyst called “Documenting Bitcoin” released fresh data on Tuesday showing that half of all Bitcoin (meaning 9.64 million BTC worth $86.4 billion) have not been moved for the last two years. At the time of writing, there is 19.28 million BTC…",
-      "url": "https://biztoc.com/x/0c607ca0a7998f62",
-      "urlToImage": "https://c.biztoc.com/p/0c607ca0a7998f62/og.webp",
-      "publishedAt": "2025-11-08T11:27:10.973Z",
-      "content": "A popular crypto analyst called Documenting Bitcoin released fresh data on Tuesday showing that half of all Bitcoin (meaning 9.64 million BTC worth $86.4 billion) have not been moved for the last two… [+288 chars]"
-    },
-    {
-      "id": "ghd4y8w7btw",
-      "author": "Vala Afshar",
-      "title": "14 big technology and innovation ideas with super-exponential growth futures",
-      "description": "The market value of five disruptive innovation platforms could scale 40% at an annual rate during this business cycle, from $13 trillion today to $200 trillion by 2030, according to Ark Invest's Big Ideas 2023 research.",
-      "url": "https://www.zdnet.com/article/14-big-technology-and-innovation-ideas-with-super-exponential-growth-futures/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/faa33ab414dabf8c3d10e26155630d8dccdb0ba5/2023/02/04/371ef105-8908-4ff9-8be1-2bd908b6429e/picture1.png?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2020-02-22T01:34:08.232Z",
-      "content": "Ark Invest: Big Ideas 2023.\r\nArk Invest\r\nAccording to ARK Invest's research, five innovation platforms are converging to create unprecedented growth trajectories. Artificial intelligence is the most … [+13178 chars]"
-    },
-    {
-      "id": "5c2r8zcdhrx",
-      "author": "Vala Afshar",
-      "title": "14 innovation trends with exponential growth potential: Ark's Big Ideas 2023",
-      "description": "The market value of five disruptive innovation platforms could scale 40% at an annual rate, from $13 trillion today to $200 trillion by 2030.",
-      "url": "https://www.zdnet.com/article/14-innovation-trends-with-exponential-growth-potential-arks-big-ideas-2023/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/129ab9a9e4a4101c155eea1e2148d8bc6f5a73aa/2023/02/07/76b101f4-7116-486e-8481-a2c0c60683d4/ark-innovation-platforms.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2029-09-25T00:32:22.765Z",
-      "content": "Ark Invest: Big Ideas 2023.\r\nArk Invest\r\nAccording to ARK Invest's research, five innovation platforms are converging to create unprecedented growth trajectories. Artificial intelligence is the most … [+13161 chars]"
-    },
-    {
-      "id": "oh9g97yx5b",
-      "author": "bitcoinist.com",
-      "title": "Will Bitcoin See A Valentine’s Day Massacre Or Can Bulls Get Back To $24,000?",
-      "description": "The price of Bitcoin has returned to sideways action following a massive rally from its yearly lows at around $16,400. The cryptocurrency has been trending to the upside on favorable macroeconomic winds, but uncertainty remains king and could hinder any bulli…",
-      "url": "https://biztoc.com/x/153ff8d531aadc77",
-      "urlToImage": "https://c.biztoc.com/p/153ff8d531aadc77/og.webp",
-      "publishedAt": "2029-08-07T02:47:30.526Z",
-      "content": "The price of Bitcoin has returned to sideways action following a massive rally from its yearly lows at around $16,400. The cryptocurrency has been trending to the upside on favorable macroeconomic wi… [+314 chars]"
-    },
-    {
-      "id": "jaq125z5yl",
-      "author": "decrypt.co",
-      "title": "Bitcoin Miners Hut 8, US Bitcoin Corp to Merge in All-Stock Deal",
-      "description": "Major Bitcoin miners Hut 8 Mining and U.S. Bitcoin Corp today announced a merger which will bring the two companies together to create a North America crypto mining giant. Tuesday’s announcement said the move will create Toronto Stock Exchange- and Nasdaq-lis…",
-      "url": "https://biztoc.com/x/193151daeda949e5",
-      "urlToImage": "https://c.biztoc.com/p/193151daeda949e5/og.webp",
-      "publishedAt": "2026-09-29T01:28:25.846Z",
-      "content": "Major Bitcoin miners Hut 8 Mining and U.S. Bitcoin Corp today announced a merger which will bring the two companies together to create a North America crypto mining giant.Tuesdays announcement said t… [+334 chars]"
-    },
-    {
-      "id": "def8uqtf1cp",
-      "author": "dailyhodl.com",
-      "title": "New York, Los Angeles and Chicago Among the Most Crypto-Ready Cities in the World: New Research",
-      "description": "A new survey conducted by digital assets tax tool Recap says that the three most populous US cities are among the world’s most crypto-ready. The study surveyed the 200 most-populated cities on the globe on factors such as the number of crypto ATMs, residents …",
-      "url": "https://biztoc.com/x/1f2fe3615d95b366",
-      "urlToImage": "https://c.biztoc.com/p/1f2fe3615d95b366/og.webp",
-      "publishedAt": "2028-03-22T12:50:39.412Z",
-      "content": "A new survey conducted by digital assets tax tool Recap says that the three most populous US cities are among the worlds most crypto-ready.The study surveyed the 200 most-populated cities on the glob… [+302 chars]"
-    },
-    {
-      "id": "8tzfyac945s",
-      "author": "Elizabeth Montalbano, Contributor, Dark Reading",
-      "title": "Ongoing VMware ESXi Ransomware Attack Highlights Inherent Virtualization Risks",
-      "description": "The global assault on vulnerable VMware hypervisors may have been mitigated by updating to the latest version of the product, but patch management is only part of the story.",
-      "url": "https://www.darkreading.com/cloud/ongoing-vmware-esxi-ransomware-attack-virtualization-risks",
-      "urlToImage": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt89b5817585cda670/61b90d0fbcdb952119ebc455/Patching_MR_AdobeStock.jpg",
-      "publishedAt": "2021-08-13T08:17:16.218Z",
-      "content": "Organizations using older versions of VMWare ESXi hypervisors are learning a hard lesson about staying up-to-date with vulnerability patching, as a global ransomware attack on what VMware has deemed … [+6720 chars]"
-    },
-    {
-      "id": "gq7b2ktrz2g",
-      "author": "Angelo Calvello",
-      "title": "‘It’s Time for Crypto to Put on Big Boy Pants’: 5 Ways TradFi Investors Are Rethinking Crypto in the Wake of FTX",
-      "description": "Pension funds, endowments, foundations and large family offices are key to crypto’s future. How do they look at the industry now? Angelo Calvello checks in with 15 asset-owners.",
-      "url": "https://www.coindesk.com/consensus-magazine/2023/02/07/its-time-for-crypto-to-put-on-big-boy-pants-5-ways-tradfi-investors-are-rethinking-crypto-in-the-wake-of-ftx/",
-      "urlToImage": "https://www.coindesk.com/resizer/VgdKZkpkGyCq2CRTLIRK-uQpUO0=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/BWM56X6XDNGZVG2IOJPH3OAYUI.jpg",
-      "publishedAt": "2029-04-11T22:02:06.332Z",
-      "content": "Crypto's future depends upon traditional finance (TradFi) investors. I'm not talking about banks and asset managers but the pension funds, endowments, foundations and large family offices that contro… [+9054 chars]"
-    },
-    {
-      "id": "dxwnfilfm4i",
-      "author": null,
-      "title": "Neuheit von Dombey bringt den entscheidenden Unterschied",
-      "description": "LONDON, 7. Februar 2023 /PRNewswire/ -- Dombey Electrics Co. (www.dombbit.com), ein 2010 im Vereinigten Königreich und dann in Finnland gegründetes Unternehmen mit einem Produktionsstandort in Hongkong sowie Niederlassungen auf der ganzen Welt, ist einer der …",
-      "url": "https://www.prnewswire.com/news-releases/neuheit-von-dombey-bringt-den-entscheidenden-unterschied-301741047.html",
-      "urlToImage": "https://mma.prnewswire.com/media/1996538/Dombey.jpg?p=facebook",
-      "publishedAt": "2025-04-24T19:12:47.252Z",
-      "content": "LONDON, 7. Februar 2023 /PRNewswire/ -- Dombey Electrics Co. (www.dombbit.com), ein 2010 im Vereinigten Königreich und dann in Finnland gegründetes Unternehmen mit einem Produktionsstandort in Hongko… [+3770 chars]"
-    },
-    {
-      "id": "46tyg486ehm",
-      "author": "Kevin George",
-      "title": "Hut 8 and U.S. Bitcoin Announce Mining Merger",
-      "description": "Bitcoin miners Hut 8 and U.S. Bitcoin have announced a merger of their respective businesses, the latest deal in a wave of consolidation and balance sheet shuffling.",
-      "url": "https://www.investopedia.com/bitcoin-mining-merger-hut-8-us-bitcoin-7106607",
-      "urlToImage": "https://www.investopedia.com/thmb/-CX9NYQuxVmqpxU3b0G97_Ie51I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1400326189-caea3717ae9741a98f199d2e58ff5baa.jpg",
-      "publishedAt": "2026-02-28T06:57:07.521Z",
-      "content": "Hut 8 (HUT) and U.S. Bitcoin are the latest crypto miners rushing to take advantage of the January Bitcoin rally.\r\nTwo firms announced their merger Wednesday, the latest deal in a wave of consolidati… [+2926 chars]"
-    },
-    {
-      "id": "fugitvexil",
-      "author": "Javier Pastor",
-      "title": "ChatGPT era demasiado formal, así que alguien le ha hecho un jailbreak para crear su reverso tenebroso: DAN",
-      "description": "Uno le pregunta algo a ChatGPT y siempre obtiene una respuesta de lo más educada. Coherente, razonada y bien estructurada. Puede que se invente cosas, pero el tono, instructivo y claro, es estupendo.\n<!-- BREAK 1 -->\nPara algunos eso no es suficiente. Quieren…",
-      "url": "https://www.xataka.com/robotica-e-ia/chatgpt-era-demasiado-formal-asi-que-alguien-le-ha-hecho-jailbreak-para-crear-su-reverso-tenebroso-dan",
-      "urlToImage": "https://i.blogs.es/dd7158/captura-de-pantalla-2023-02-07-a-las-12.19.15/840_560.jpeg",
-      "publishedAt": "2029-12-01T20:18:35.026Z",
-      "content": "Uno le pregunta algo a ChatGPT y siempre obtiene una respuesta de lo más educada. Coherente, razonada y bien estructurada. Puede que se invente cosas, pero el tono, instructivo y claro, es estupendo.… [+4878 chars]"
-    },
-    {
-      "id": "bh7b5wmfent",
-      "author": "newsbtc.com",
-      "title": "Here’s What Could Stop The Altcoin Bull Rally Dead In Its Tracks",
-      "description": "The majority of altcoins in the crypto space have been rallying independently of the largest cryptocurrencies in the space. However, while this has been good so far, it could also present a possible roadblock for the altcoin bull rally. Bitcoin And Ethereum C…",
-      "url": "https://biztoc.com/x/3d898a7506850f69",
-      "urlToImage": "https://c.biztoc.com/p/3d898a7506850f69/og.webp",
-      "publishedAt": "2023-12-21T15:10:48.146Z",
-      "content": "The majority of altcoins in the crypto space have been rallying independently of the largest cryptocurrencies in the space. However, while this has been good so far, it could also present a possible … [+297 chars]"
-    },
-    {
-      "id": "3evurx8lhxl",
-      "author": "Reynaldo Marquez",
-      "title": "Will Bitcoin See A Valentine’s Day Massacre Or Can Bulls Get Back To $24,000?",
-      "description": "The price of Bitcoin has returned to sideways action following a massive rally from its yearly lows at around $16,400. The cryptocurrency has been trending to the upside on favorable macroeconomic winds, but uncertainty remains king and could hinder any bulli…",
-      "url": "https://bitcoinist.com/bitcoin-valentines-day-massacre-bulls-back-to-24000/",
-      "urlToImage": "https://bitcoinist.com/wp-content/uploads/2023/02/Bitcoin-BTC-BTCUSDT-1.jpg",
-      "publishedAt": "2019-01-09T18:13:22.382Z",
-      "content": "The price of Bitcoin has returned to sideways action following a massive rally from its yearly lows at around $16,400. The cryptocurrency has been trending to the upside on favorable macroeconomic wi… [+2728 chars]"
-    },
-    {
-      "id": "1ibp1sqrh8wi",
-      "author": "coindesk.com",
-      "title": "Bitcoin Rises to $23.3K as Powell Repeats 'Disinflationary' Comment",
-      "description": "The Fed chair spoke days after the central bank last hiked interest rates.",
-      "url": "https://biztoc.com/x/1dafc6c6441dad44",
-      "urlToImage": "https://c.biztoc.com/p/1dafc6c6441dad44/og.webp",
-      "publishedAt": "2025-12-02T18:50:28.781Z",
-      "content": "The Fed chair spoke days after the central bank last hiked interest rates. \r\n This story appeared on coindesk.com, 2023-02-07."
-    },
-    {
-      "id": "3udgex1vsb",
-      "author": "decrypt.co",
-      "title": "Financial Institutions Are Still Betting on Crypto",
-      "description": "As Bitcoin hovered around $38,000 last April—down 45% from its peak—Fidelity Investments announced its customers could soon add the digital asset to their retirement accounts through a first-of-its-kind offering. By the time the firm’s 401(k) product launched…",
-      "url": "https://biztoc.com/x/525cd2731d9e6a78",
-      "urlToImage": "https://c.biztoc.com/p/525cd2731d9e6a78/og.webp",
-      "publishedAt": "2025-04-12T01:48:38.858Z",
-      "content": "As Bitcoin hovered around $38,000 last Aprildown 45% from its peakFidelity Investments announced its customers could soon add the digital asset to their retirement accounts through a first-of-its-kin… [+306 chars]"
-    },
-    {
-      "id": "f9l5pk1zkd",
-      "author": null,
-      "title": "Iris Energy announces 172 Bitcoin mined in January 2023",
-      "description": null,
-      "url": "https://seekingalpha.com/news/3933022-iris-energy-announces-172-bitcoin-mined-in-january-2023?utm_source=feed_news_all&utm_medium=referral",
-      "urlToImage": null,
-      "publishedAt": "2018-11-22T14:01:07.280Z",
-      "content": "Warning\r\nThis website has been reported for potential phishing.Phishing is when a site attempts to steal sensitive information by falsely presenting as a safe source."
-    },
-    {
-      "id": "ss1eif2gyfg",
-      "author": "Stephen Alpher",
-      "title": "Bitcoin Rises to $23.3K as Jerome Powell Repeats 'Disinflationary Process' Comment",
-      "description": "The Fed chair spoke days after the central bank last hiked interest rates.",
-      "url": "https://www.coindesk.com/business/2023/02/07/bitcoin-rises-to-233k-as-powell-repeats-disinflationary-comment/",
-      "urlToImage": "https://www.coindesk.com/resizer/EcOnVYDu7fiKbGx8uGXBMmDkNko=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/U4MWY7RIOBCBBIMT3YYOCCLKL4.jpg",
-      "publishedAt": "2017-11-11T13:22:52.633Z",
-      "content": "While the \"disinflationary process\" has started, it will take a good deal of time before the U.S. Federal Reserve is ready to declare victory in its fight against rising price levels, said Jay Powell… [+1406 chars]"
-    },
-    {
-      "id": "qpw73sekqdj",
-      "author": "Mathew Di Salvo",
-      "title": "Bitcoin Miners Hut 8, US Bitcoin Corp to Merge in All-Stock Deal",
-      "description": "The move comes as more mining companies suffer through the crypto winter.",
-      "url": "https://decrypt.co/120761/bitcoin-miners-hut-8-us-bitcoin-corp-merge",
-      "urlToImage": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/09/crypto-mining-machines-gID_5.jpg@png",
-      "publishedAt": "2018-02-25T08:51:40.928Z",
-      "content": "Major Bitcoin miners Hut 8 Mining and U.S. Bitcoin Corp today announced a merger which will bring the two companies together to create a North America crypto mining giant. \r\nTuesdays announcement sai… [+2261 chars]"
-    },
-    {
-      "id": "2ok3hl3a2h5",
-      "author": "André Beganski",
-      "title": "Financial Institutions Are Still Betting on Crypto—Even After Getting Rekt in 2022",
-      "description": "Crypto is down, but the big dogs are not getting out.",
-      "url": "https://decrypt.co/120546/financial-institutions-still-betting-crypto",
-      "urlToImage": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/02/82DBDDD6-3C6D-4890-ABD4-846C7E800785-16202-00000285FBE70C04-gID_1.jpg@png",
-      "publishedAt": "2024-08-23T06:20:44.261Z",
-      "content": "As Bitcoin hovered around $38,000 last Aprildown 45% from its peakFidelity Investments announced its customers could soon add the digital asset to their retirement accounts through a first-of-its-kin… [+10919 chars]"
-    },
-    {
-      "id": "09i6edqkvrj",
-      "author": "ambcrypto.com",
-      "title": "Interest in digital assets unabated with multiple weeks of consecutive inflows: Report",
-      "description": "Digital asset investment products logged the fourth week of consecutive inflows last week. • There has been a significant increase in investments in short-bitcoin, indicating that a substantial number of investors remain uncertain about the future trajectory …",
-      "url": "https://biztoc.com/x/ee76862544c8de71",
-      "urlToImage": "https://c.biztoc.com/p/ee76862544c8de71/og.webp",
-      "publishedAt": "2017-01-18T22:14:53.256Z",
-      "content": "Digital asset investment products logged the fourth week of consecutive inflows last week.There has been a significant increase in investments in short-bitcoin, indicating that a substantial number o… [+277 chars]"
-    },
-    {
-      "id": "g4pciskuc5",
-      "author": "blockworks.co",
-      "title": "Cutting Costs and Joining Forces, Bitcoin Miners Hoping for Rebound",
-      "description": "After a rocky 2022, bitcoin miners could be in for a lucrative year, at least if past market cycle patterns repeat. The largest cryptocurrency posted a 64% loss last year, coupled with skyrocketing electricity costs around the world and a dramatic drop in min…",
-      "url": "https://biztoc.com/x/069f089afb630375",
-      "urlToImage": "https://c.biztoc.com/p/069f089afb630375/og.webp",
-      "publishedAt": "2029-02-27T03:53:28.436Z",
-      "content": "After a rocky 2022, bitcoin miners could be in for a lucrative year, at least if past market cycle patterns repeat. The largest cryptocurrency posted a 64% loss last year, coupled with skyrocketing e… [+321 chars]"
-    },
-    {
-      "id": "5s2d2swt1t4",
-      "author": "MarketScreener",
-      "title": "Hut 8 Shares Drop After Deal to Merge With U.S. Data Mining",
-      "description": "(marketscreener.com) \n By Robb M. Stewart \n\n\n Hut 8 Mining Corp. shares fell Tuesday after the crypto-currency miner struck an all-stock deal that will see it tie-up with U.S. Data Mining Group Inc., building scale in North America in the wake of last year's …",
-      "url": "https://www.marketscreener.com/quote/stock/HUT-8-MINING-CORP-54658338/news/Hut-8-Shares-Drop-After-Deal-to-Merge-With-U-S-Data-Mining-42921889/?utm_medium=RSS&utm_content=20230207",
-      "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
-      "publishedAt": "2024-05-26T21:50:36.150Z",
-      "content": "By Robb M. Stewart \r\nHut 8 Mining Corp. shares fell Tuesday after the crypto-currency miner struck an all-stock deal that will see it tie-up with U.S. Data Mining Group Inc., building scale in North … [+1441 chars]"
-    },
-    {
-      "id": "cavuypfbegh",
-      "author": null,
-      "title": "MicroStrategy cogia apostar em futuros de bitcoin na CME para obter rendimento, diz Saylor",
-      "description": "Fundador da MicroStrategy disse que empresa considerou no passado emprestar bitcoin para startups que quebraram O cofundador e presidente do conselho da MicroStrategy Inc., Michael Saylor, disse que companhia de software empresarial, mais conhecida por ser a …",
-      "url": "https://valor.globo.com/financas/criptomoedas/noticia/2023/02/07/microstrategy-cogia-apostar-em-futuros-de-bitcoin-na-cme-para-obter-rendimento-diz-saylor.ghtml",
-      "urlToImage": "https://s2.glbimg.com/ZBLP8pyHTFTZGG4JJDlDSDX99HU=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2023/A/T/OIHaSYQ9KDTx2SCAQmLQ/michael-saylor-2022.png",
-      "publishedAt": "2017-12-19T09:32:37.162Z",
-      "content": "O cofundador e presidente do conselho da MicroStrategy Inc., Michael Saylor, disse que companhia de software empresarial, mais conhecida por ser a empresa de capital aberto com mais bitcoin entre os … [+1956 chars]"
-    },
-    {
-      "id": "erwoxu9cjap",
-      "author": "coindesk.com",
-      "title": "Bitcoin On-Chain Metrics Look Bullish, Report Highlights",
-      "description": "The supply “in profit,” a measure of market sentiment, has risen 20% since January.",
-      "url": "https://biztoc.com/x/df111ea097991a98",
-      "urlToImage": "https://c.biztoc.com/p/df111ea097991a98/og.webp",
-      "publishedAt": "2020-01-09T05:08:12.198Z",
-      "content": "The supply in profit, a measure of market sentiment, has risen 20% since January. \r\n This story appeared on coindesk.com, 2023-02-07."
-    },
-    {
-      "id": "qunrzad8g0q",
-      "author": "Eduardo Venegas",
-      "title": "¿La descarga de recursos compartidos en Grayscale es por problemas inminentes?",
-      "description": "Digital Currency Group (DCG) está intentando recaudar fondos vendiendo su participación en Grayscale con un descuento, lo que puede generar más problemas en el mercado. DCG, uno de los jugadores más antiguos de la industria, ha estado en crisis durante los úl…",
-      "url": "https://es.beincrypto.com/descarga-recursos-compartidos-grayscale-problemas-inminentes/",
-      "urlToImage": "https://s32679.pcdn.co/wp-content/uploads/2022/11/BIC_grayscale_eth_1911221.png.webp",
-      "publishedAt": "2028-05-28T09:55:57.351Z",
-      "content": "Digital Currency Group (DCG) está intentando recaudar fondos vendiendo su participación en Grayscale con un descuento, lo que puede generar más problemas en el mercado.\r\nDCG, uno de los jugadores más… [+2452 chars]"
-    },
-    {
-      "id": "cs38z1dg3yr",
-      "author": "Abiodun Oladokun",
-      "title": "Interest in digital assets unabated with multiple weeks of consecutive inflows: Report",
-      "description": "Digital asset investment products logged the fourth week of consecutive inflows last week. There has been a significant increase in investments in short-bitcoin, indicating that a substantial number of investors remain uncertain about the future trajectory of…",
-      "url": "https://ambcrypto.com/interest-in-digital-assets-unabated-with-multiple-weeks-of-consecutive-inflows-report/",
-      "urlToImage": "https://ambcrypto.com/wp-content/uploads/2023/02/lukas-blazek-mcSDtbWXUZU-unsplash-1-1000x600.jpg",
-      "publishedAt": "2022-09-03T11:56:25.625Z",
-      "content": "Digital asset investment products logged the fourth week of consecutive inflows last week.</li><li>There has been a significant increase in investments in short-bitcoin, indicating that a sub… [+2395 chars]"
-    },
-    {
-      "id": "v2o6dj9ifde",
-      "author": "Alexandre Boero",
-      "title": "Turquie : pas de pitié chez les pirates, des escroqueries liées au tremblement de terre déjà identifiées",
-      "description": "En à peine quelques heures, des hackers ont lancé des campagnes de phishing pour exploiter l'opportunité du tremblement de terre qui a touché la Turquie et la Syrie. Ils se cachent derrière une organisation caritative fictive ukrainienne dans le but de voler …",
-      "url": "https://www.clubic.com/antivirus-securite-informatique/actualite-456507-turquie-pas-de-pitie-chez-les-pirates-des-escroqueries-liees-au-tremblement-de-terre-deja-identifiees.html",
-      "urlToImage": "https://pic.clubic.com/v1/images/2079912/raw",
-      "publishedAt": "2023-03-27T01:22:15.475Z",
-      "content": "En à peine quelques heures, des hackers ont lancé des campagnes de phishing pour exploiter l'opportunité du tremblement de terre qui a touché la Turquie et la Syrie. Ils se cachent derrière une organ… [+3266 chars]"
-    },
-    {
-      "id": "9hsy7dn38g",
-      "author": "beincrypto.com",
-      "title": "Coinbase-Backed DeSo Unveils MegaSwap, a “Stripe for Crypto” product",
-      "description": "DeSo is excited to announce the launch of MegaSwap – a revolutionary, cross-chain smart service that enables users to securely and easily swap coins between different blockchains with a frictionless zero-login. MegaSwap solves various critical pain points, in…",
-      "url": "https://biztoc.com/x/49ddfd1a163ceff5",
-      "urlToImage": "https://c.biztoc.com/p/49ddfd1a163ceff5/og.webp",
-      "publishedAt": "2017-11-02T11:47:56.424Z",
-      "content": "DeSo is excited to announce the launch of MegaSwap a revolutionary, cross-chain smart service that enables users to securely and easily swap coins between different blockchains with a frictionless ze… [+281 chars]"
-    },
-    {
-      "id": "4ai6ayrf69c",
-      "author": "Jamie Lang",
-      "title": "Disney Self-Censors ‘Simpsons’ Episode Critical Of Chinese Government",
-      "description": "A censorship expert says that the removal of the episode on Disney+ in Hong Kong is likely Disney's way of protecting \"the company’s ties, current and future, in mainland China.”",
-      "url": "https://www.cartoonbrew.com/politics/the-simpsons-removed-china-disney-plus-225759.html",
-      "urlToImage": "https://www.cartoonbrew.com/wp-content/uploads/2023/02/simpsons_bike.jpg",
-      "publishedAt": "2024-07-08T09:47:27.403Z",
-      "content": "An episode of The Simpsons critical of the Chinese government has been omitted from the Disney+ platform in Hong Kong.\r\nWhich episode? One Angry Lisa, episode two of the shows 34th season, sees Marge… [+941 chars]"
-    },
-    {
-      "id": "ug4d3j04pum",
-      "author": "Benson Toti",
-      "title": "London to host the largest Crypto & Blockchain Conference",
-      "description": "London is set to host the UK’s biggest blockchain event, with over 3,000 attendees from 65 countries expected. The Blockchain Economy Summit is scheduled for February 27-28. After 4-years of its successful events chain despite the bear market, the Blockchain …",
-      "url": "https://coinjournal.net/news/london-to-host-the-largest-crypto-blockchain-conference/",
-      "urlToImage": "https://coinjournal.net/wp-content/uploads/1970/01/1675790529820-107037c7-e183-4ba0-9457-46487570dfb7.jpg",
-      "publishedAt": "2018-08-09T00:30:56.237Z",
-      "content": "London is set to host the UK’s biggest blockchain event, with over 3,000 attendees from 65 countries expected.</li><li>The Blockchain Economy Summit is scheduled for February 27-28.</li></ul>… [+3476 chars]"
-    },
-    {
-      "id": "4zj0eebljhj",
-      "author": "dailyhodl.com",
-      "title": "Trader Who Called Exact Bitcoin Bottom Updates Outlook on BTC, Reveals Monster Price Target for Litecoin (LTC)",
-      "description": "A crypto analyst who bought Bitcoin at the bottom in November is updating his outlook on the path ahead for the leading cryptocurrency. The pseudonymous analyst, whose alter ego is DonAlt, tells his 459,000 Twitter followers that BTC is at a crossroads. DonAl…",
-      "url": "https://biztoc.com/x/40597878ac2f309f",
-      "urlToImage": "https://c.biztoc.com/p/40597878ac2f309f/og.webp",
-      "publishedAt": "2023-08-25T16:22:13.083Z",
-      "content": "A crypto analyst who bought Bitcoin at the bottom in November is updating his outlook on the path ahead for the leading cryptocurrency.The pseudonymous analyst, whose alter ego is DonAlt, tells his 4… [+291 chars]"
-    },
-    {
-      "id": "jvq287ztbt",
-      "author": null,
-      "title": "La novedad de Dombey marca la diferencia",
-      "description": "LONDRES, 7 de febrero de 2023 /PRNewswire/ -- Dombey Electrics Co. (www.dombbit.com), una empresa fundada en el Reino Unido en 2010 y posteriormente en Finlandia, cuyo centro de producción se encuentra en Hong Kong y tiene oficinas en todo el mundo, es uno de…",
-      "url": "https://www.prnewswire.com/news-releases/la-novedad-de-dombey-marca-la-diferencia-808108072.html",
-      "urlToImage": "https://mma.prnewswire.com/media/1996538/Dombey.jpg?p=facebook",
-      "publishedAt": "2020-10-08T21:12:53.055Z",
-      "content": "LONDRES, 7 de febrero de 2023 /PRNewswire/ -- Dombey Electrics Co. (www.dombbit.com), una empresa fundada en el Reino Unido en 2010 y posteriormente en Finlandia, cuyo centro de producción se encuent… [+3572 chars]"
-    },
-    {
-      "id": "bdi1p1eejxp",
-      "author": "CryptoGlobe Staff Writer",
-      "title": "Coinbase-Backed DeSo Unveils MegaSwap, a ‘Stripe for Crypto’ Product, With Over $5 Million in Volume",
-      "description": "Los Angeles, United States, 7th February, 2023, Chainwire DeSo is excited to announce the launch of MegaSwap – a revolutionary, cross-chain smart service that enables users to securely and easily swap coins between different blockchains with a frictionless ze…",
-      "url": "https://www.cryptoglobe.com/latest/2023/02/coinbase-backed-deso-unveils-megaswap-a-stripe-for-crypto-product-with-over-5-million-in-volume/",
-      "urlToImage": "https://cryptoglobe.s3.eu-west-2.amazonaws.com/2023/02/MegaSwap-PR-image-768x461.jpeg",
-      "publishedAt": "2026-11-28T11:42:29.911Z",
-      "content": "Los Angeles, United States, 7th February, 2023, Chainwire\r\nDeSo\r\n is excited to announce the launch of MegaSwap \r\n a revolutionary, cross-chain smart service that enables users to securely and easily… [+3832 chars]"
-    },
-    {
-      "id": "umhtsztzem",
-      "author": "Lyllah Ledesma",
-      "title": "Bitcoin On-Chain Metrics Look Bullish, Bitfinex Report Highlights",
-      "description": "The supply “in profit,” a measure of market sentiment, has risen 20% since January.",
-      "url": "https://www.coindesk.com/markets/2023/02/07/bitcoin-on-chain-metrics-look-bullish/",
-      "urlToImage": "https://www.coindesk.com/resizer/4H9AOJOxvMPKhqUAbqcZj87LGTs=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/RPVUMDZOBRFEPCHUIX63ON2QFU.jpg",
-      "publishedAt": "2028-11-03T09:35:05.239Z",
-      "content": "On-chain indicators are pointing toward positive sentiment for bitcoin, the worlds largest cryptocurrency by market capitalization.\r\nThe bitcoin supply \"in profit,\" which is the percentage of existin… [+1929 chars]"
-    },
-    {
-      "id": "csg9c0kvtn7",
-      "author": "Daily Hodl Staff",
-      "title": "Trader Who Called Exact Bitcoin Bottom Updates Outlook on BTC, Reveals Monster Price Target for Litecoin (LTC)",
-      "description": "A crypto analyst who bought Bitcoin at the bottom in November is updating his outlook on the path ahead for the leading cryptocurrency. The pseudonymous analyst, whose alter ego is DonAlt, tells his 459,000 Twitter followers that BTC is at a crossroads. DonAl…",
-      "url": "https://dailyhodl.com/2023/02/07/trader-who-called-exact-bitcoin-bottom-updates-outlook-on-btc-reveals-monster-price-target-for-litecoin-ltc/",
-      "urlToImage": "https://dailyhodl.com/wp-content/uploads/2022/01/little-rocky-for-bitcoin.jpg",
-      "publishedAt": "2021-12-13T11:11:55.971Z",
-      "content": "A crypto analyst who bought Bitcoin at the bottom in November is updating his outlook on the path ahead for the leading cryptocurrency.\r\nThe pseudonymous analyst, whose alter ego is DonAlt, tells his… [+1541 chars]"
-    },
-    {
-      "id": "fgatmn8l5fr",
-      "author": "Eddie Fu",
-      "title": "The Simpsons Episode Mentioning China’s “Forced Labor” Cut from Disney+ in Hong Kong",
-      "description": "Season 34 episode \"One Angry Lisa\" references \"forced labor camps where children make smartphones.\"\nThe Simpsons Episode Mentioning China’s “Forced Labor” Cut from Disney+ in Hong Kong\nEddie Fu",
-      "url": "https://consequence.net/2023/02/the-simpsons-china-forced-labor-disney-hong-kong/",
-      "urlToImage": "https://consequence.net/wp-content/uploads/2023/02/simpsons-forced-labor-camps-reference.jpg?quality=80",
-      "publishedAt": "2026-02-18T20:27:01.052Z",
-      "content": "An episode of The Simpsons that includes a reference to “forced labor” in China has been cut from Disney+ in Hong Kong, Financial Times first reported.\r\nTitled “One Angry Lisa,” the Season 34 episode… [+1804 chars]"
-    },
-    {
-      "id": "eko9h42xs9j",
-      "author": "marketwatch.com",
-      "title": "Ether dips as DCG reportedly sells shares in several Grayscale crypto trusts",
-      "description": "Bitcoin and ether dipped Tuesday, as crypto conglomerate Digital Currency Group reportedly has been selling shares in several crypto trusts at a deep discount, as it strives to raise money to repay creditors of its bankrupt lending arm Genesis. The largest cr…",
-      "url": "https://biztoc.com/x/24b7e64044545cba",
-      "urlToImage": "https://c.biztoc.com/p/24b7e64044545cba/og.webp",
-      "publishedAt": "2028-07-16T09:22:12.289Z",
-      "content": "Bitcoin and ether dipped Tuesday, as crypto conglomerate Digital Currency Group reportedly has been selling shares in several crypto trusts at a deep discount, as it strives to raise money to repay c… [+323 chars]"
-    },
-    {
-      "id": "vwats65vu2n",
-      "author": "Jack Denton",
-      "title": "Another Ethereum Upgrade Is Coming. It Could Disrupt Markets—and Help Coinbase.",
-      "description": "The Shanghai Hard Fork is the latest major upgrade since Ethereum's transformative 'Merge' last year. There are implications beyond crypto.",
-      "url": "https://www.barrons.com/articles/ethereum-upgrade-shanghai-hard-fork-coinbase-51675789767",
-      "urlToImage": "https://images.barrons.com/im-655031/social",
-      "publishedAt": "2027-12-27T20:42:41.912Z",
-      "content": "An upgrade is coming to the \r\n Ethereum\r\n blockchain network. Investors should be prepared for it to potentially disrupt cryptocurrency markets and be a tailwind for the business of digital asset bro… [+4093 chars]"
-    },
-    {
-      "id": "h8izpd8o736",
-      "author": "cryptoslate.com",
-      "title": "Bitcoin up 287,000% since 2011; GBPUSD 11% away from all-time low",
-      "description": "Quick Take The pound has been in a long-term decline since the 70s. In 1971, it was 2.4 pounds to a dollar, and it is now at 1.2, a 50% drawdown. Currently, GBPUSD is at 1.20, which is only 11% away from its all-time low of 1.08. However, BTCUSD is up almost …",
-      "url": "https://biztoc.com/x/0257d24e495ebc22",
-      "urlToImage": "https://c.biztoc.com/p/0257d24e495ebc22/og.webp",
-      "publishedAt": "2028-11-25T10:00:04.033Z",
-      "content": "Quick TakeThe pound has been in a long-term decline since the 70s. In 1971, it was 2.4 pounds to a dollar, and it is now at 1.2, a 50% drawdown.Currently, GBPUSD is at 1.20, which is only 11% away fr… [+272 chars]"
-    },
-    {
-      "id": "dh9nho6br66",
-      "author": "Brenda Ngari",
-      "title": "Bloomberg’s McGlone Says Crypto’s First Real Recession Has Arrived — But Predicts It’ll End With Something Insanely Good",
-      "description": "Mike McGlone, Bloomberg's senior commodity strategist, is convinced the crypto market is presently experiencing its first major recession,",
-      "url": "https://zycrypto.com/bloombergs-mcglone-says-cryptos-first-real-recession-has-arrived-but-predicts-itll-end-with-something-insanely-good/",
-      "urlToImage": "https://zycrypto.com/wp-content/uploads/2023/02/Bloombergs-McGlone-Says-Cryptos-First-Real-Recession-Has-Arrived-—-But-Predicts-Itll-End-With-Something-Insanely-Good.jpg",
-      "publishedAt": "2024-12-09T11:32:18.487Z",
-      "content": "Mike McGlone, Bloomberg’s senior commodity strategist, is convinced the crypto market is presently experiencing its first major recession, an indication that theres still a long way before the crypto… [+2689 chars]"
-    },
-    {
-      "id": "prcff0pu5p",
-      "author": "James Van Straten",
-      "title": "Bitcoin up 287,000% since 2011; GBPUSD 11% away from all-time low",
-      "description": "Quick Take The pound has been in a long-term decline since the 70s. \nThe post Bitcoin up 287,000% since 2011; GBPUSD 11% away from all-time low appeared first on CryptoSlate.",
-      "url": "https://cryptoslate.com/insights/bitcoin-up-287000-since-2011-gbpusd-11-away-from-all-time-low/",
-      "urlToImage": "https://cryptoslate.com/wp-content/uploads/2023/01/bitcoin-insights.jpg",
-      "publishedAt": "2023-08-10T14:54:29.190Z",
-      "content": "Got a story tip? Email [email protected]\r\nDisclaimer: By using this website, you agree to our Terms and Conditions and Privacy Policy. CryptoSlate has no affiliation or relationship with any coin, bu… [+678 chars]"
-    },
-    {
-      "id": "cne75ekz5rt",
-      "author": "cryptobriefing.com",
-      "title": "Genesis and Gemini Reach Agreement in Principle",
-      "description": "Equinoz’s ‘Cybernetics’ Was Sold Out in 4 Minutes on PlayNomm NFT Mar... Bankman-Fried Wanted Crypto Prices to Go Up to Plug FTX Hole After weeks of tense back-and-forths, Digital Currency Group, Genesis, and Gemini seem to have reached an agreement as to a p…",
-      "url": "https://biztoc.com/x/80404f41e42f8528",
-      "urlToImage": "https://c.biztoc.com/p/80404f41e42f8528/og.webp",
-      "publishedAt": "2027-09-16T07:36:52.240Z",
-      "content": "Equinozs Cybernetics Was Sold Out in 4 Minutes on PlayNomm NFT Mar...Bankman-Fried Wanted Crypto Prices to Go Up to Plug FTX HoleAfter weeks of tense back-and-forths, Digital Currency Group, Genesis,… [+343 chars]"
-    },
-    {
-      "id": "pqet0dnjzum",
-      "author": "cnn.com",
-      "title": "'Britcoin' could arrive in the second half of the decade",
-      "description": "The United Kingdom is pushing ahead with plans to create a digital pound issued by the Bank of England that would offer a stable alternative to bitcoin or ether. The central bank and the UK Treasury said Monday that an official digital currency is “likely to …",
-      "url": "https://biztoc.com/x/b1552c653d0ad660",
-      "urlToImage": "https://c.biztoc.com/p/b1552c653d0ad660/og.webp",
-      "publishedAt": "2017-12-18T21:39:33.650Z",
-      "content": "The United Kingdom is pushing ahead with plans to create a digital pound issued by the Bank of England that would offer a stable alternative to bitcoin or ether.The central bank and the UK Treasury s… [+316 chars]"
-    },
-    {
-      "id": "m2b6idube68",
-      "author": "benzinga.com",
-      "title": "Dogecoin Reaches 'God Tier Low' At $0.091: Analyst Says 'No One Cares'",
-      "description": "A pseudonymous crypto analyst on Twitter recently stated that Dogecoin DOGE/USD is performing remarkably putting in a truly \"god tier\" low. What Happened: ‘Smart contracter’ told his 220,100 followers on Twitter that DOGE is at an incredibly low price at just…",
-      "url": "https://biztoc.com/x/5b9b3eed04392379",
-      "urlToImage": "https://c.biztoc.com/p/5b9b3eed04392379/og.webp",
-      "publishedAt": "2020-09-21T04:29:44.484Z",
-      "content": "A pseudonymous crypto analyst on Twitter recently stated that Dogecoin DOGE/USD is performing remarkably putting in a truly \"god tier\" low.What Happened: Smart contracter told his 220,100 followers o… [+306 chars]"
-    },
-    {
-      "id": "1alia9zjo4q",
-      "author": "unchained.com",
-      "title": "How to use bitcoin more privately",
-      "description": "In bitcoin, privacy is about having control over how and when you reveal your balances and transaction history when sending.",
-      "url": "https://biztoc.com/x/2eb0e76ce25adffa",
-      "urlToImage": "https://c.biztoc.com/p/2eb0e76ce25adffa/og.webp",
-      "publishedAt": "2029-03-18T05:41:08.167Z",
-      "content": "In bitcoin, privacy is about having control over how and when you reveal your balances and transaction history when sending. \r\n This story appeared on unchained.com, 2023-02-07."
-    },
-    {
-      "id": "u3j09gam07",
-      "author": "Robbi Yanto",
-      "title": "Esports: MT Legends Juara Turnamen Pintu Battleground Mobile Legends",
-      "description": "Tim esports asal Jakarta MT Legends berhasil menjadi juara pada turnamen Pintu Battleground Mobile Legends: Bang Bang.",
-      "url": "https://www.viva.co.id/sport/gelanggang/1572751-esports-mt-legends-juara-turnamen-pintu-battleground-mobile-legends",
-      "urlToImage": "https://thumb.viva.co.id/media/frontend/thumbs3/2023/02/07/63e27d7417705-mt-legends-juara-turnamen-pintu-battleground-mobile-legends_665_374.jpg",
-      "publishedAt": "2026-07-07T01:18:51.590Z",
-      "content": "VIVA Sport  Tim esports asal Jakarta MT Legends berhasil menjadi juara pada turnamen Pintu Battleground Mobile Legends: Bang Bang. \r\nMT Legends menang atas Relle Team dari Bogor di babak grand final … [+1009 chars]"
-    },
-    {
-      "id": "pytsmooy5xn",
-      "author": "Tom Carreras",
-      "title": "Genesis and Gemini Reach Agreement in Principle",
-      "description": "After weeks of tense back-and-forths, Digital Currency Group, Genesis, and Gemini seem to have reached an agreement as to a possible restructuring planwhich still needs court approval. A Positive Step...",
-      "url": "https://cryptobriefing.com/genesis-and-gemini-reach-agreement-in-principle/",
-      "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2022/11/16103754/gemini-cover-768x403.jpg",
-      "publishedAt": "2023-07-09T17:06:50.227Z",
-      "content": "Key Takeaways\r\nGenesis, Digital Currency Group, and Gemini announced yesterday they had reached an agreement in principle.</li>The restructuring plan involves Genesis Global Trading being… [+1886 chars]"
-    },
-    {
-      "id": "nbeoczwi3g",
-      "author": "Turner Wright",
-      "title": "Las empresas de minería de criptomonedas Hut 8 y US Bitcoin planean fusionarse",
-      "description": "La fusión, que creará la empresa \"New Hut\", está aún sujeta a la aprobación judicial y reglamentaria de las autoridades estadounidenses y canadienses.\n \nLa empresa minera de criptomonedas Hut 8 Mining, con sede en Canadá, ha anunciado sus planes de fusionarse…",
-      "url": "https://es.cointelegraph.com/news/crypto-mining-firms-hut-8-and-us-bitcoin-plan-merger",
-      "urlToImage": "https://s3.cointelegraph.com/uploads/2023-02/f728ba9a-8f12-4954-af62-f33ff4c50221.jpg",
-      "publishedAt": "2021-04-30T14:46:54.405Z",
-      "content": "La empresa minera de criptomonedas Hut 8 Mining, con sede en Canadá, ha anunciado sus planes de fusionarse con U.S. Bitcoin para formar Hut 8 Corp, o \"New Hut\".\r\nEn un anuncio del 7 de febrero, Hut 8… [+3422 chars]"
-    },
-    {
-      "id": "6s4g6ync496",
-      "author": "Sandali Handagama",
-      "title": "Don't Call It 'Britcoin': Digital Pound Nothing Like Crypto, Bank of England Official Says",
-      "description": "The central bank has made no decision on whether a digital pound would use distributed ledger technology, Deputy Governor Jon Cunliffe said.",
-      "url": "https://www.coindesk.com/policy/2023/02/07/digital-pound-nothing-like-crypto-bank-of-england-official-says-as-press-dubs-it-britcoin/",
-      "urlToImage": "https://www.coindesk.com/resizer/9qswUS53KNbdRQYZf6LOXy949pU=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/4KX3AALG2FBVBENSY7DX36MXMI.jpg",
-      "publishedAt": "2022-01-18T03:06:18.245Z",
-      "content": "The Bank of England is not okay with the press calling a digital pound issued by the central bank the \"Britcoin.\"\r\n\"The digital pound can be confused in peoples' minds with crypto assets such as bitc… [+2271 chars]"
-    },
-    {
-      "id": "nacitvv9c4f",
-      "author": "Matt Delaney",
-      "title": "Disney removes 'Simpsons' episode in Hong Kong that jokes about China's forced labor camps",
-      "description": "Disney has dropped an episode of \"The Simpsons\" from its streaming platform in Hong Kong that made a reference to forced labor camps in China.",
-      "url": "https://www.washingtontimes.com/news/2023/feb/7/disney-removes-simpsons-episode-hong-kong-jokes-ab/",
-      "urlToImage": "https://twt-thumbs.washtimes.com/media/image/2018/07/24/AP_18205779455893_c0-366-3960-2676_s1200x700.jpg?30da17832dc6d4e183c66fb8e005a9656ecc6c36",
-      "publishedAt": "2024-10-24T17:57:57.009Z",
-      "content": "Disney has dropped an episode of The Simpsons from its streaming platform in Hong Kong that made a reference to forced labor camps in China.\r\nThe episode, titled One Angry Lisa, was no longer availab… [+1131 chars]"
-    },
-    {
-      "id": "7ughoo9rd9t",
-      "author": "Aliyu Pokima",
-      "title": "Bitcoin’s Fear and Greed Index Stays In “Greed Zone” For 13 Straight Days — Can BTC Sustain The Bull Run?",
-      "description": "After several months of fear around the prices of digital assets, investors are now beginning to look more confident in the prospects of Bitcoin (BTC) and other assets following price surges in the past two weeks.",
-      "url": "https://zycrypto.com/bitcoins-fear-and-greed-index-stays-in-greed-zone-for-13-straight-days-can-btc-sustain-the-bull-run/",
-      "urlToImage": "https://zycrypto.com/wp-content/uploads/2021/05/What-The-Second-Leg-Of-The-Bitcoin-Bull-Market-Will-Look-Like.jpg",
-      "publishedAt": "2022-12-24T20:43:24.312Z",
-      "content": "Bitcoin has entered the greed zone with the Fear and Greed Index at a 10-month high of 61, signalling a strong bullish sentiment. </li><li>The recent change in investors’ sentiments comes fol… [+2354 chars]"
-    },
-    {
-      "id": "uqfif2a807b",
-      "author": "Arman Tadevosyan",
-      "title": "POstahjalsk",
-      "description": "jkjashdflakjh",
-      "urlToImage": "halkdfjh",
-      "url": "ajkshdflkajh",
-      "publishedAt": "2/10/2023 8:32:39 PM",
-      "content": "hjkahsdlfkjashdf"
-    },
-    {
-      "id": "vs0l3jpwjff",
-      "author": "arman1234",
-      "title": "d",
-      "description": "",
-      "urlToImage": "",
-      "url": "",
-      "publishedAt": "2/10/2023 10:10:30 PM",
-      "content": ""
-    },
-    {
-      "id": "2v15x482w7g",
-      "author": "arman1234",
-      "title": "asdfasdf",
-      "description": "",
-      "urlToImage": "",
-      "url": "",
-      "publishedAt": "2/10/2023 10:16:22 PM",
-      "content": ""
-    },
-    {
-      "id": "7d63e0n4p1x",
-      "author": "arman1234",
-      "title": "asdfasdf",
-      "description": "",
-      "urlToImage": "",
-      "url": "",
-      "publishedAt": "2/10/2023 10:18:06 PM",
-      "content": ""
-    },
-    {
-      "id": "e1xknf5u385",
-      "author": "arman1234",
-      "title": "sdfas",
-      "description": "",
-      "urlToImage": "",
-      "url": "",
-      "publishedAt": "2/10/2023 10:18:52 PM",
-      "content": ""
-    }
-  ]
+            "id": "q1qj78cweon",
+            "author": "Beyond Market Insights",
+            "title": "Cryptocurrency Market is likely to reach $12.10 billion by 2030 Globally at a CAGR of 11.9 %",
+            "description": "According to Beyond Market Insights, the global cryptocurrency market size was worth USD 4.40 billion in 2021 and is estimated to grow to USD 12.10 billion by 2030, with a CAGR of 11.9 % between 2022 to 2030. Industry Overview, Trend Analysis, Growth, Researc…",
+            "url": "https://www.globenewswire.com/news-release/2023/02/07/2603472/0/en/Cryptocurrency-Market-is-likely-to-reach-12-10-billion-by-2030-Globally-at-a-CAGR-of-11-9.html",
+            "urlToImage": "https://ml.globenewswire.com/Resource/Download/088ef293-2128-4fec-bdbd-69eee39d5de5?size=1",
+            "publishedAt": "2025-12-25T08:52:47.683Z",
+            "content": "Austin, Feb. 07, 2023 (GLOBE NEWSWIRE) -- Cryptocurrency Market Overview: Cryptocurrency is a form of currency with no central issuing or regulatory organization above it and only exists in digital f… [+13213 chars]"
+        },
+        {
+            "id": "30vp5msslc",
+            "author": "Jesús González",
+            "title": "Bitcoin en español: El Salvador enfrenta críticas por bono BTC y nace Ley Fintech en Chile",
+            "description": "Los sistemas monetarios de Latinoamérica están en disyuntiva entre el sistema establecido y las nuevas economías.\nLeer más",
+            "url": "https://www.criptonoticias.com/comunidad/bitcoin-salvador-enfrenta-criticas-bono-btc-nace-ley-fintech-chile/",
+            "urlToImage": "https://www.criptonoticias.com/wp-content/uploads/2023/01/bitcoin-el-salvador-bonos.png",
+            "publishedAt": "2026-12-23T08:18:05.820Z",
+            "content": "Hechos clave:\r\nUna moneda única para Latinoamérica genera debate en la comunidad.\r\n</li><li>Los pagos con criptomonedas crecen en Latinoamérica y te explicamos las razones.\r\n</li></ul>\r\nBitco… [+5782 chars]"
+        },
+        {
+            "id": "k2qp4cuztt",
+            "author": "Zeynep Geylan",
+            "title": "Average BTC block size reaches new ATH at over 2 MB",
+            "description": "Glassnode data analyzed by CryptoSlate shows that Bitcoin (BTC) average block size reached a new all-time high by reaching 2.25 megabytes (MB). \nThe post Average BTC block size reaches new ATH at over 2 MB appeared first on CryptoSlate.",
+            "url": "https://cryptoslate.com/average-btc-block-size-reaches-new-ath-at-over-2-mb/",
+            "urlToImage": "https://cryptoslate.com/wp-content/uploads/2023/01/bitcoin-open-interest.jpg",
+            "publishedAt": "2018-09-12T03:03:39.242Z",
+            "content": "Glassnode data analyzed by CryptoSlate shows that Bitcoin (BTC) average block size reached a new all-time high by reaching 2.25 megabytes (MB).\r\nBTC Mean Block Size (Source: Glassnode)\r\nThe chart abo… [+1451 chars]"
+        },
+        {
+            "id": "w92109k67db",
+            "author": "Stan Kaminsky",
+            "title": "Fraudes em recrutamentos: como reconhecê-las e evitá-las",
+            "description": "Os principais métodos de engano usados ao “contratar” em 2023",
+            "url": "https://www.kaspersky.com.br/blog/top-2023-job-scams-and-how-to-avoid-them/20659/",
+            "urlToImage": "https://media.kasperskydaily.com/wp-content/uploads/sites/94/2023/02/07170847/2023-job-scams-and-how-to-avoid-them-featured-1.jpg",
+            "publishedAt": "2023-03-28T02:02:40.332Z",
+            "content": "Empregos falsos existem há séculos. Até o próprio Sherlock Holmes os encontrou em The Red-Headed League, de Arthur Conan Doyle. Os verdadeiros fraudadores são tão sofisticados quanto os personagens l… [+10240 chars]"
+        },
+        {
+            "id": "5o62s5y4v9x",
+            "author": "coindesk.com",
+            "title": "Bitcoin Favored Over Ether by CME Traders So Far This Year, Arcane Research Report Shows",
+            "description": "Bitcoin Favored Over Ether by CME Traders So Far This Year, Arcane Research Report Shows Open interest in bitcoin futures on the Chicago Mercantile Exchange has risen while ether’s has declined, according to an Arcane Research report.#cmetraderssofar #arcaner…",
+            "url": "https://biztoc.com/x/5d13077029952eb0",
+            "urlToImage": "https://c.biztoc.com/p/5d13077029952eb0/og.webp",
+            "publishedAt": "2024-08-15T07:44:53.614Z",
+            "content": "Bitcoin Favored Over Ether by CME Traders So Far This Year, Arcane Research Report ShowsOpen interest in bitcoin futures on the Chicago Mercantile Exchange has risen while ethers has declined, accord… [+117 chars]"
+        },
+        {
+            "id": "rlqjo2vw009",
+            "author": "Andrea Leal",
+            "title": "¿Qué es Tether (USDT)?",
+            "description": "Tether es una stablecoin que salió al mercado en el año 2014 y ahora es la criptomoneda con mayor volumen de comercialización.\nLeer más",
+            "url": "https://www.criptonoticias.com/?p=370228",
+            "urlToImage": "https://www.criptonoticias.com/wp-content/uploads/2023/01/portada-criptopedia-tether.jpg",
+            "publishedAt": "2029-07-19T06:03:22.768Z",
+            "content": "Tether (USDT) es una de las criptomonedas estables (stablecoins) más populares y con mayor capitalización de mercado que existen hoy en día. Se trata de una herramienta financiera capaz de interactua… [+16523 chars]"
+        },
+        {
+            "id": "bx65t6isc6d",
+            "author": "coinjournal.net",
+            "title": "Bitcoin’s on-chain metrics are flipping bullish: Bitfinex report",
+            "description": "Bitfinex market report points to bullish metrics for BTC Supply in Profit, Bitcoin Realised HODL (RHODL) Multiple and Reserve Risk ratio are all flashing green. Bitcoin has traded to above $23k again after slipping on Monday following broader market reaction …",
+            "url": "https://biztoc.com/x/30d9e4b8804c8f6e",
+            "urlToImage": "https://c.biztoc.com/p/30d9e4b8804c8f6e/og.webp",
+            "publishedAt": "2027-08-29T09:51:49.150Z",
+            "content": "Bitfinex market report points to bullish metrics for BTCSupply in Profit, Bitcoin Realised HODL (RHODL) Multiple and Reserve Risk ratio are all flashing green.Bitcoin has traded to above $23k again a… [+321 chars]"
+        },
+        {
+            "id": "et8zngd3o4o",
+            "author": "Benson Toti",
+            "title": "Bitcoin’s on-chain metrics are flipping bullish: Bitfinex report",
+            "description": "Bitfinex market report points to bullish metrics for BTC Supply in Profit, Bitcoin Realised HODL (RHODL) Multiple and Reserve Risk ratio are all flashing green. Bitcoin has traded to above $23k again after slipping on Monday following broader market reaction …",
+            "url": "https://coinjournal.net/news/bitcoins-on-chain-metrics-are-flipping-bullish-bitfinex-report/",
+            "urlToImage": "https://coinjournal.net/wp-content/uploads/1970/01/1675799640578-df4cff83-911a-413d-a48a-18dbf21119ce.jpg",
+            "publishedAt": "2023-09-20T20:03:39.056Z",
+            "content": "Bitfinex market report points to bullish metrics for BTC</li><li>Supply in Profit, Bitcoin Realised HODL (RHODL) Multiple and Reserve Risk ratio are all flashing green.</li><li>Bitcoin has tr… [+3820 chars]"
+        },
+        {
+            "id": "y5an463xm",
+            "author": "cnn.com",
+            "title": "‘Britcoin’ could arrive in the second half of the decade",
+            "description": "The United Kingdom is pushing ahead with plans to create a digital pound issued by the Bank of England that would offer a stable alternative to bitcoin or ether. The central bank and the UK Treasury said Monday that an official digital currency is “likely to …",
+            "url": "https://biztoc.com/x/6610c9d55aaca881",
+            "urlToImage": "https://c.biztoc.com/p/6610c9d55aaca881/og.webp",
+            "publishedAt": "2021-07-16T23:27:05.665Z",
+            "content": "The United Kingdom is pushing ahead with plans to create a digital pound issued by the Bank of England that would offer a stable alternative to bitcoin or ether.The central bank and the UK Treasury s… [+316 chars]"
+        },
+        {
+            "id": "55cog1zacc9",
+            "author": "dailyhodl.com",
+            "title": "Scaling Firm StarkWare To Make Key Technology Open Source",
+            "description": "layer-2 scaling firm Starkware is revealing its plans to open source one of its software products. The blockchain company says its Starknet Prover, which powers its scalability engine, will be made open source to boost accessibility to developers and promote …",
+            "url": "https://biztoc.com/x/198a3f6d2daec06c",
+            "urlToImage": "https://c.biztoc.com/p/198a3f6d2daec06c/og.webp",
+            "publishedAt": "2017-12-31T14:18:28.552Z",
+            "content": "layer-2 scaling firm Starkware is revealing its plans to open source one of its software products.The blockchain company says its Starknet Prover, which powers its scalability engine, will be made op… [+301 chars]"
+        },
+        {
+            "id": "rjtc5lgtmr",
+            "author": "dailyhodl.com",
+            "title": "JPMorgan Institutional Survey Says Crypto and Blockchain To Soar in Prominence This Year",
+            "description": "A new survey conducted by banking giant JPMorgan finds that institutional traders believe cryptocurrency and blockchain technologies will become more mainstream in 2023. JPMorgan’s new “The e-Trading Edit: Insights from the Inside” survey reports that all ins…",
+            "url": "https://biztoc.com/x/c131eb93b5c91b55",
+            "urlToImage": "https://c.biztoc.com/p/c131eb93b5c91b55/og.webp",
+            "publishedAt": "2020-05-25T14:36:38.350Z",
+            "content": "A new survey conducted by banking giant JPMorgan finds that institutional traders believe cryptocurrency and blockchain technologies will become more mainstream in 2023.JPMorgans new The e-Trading Ed… [+334 chars]"
+        },
+        {
+            "id": "cf3bap9ksp7",
+            "author": null,
+            "title": "Jarden Brief: New car shortages and leisure travel boom drive rental car company up",
+            "description": "All eyes and ears on Fed chairman for potential insights on interest rates.",
+            "url": "https://www.nzherald.co.nz/business/jarden-brief-new-car-shortages-and-leisure-travel-boom-drive-rental-car-company-up/MZXB6WOPEFGFLAWRVCWQM52WCU/",
+            "urlToImage": "https://www.nzherald.co.nz/resizer/PkIltcYdBHctlnqn_UqMFMdldXY=/1200x675/smart/filters:quality(70)/cloudfront-ap-southeast-2.images.arcpublishing.com/nzme/IDDHH2R5LRBBNDU6DC57SAOP7A.jpg",
+            "publishedAt": "2023-11-10T01:29:50.882Z",
+            "content": "Hertz Global gained after reporting strong demand for rental cars from leisure travelers and demand for car buyers facing automotive shortages. Photo / Cindy Ord, Getty ImagesKeeping you up to date w… [+5918 chars]"
+        },
+        {
+            "id": "0o6yqgrrqitj",
+            "author": "Siamak Masnavi",
+            "title": "BitMEX Co-Founder on Bitcoin: “Time To Get In While the Getting Is Good”",
+            "description": "On Tuesday (7 February 2023), Arthur Hayes, Co-Founder and former CEO of BitMEX, revealed that he is getting back into Bitcoin even though he realizes that “buying into Bitcoin when it is already up 50% off the lows is dangerous.” In a blog post published ear…",
+            "url": "https://www.cryptoglobe.com/latest/2023/02/bitmex-co-founder-on-bitcoin-time-to-get-in-while-the-getting-is-good/",
+            "urlToImage": "https://cryptoglobe.s3.eu-west-2.amazonaws.com/2022/08/bitcoin-g4c5ff6894_1920-768x508.jpg",
+            "publishedAt": "2024-05-16T05:39:52.867Z",
+            "content": "On Tuesday (7 February 2023), Arthur Hayes, Co-Founder and former CEO of BitMEX, revealed that he is getting back into Bitcoin even though he realizes that buying into Bitcoin when it is already up 5… [+1315 chars]"
+        },
+        {
+            "id": "zwtqn7sduq",
+            "author": "Jess Weatherbed",
+            "title": "Disney removes Simpsons episode in Hong Kong that references Chinese labor camps",
+            "description": "Disney has pulled the One Angry Lisa episode of The Simpsons that alludes to “forced labor camps where children make smartphones” from its Disney Plus streaming platform in Hong Kong.",
+            "url": "https://www.theverge.com/2023/2/7/23589559/disney-removes-simpsons-episode-hong-kong-china-labor-camps",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/uNDv1sLRESQiMvFVABg8hopATN8=/0x0:2959x1942/1200x628/filters:focal(1480x971:1481x972)/cdn.vox-cdn.com/uploads/chorus_asset/file/24415875/One_Angry_Lisa_The_Simpsons.jpg",
+            "publishedAt": "2029-09-16T21:17:15.213Z",
+            "content": "Disney removes Simpsons episode in Hong Kong that references Chinese labor camps\r\nDisney removes Simpsons episode in Hong Kong that references Chinese labor camps\r\n / The episode One Angry Lisa has b… [+2411 chars]"
+        },
+        {
+            "id": "qrj2ypt4gws",
+            "author": "ambcrypto.com",
+            "title": "Bitcoin: For the first time since April 2022, BTC holders see profit",
+            "description": "The recent rally in BTC’s price has put many holders in profit. • Many holders are, however, inclined to sell, rather than hold. In the first 30 days of 2023, Bitcoin’s price rallied significantly, causing many of its holders to hold unrealized profits. Howev…",
+            "url": "https://biztoc.com/x/b435b782a31b7f3a",
+            "urlToImage": "https://c.biztoc.com/p/b435b782a31b7f3a/og.webp",
+            "publishedAt": "2023-05-23T01:24:45.454Z",
+            "content": "The recent rally in BTCs price has put many holders in profit.Many holders are, however, inclined to sell, rather than hold.In the first 30 days of 2023, Bitcoins price rallied significantly, causing… [+291 chars]"
+        },
+        {
+            "id": "66l4xz1x1lf",
+            "author": "cryptodaily.co.uk",
+            "title": "Coinbase-Backed DeSo Unveils MegaSwap, a \"Stripe for Crypto\" product, with Over $5 Million in Volume",
+            "description": "Los Angeles, United States, 7th February, 2023, Chainwire DeSo is excited to announce the launch of MegaSwap – a revolutionary, cross-chain smart service that enables users to securely and easily swap coins between different blockchains with a frictionless ze…",
+            "url": "https://biztoc.com/x/c3163a0a015c7621",
+            "urlToImage": "https://c.biztoc.com/p/c3163a0a015c7621/og.webp",
+            "publishedAt": "2027-11-06T13:23:05.853Z",
+            "content": "Los Angeles, United States, 7th February, 2023, ChainwireDeSo is excited to announce the launch of MegaSwap a revolutionary, cross-chain smart service that enables users to securely and easily swap c… [+281 chars]"
+        },
+        {
+            "id": "jnejq1gal4l",
+            "author": "Abiodun Oladokun",
+            "title": "Bitcoin: For the first time since April 2022, BTC holders see profit",
+            "description": "The recent rally in BTC’s price has put many holders in profit. Many holders are, however, inclined to sell, rather than hold. In the first 30 days of 2023, Bitcoin’s price rallied significantly, causing many of its holders to hold unrealized profits. However…",
+            "url": "https://ambcrypto.com/bitcoin-for-the-first-time-since-april-2022-btc-holders-see-profit/",
+            "urlToImage": "https://ambcrypto.com/wp-content/uploads/2023/02/madison-oren-uGP_6CAD-14-unsplash-2-1000x600.jpg",
+            "publishedAt": "2019-12-26T07:51:53.538Z",
+            "content": "The recent rally in BTC’s price has put many holders in profit.</li><li>Many holders are, however, inclined to sell, rather than hold.</li></ul>In the first 30 days of 2023, Bitcoins price ra… [+2917 chars]"
+        },
+        {
+            "id": "8t9kva080c5",
+            "author": "cnbc.com",
+            "title": "Bitcoin trades around $23,000 after Fed Chair Powell warns that rates could rise further",
+            "description": "More than $1.3 trillion has been wiped off the cryptocurrency market so far in 2022 as the fallout from the FTX collapse continues to weigh on investor confidence. Bitcoin hovered around the $23,000 level after Federal Reserve Chair Jerome Powell spoke at an …",
+            "url": "https://biztoc.com/x/c2f7374838bf5f02",
+            "urlToImage": "https://c.biztoc.com/p/c2f7374838bf5f02/og.webp",
+            "publishedAt": "2029-10-22T20:42:06.723Z",
+            "content": "More than $1.3 trillion has been wiped off the cryptocurrency market so far in 2022 as the fallout from the FTX collapse continues to weigh on investor confidence.Bitcoin hovered around the $23,000 l… [+290 chars]"
+        },
+        {
+            "id": "gtiw1woae4m",
+            "author": "Meredith Clark",
+            "title": "Super Bowl 2023: The 10 most controversial Super Bowl ads ever",
+            "description": "From robot suicide to cryptocurrency, the Super Bowl has been known to air controversial ads during the big game",
+            "url": "https://www.independent.co.uk/life-style/super-bowl-sunday-controversial-ads-commercials-nfl-b2277653.html",
+            "urlToImage": "https://static.independent.co.uk/2023/02/03/17/controversial%20super%20bowl%20ad.jpg?quality=75&width=1200&auto=webp",
+            "publishedAt": "2028-08-26T05:30:35.481Z",
+            "content": "Stay ahead of the trend in fashion and beyond with our free weekly Lifestyle Edit newsletter\r\nStay ahead of the trend in fashion and beyond with our free weekly Lifestyle Edit newsletter \r\nThe Super … [+6256 chars]"
+        },
+        {
+            "id": "b8j6hl73ovc",
+            "author": "By Danica Kirka",
+            "title": "Britcoin? UK closer to launching digital currency version of pound",
+            "description": "\"Britcoin\" is a digital version of the pound, not a cryptocurrency.",
+            "url": "https://www.nzherald.co.nz/business/britcoin-uk-closer-to-launching-digital-currency-version-of-pound/CAMLUA7W5NCEBAXICXWOW6P3QY/",
+            "urlToImage": "https://www.nzherald.co.nz/resizer/42mbtyOkLLwahT6xxdNXdwysCOc=/1200x675/smart/filters:quality(70)/cloudfront-ap-southeast-2.images.arcpublishing.com/nzme/AQL3Z62675FI3JMB727LLS2GJA.JPG",
+            "publishedAt": "2028-05-15T15:33:45.199Z",
+            "content": "The Union Jack flag waves on top of the Bank of England in London this month. Could the UK be heading towards a digital pound, known as \"Britcoin\"? Photo / APBritcoin is moving closer to reality.\r\nUK… [+3323 chars]"
+        },
+        {
+            "id": "vpgq75pyrj9",
+            "author": "decrypt.co",
+            "title": "Bitcoin Pops, Then Drops as Fed Chief Powell Says Beating Inflation Will 'Take Time'",
+            "description": "Bitcoin swung upwards with stocks but then settled lower following Federal Reserve Chairman Jerome Powell’s comments that the central bank is beginning to get inflation under control. Powell cautioned, however, that it will take a long time to fully tame infl…",
+            "url": "https://biztoc.com/x/97dd11ed6971aeb3",
+            "urlToImage": "https://c.biztoc.com/p/97dd11ed6971aeb3/og.webp",
+            "publishedAt": "2019-08-19T13:58:57.515Z",
+            "content": "Bitcoin swung upwards with stocks but then settled lower following Federal Reserve Chairman Jerome Powells comments that the central bank is beginning to get inflation under control. Powell cautioned… [+305 chars]"
+        },
+        {
+            "id": "oh7osi7qrs",
+            "author": "Crypto Daily",
+            "title": "Coinbase-Backed DeSo Unveils MegaSwap, a \"Stripe for Crypto\" product, with Over $5 Million in Volume",
+            "description": "Los Angeles, United States, 7th February, 2023, ChainwireDeSo is excited to announce the launch of MegaSwap – a revolutionary, cross-chain smart service that enables users to securely and easily swap coins between different blockchains with a frictionless zer…",
+            "url": "https://cryptodaily.co.uk/2023/02/coinbase-backed-deso-unveils-megaswap-a-stripe-for-crypto-product-with-over-5-million-in-volume",
+            "urlToImage": "https://app.chainwire.org/storage/uploads/users/megaswap-solana_16757551838bQYTL6Gtc.jpg",
+            "publishedAt": "2029-11-10T10:00:23.915Z",
+            "content": "Los Angeles, United States, 7th February, 2023, Chainwire\r\nDeSo\r\nis excited to announce the launch of MegaSwap \r\n– a revolutionary, cross-chain smart service that enables users to securely and easily… [+3841 chars]"
+        },
+        {
+            "id": "ri129s28gem",
+            "author": "beincrypto.com",
+            "title": "‘Britcoin’ CBDC Is Nothing Like Crypto, Says Bank of England",
+            "description": "The UK’s central bank, the Bank of England, made it very clear on Tuesday that they do not want you to refer to the country’s CBDC as ‘Britcoin.’ British and international press — including CNN, ABC News, The Guardian, The Daily Mail, and others — have adopte…",
+            "url": "https://biztoc.com/x/a13f01e38d702cf9",
+            "urlToImage": "https://c.biztoc.com/p/a13f01e38d702cf9/og.webp",
+            "publishedAt": "2028-06-26T16:53:24.293Z",
+            "content": "The UKs central bank, the Bank of England, made it very clear on Tuesday that they do not want you to refer to the countrys CBDC as Britcoin. British and international press including CNN, ABC News, … [+308 chars]"
+        },
+        {
+            "id": "xq9tp3ckd5",
+            "author": "Abdullah",
+            "title": "Here’s how to get rich using ChatGPT!",
+            "description": "Can you make a million dollars using ChatGPT? Many popular influencers claim that it is possible and accessible to anyone. Unfortunately, this lovely promise is ...\nThe post Here’s how to get rich using ChatGPT! appeared first on Gizchina.com.",
+            "url": "https://www.gizchina.com/2023/02/07/heres-how-to-get-rich-using-chatgpt/",
+            "urlToImage": "https://www.gizchina.com/wp-content/uploads/images/2023/02/ChatGPT.jpg",
+            "publishedAt": "2027-03-03T19:51:18.180Z",
+            "content": "Can you make a million dollars using ChatGPT? Many popular influencers claim that it is possible and accessible to anyone. Unfortunately, this lovely promise is more of a mirage than anything else.\r\n… [+7317 chars]"
+        },
+        {
+            "id": "5pbiitzy46f",
+            "author": "Mathew Di Salvo",
+            "title": "Bitcoin Pops, Then Drops as Fed Chief Powell Says Beating Inflation Will 'Take Time'",
+            "description": "Powell today said that there will be “significant declines in inflation” this year, but there's no guarantee it will be easy.",
+            "url": "https://decrypt.co/120771/bitcoin-price-fed-chief-jerome-powell-inflation",
+            "urlToImage": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2020/02/fed-chairman-powell-federal-reserve-dollar-digital-currency-central-bank1-gID_6.jpg@png",
+            "publishedAt": "2017-08-12T08:53:12.304Z",
+            "content": "Bitcoin swung upwards with stocks but then settled lower following Federal Reserve Chairman Jerome Powells comments that the central bank is beginning to get inflation under control. Powell cautioned… [+1874 chars]"
+        },
+        {
+            "id": "uenc2ot4wvm",
+            "author": "geyser.fund",
+            "title": "Geyser Fund",
+            "description": "Geyser is a bitcoin crowdfunding platform that enables campaign creators to launch their projects with rewards and engage their communities with posts and content.",
+            "url": "https://biztoc.com/x/9eb757bfc4a9315a",
+            "urlToImage": "https://c.biztoc.com/p/9eb757bfc4a9315a/og.webp",
+            "publishedAt": "2028-02-07T04:50:23.330Z",
+            "content": "Geyser is a bitcoin crowdfunding platform that enables campaign creators to launch their projects with rewards and engage their communities with posts and content. \r\n This story appeared on geyser.fu… [+14 chars]"
+        },
+        {
+            "id": "cqxiaxosyb6",
+            "author": "Tanaya Macheel",
+            "title": "Bitcoin trades around $23,000 after Fed Chair Powell warns that rates could rise further",
+            "description": "The cryptocurrency struggled to hold the $23,000 level in the previous session as the rally loses momentum.",
+            "url": "https://www.cnbc.com/2023/02/07/bitcoin-trades-around-23000-after-fed-chair-powell-warns-that-rates-could-rise-further.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107091307-1658311312247-gettyimages-1241545732-US_Dollars_Bitcoin.jpeg?v=1675796542&w=1920&h=1080",
+            "publishedAt": "2027-03-05T04:28:41.311Z",
+            "content": "Bitcoin hovered around the $23,000 level after Federal Reserve Chair Jerome Powell spoke at an event in Washington, D.C., noting that interest rates could rise higher if inflation winds up being hott… [+1313 chars]"
+        },
+        {
+            "id": "3x73wauxl43",
+            "author": "dailyhodl.com",
+            "title": "Coinbase-Backed DeSo Unveils MegaSwap, a ‘Stripe for Crypto’ Product, With Over $5 Million in Volume",
+            "description": "February 7, 2023 – Los Angeles, California DeSo is excited to announce the launch of MegaSwap – a revolutionary cross-chain smart service that enables users to securely and easily swap coins between different blockchains with a frictionless zero-login. MegaSw…",
+            "url": "https://biztoc.com/x/5f60ba5c4c406953",
+            "urlToImage": "https://c.biztoc.com/p/5f60ba5c4c406953/og.webp",
+            "publishedAt": "2028-08-22T02:13:20.425Z",
+            "content": "February 7, 2023 Los Angeles, CaliforniaDeSo is excited to announce the launch of MegaSwap a revolutionary cross-chain smart service that enables users to securely and easily swap coins between diffe… [+280 chars]"
+        },
+        {
+            "id": "pitijygwhy",
+            "author": "ChainWire",
+            "title": "Coinbase-Backed DeSo Unveils MegaSwap, a ‘Stripe for Crypto’ Product, With Over $5 Million in Volume",
+            "description": "February 7, 2023 – Los Angeles, California DeSo is excited to announce the launch of MegaSwap – a revolutionary cross-chain smart service that enables users to securely and easily swap coins between different blockchains with a frictionless zero-login. MegaSw…",
+            "url": "https://dailyhodl.com/2023/02/07/coinbase-backed-deso-unveils-megaswap-a-stripe-for-crypto-product-with-over-5-million-in-volume/",
+            "urlToImage": "https://dailyhodl.com/wp-content/uploads/2022/03/DeSo-Protocol-Industry-Announcement-Featured-Image-Template.jpg",
+            "publishedAt": "2028-05-01T21:13:22.458Z",
+            "content": "February 7, 2023 Los Angeles, California\r\nDeSo is excited to announce the launch of MegaSwap a revolutionary cross-chain smart service that enables users to securely and easily swap coins between dif… [+4450 chars]"
+        },
+        {
+            "id": "b6693lbu00e",
+            "author": "Lorenzo Franceschi-Bicchierai",
+            "title": "'Tracers in the Dark' shows how cops go after crypto-criminals",
+            "description": "\"That was the only path through this darkness,\" says U.S. prosecutor Zia Faruqui. \"The darker the darknet gets, the way that you shine the light is following the money.\" In Tracers in the Dark, Andy Greenberg, a senior writer at Wired, tak",
+            "url": "https://techcrunch.com/2023/02/07/andy-greenberg-tracers-in-the-dark-book-review/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/02/GettyImages-486192134.jpg?resize=1200,805",
+            "publishedAt": "2024-09-01T05:40:03.066Z",
+            "content": "That was the only path through this darkness, says U.S. prosecutor Zia Faruqui. The darker the darknet gets, the way that you shine the light is following the money.\r\nIn Tracers in the Dark, Andy Gre… [+4503 chars]"
+        },
+        {
+            "id": "n7s9dyq25lj",
+            "author": "coindesk.com",
+            "title": "Bitcoin Rises to $23.3K as Powell Repeats 'Disinflationary' Comment",
+            "description": "The Fed chair spoke days after the central bank last hiked interest rates.",
+            "url": "https://biztoc.com/x/56d36dacf9af1cf5",
+            "urlToImage": "https://c.biztoc.com/p/56d36dacf9af1cf5/og.webp",
+            "publishedAt": "2024-11-09T18:40:12.282Z",
+            "content": "The Fed chair spoke days after the central bank last hiked interest rates. \r\n This story appeared on coindesk.com, 2023-02-07."
+        },
+        {
+            "id": "8m90awgzpfr",
+            "author": "Kyle White",
+            "title": "El precio de Avalanche (AVAX) subió, pero ¿los fundamentales respaldan el repunte?",
+            "description": "El precio de AVAX ha experimentado un fuerte repunte desde principios de 2023, pero se necesita una subida sostenida de sus componentes DeFi para mantener el actual impulso alcista.\n \nEl precio de Avalanche (AVAX) ha tenido un comienzo meteórico en 2023, con …",
+            "url": "https://es.cointelegraph.com/news/avalanche-avax-price-is-up-but-do-fundamentals-support-the-rally",
+            "urlToImage": "https://s3.cointelegraph.com/uploads/2023-02/125e0c63-74a7-4f28-a36e-8256270f3b8c.jpg",
+            "publishedAt": "2022-03-08T16:14:17.637Z",
+            "content": "El precio de Avalanche (AVAX) ha tenido un comienzo meteórico en 2023, con una ganancia del 98% en 30 días, y los traders tienen curiosidad por saber si el repunte se extenderá a lo largo de febrero.… [+5163 chars]"
+        },
+        {
+            "id": "xl1jfnuwc59",
+            "author": "Marianella Vanci",
+            "title": "Exasesor del Banco de China pide que se elimine la prohibición sobre Bitcoin",
+            "description": "Exasesor del banco central cree que el país pierde valiosas oportunidades al prohibir a bitcoin y otras criptomonedas.\nLeer más",
+            "url": "https://www.criptonoticias.com/regulacion/exasesor-banco-china-pide-elimine-prohibicion-bitcoin/",
+            "urlToImage": "https://www.criptonoticias.com/wp-content/uploads/2023/01/economista-solicita-fin-prohibicion-bitcoin-china.jpg",
+            "publishedAt": "2018-03-16T15:27:05.652Z",
+            "content": "Hechos clave:\r\nLos habitantes siguen centrando su atención en bitcoin y otras criptomonedas.\r\n</li><li>El yuan digital no ha conquistado del todo a la población de China.\r\n</li></ul>\r\nHuang Y… [+3393 chars]"
+        },
+        {
+            "id": "owmxhv4lps8",
+            "author": "Megan Cerullo",
+            "title": "Disney yanks \"Simpsons\" episode in Hong Kong over \"forced labor\" joke",
+            "description": "Entertainment giant has previously faced accusations of self-censorship for taking down \"Simpsons\" episode in deference to China.",
+            "url": "https://www.cbsnews.com/news/disney-simpsons-episode-forced-labor-china-hong-kong/",
+            "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2023/02/07/7c722218-6e11-4c21-83bd-27760352bd6f/thumbnail/1200x630/37c6d3836578e0dcc224f911de301790/fullsizerender.jpg",
+            "publishedAt": "2022-08-19T14:35:31.156Z",
+            "content": "Disney has removed an episode of \"The Simpsons\" that mentions China's human rights abuses from the entertainment company's streaming platform in Hong Kong, the Financial Times reports. \r\nThe episode,… [+1777 chars]"
+        },
+        {
+            "id": "pc3zxx5xngn",
+            "author": "Judith BannermanQuist",
+            "title": "Binance apoyará a los usuarios de la región del terremoto de Turquía con airdrops de USD en tokens BNB",
+            "description": "Según el CEO de Binance, Changpeng Zhao, el exchange está trabajando en más esfuerzos para ayudar.\n \nEl devastador terremoto que sacudió Turquía el 6 de febrero ha dejado un rastro de destrucción a su paso, afectando a numerosas comunidades y personas.\r\n\nEn r…",
+            "url": "https://es.cointelegraph.com/news/binance-to-support-users-in-turkey-s-earthquake-region-with-100-airdrops-in-bnb-tokens",
+            "urlToImage": "https://s3.cointelegraph.com/uploads/2023-02/5f9698e9-7979-4ee8-8c47-7b6a4bd83b3a.jpg",
+            "publishedAt": "2017-03-10T15:32:55.562Z",
+            "content": "El devastador terremoto que sacudió Turquía el 6 de febrero ha dejado un rastro de destrucción a su paso, afectando a numerosas comunidades y personas.\r\nEn respuesta a la tragedia, el exchange de cri… [+3540 chars]"
+        },
+        {
+            "id": "5te4zz90b2q",
+            "author": "bitcoiner",
+            "title": "Forum Geral • Re: Bitcoin - a moeda do futuro?",
+            "description": "",
+            "url": "http://caldeiraodebolsa.jornaldenegocios.pt/viewtopic.php?t=75434&p=1779454#p1779454",
+            "urlToImage": null,
+            "publishedAt": "2023-10-26T11:27:05.941Z",
+            "content": "RarityHumans are collectors, and since satoshis can now be tracked and transferred, people will naturally want to collect them. Ordinal theorists can decide for themselves which sats are rare and des… [+3030 chars]"
+        },
+        {
+            "id": "uf78rzvgkl",
+            "author": "cryptopotato.com",
+            "title": "Bitcoin Increases to $23.3K as Powell Reiterates 2% Inflation Target",
+            "description": "Federal Reserve Chairman Jerome Powell spoke more on the future direction of monetary policy following an unexpectedly strong U.S. jobs report on Friday. Here’s what he had to say: During an interview, Powell reiterated his comments from last week that the ec…",
+            "url": "https://biztoc.com/x/fb4246d230b2d311",
+            "urlToImage": "https://c.biztoc.com/p/fb4246d230b2d311/og.webp",
+            "publishedAt": "2025-10-17T19:44:07.682Z",
+            "content": "Federal Reserve Chairman Jerome Powell spoke more on the future direction of monetary policy following an unexpectedly strong U.S. jobs report on Friday.Heres what he had to say:During an interview, … [+312 chars]"
+        },
+        {
+            "id": "h36ku9rfyzo",
+            "author": "theblock.co",
+            "title": "Bitcoin, ether retrench after rising with traditional markets on Fed Chair comments",
+            "description": "Cryptocurrencies rose alongside traditional markets in response to comments delivered by Federal Reserve Chair Jerome Powell at The Economic Club in Washington before turning lower. Bitcoin rose to a high of $23,320 around 1:00 pm EST only to slide back down …",
+            "url": "https://biztoc.com/x/c601416850222be9",
+            "urlToImage": "https://c.biztoc.com/p/c601416850222be9/og.webp",
+            "publishedAt": "2024-03-31T10:52:35.057Z",
+            "content": "Cryptocurrencies rose alongside traditional markets in response to comments delivered by Federal Reserve Chair Jerome Powell at The Economic Club in Washington before turning lower.Bitcoin rose to a … [+323 chars]"
+        },
+        {
+            "id": "ghdnuzo7ej",
+            "author": "cointelegraph.com",
+            "title": "price is up, but do fundamentals support the rally?",
+            "description": "witnessed a meteoric start to 2023, gaining 98% in 30 days, and traders are now curious about whether the rally will extend throughout February. AVAX’s year-to-date gains for 2023 have outpaced those of Bitcoin (BTC) and Ether (ETH). Recent reasons for AVAX’s…",
+            "url": "https://biztoc.com/x/d74dff60c964460d",
+            "urlToImage": "https://c.biztoc.com/p/d74dff60c964460d/og.webp",
+            "publishedAt": "2019-12-13T10:06:29.882Z",
+            "content": "witnessed a meteoric start to 2023, gaining 98% in 30 days, and traders are now curious about whether the rally will extend throughout February. AVAXs year-to-date gains for 2023 have outpaced those … [+297 chars]"
+        },
+        {
+            "id": "qd5vt9esyek",
+            "author": null,
+            "title": "Bitcoin e ether aceleram ganhos e depois recuam com fala de Powell",
+            "description": "Maior das criptomoedas chegou a bater em US$ 23.610, mas depois recuou com discurso cauteloso do dirigente do Fed O bitcoin (BTC) e o ether (ETH) aceleraram inicialmente o ritmo de valorização após o presidente do Federal Reserve, Jerome Powell, repetir em gr…",
+            "url": "https://valor.globo.com/financas/criptomoedas/noticia/2023/02/07/bitcoin-e-ether-aceleram-ganhos-e-depois-recuam-com-fala-de-powell.ghtml",
+            "urlToImage": "https://s2.glbimg.com/8Xx0YAbQyUUIjM5MXZZ9IlG8_T0=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2023/B/X/gSY5rBSkWFn1x2F711vQ/bitcoin-subindo.jpg",
+            "publishedAt": "2028-04-01T04:38:52.308Z",
+            "content": "O bitcoin (BTC) e o ether (ETH) aceleraram inicialmente o ritmo de valorização após o presidente do Federal Reserve, Jerome Powell, repetir em grande parte o seu discurso da semana passada sobre a ne… [+1732 chars]"
+        },
+        {
+            "id": "osxlslajyie",
+            "author": "cryptoslate.com",
+            "title": "Grayscale continues to challenge SEC for spot Bitcoin ETF conversion",
+            "description": "Grayscale announced that it had filed its final briefs in its litigation against the SEC to challenge the decision to deny the conversion of the Grayscale Bitcoin Trust into a spot Bitcoin ETF on Feb. 7. The company disclosed that it filed documents “essentia…",
+            "url": "https://biztoc.com/x/58eb0903bf19ada8",
+            "urlToImage": "https://c.biztoc.com/p/58eb0903bf19ada8/og.webp",
+            "publishedAt": "2028-05-19T14:31:03.283Z",
+            "content": "Grayscale announced that it had filed its final briefs in its litigation against the SEC to challenge the decision to deny the conversion of the Grayscale Bitcoin Trust into a spot Bitcoin ETF on Feb… [+303 chars]"
+        },
+        {
+            "id": "ggxbpulj2xk",
+            "author": "Liam 'Akiba' Wright",
+            "title": "Grayscale continues to challenge SEC for spot Bitcoin ETF conversion",
+            "description": "Grayscale announced that it had filed its final briefs in its litigation against the SEC to challenge the decision to deny the conversion of the Grayscale Bitcoin Trust into a spot Bitcoin ETF on February 7. \nThe post Grayscale continues to challenge SEC for …",
+            "url": "https://cryptoslate.com/grayscale-continues-to-challenge-sec-for-spot-bitcoin-etf-conversion/",
+            "urlToImage": "https://cryptoslate.com/wp-content/uploads/2023/02/grayscale-sec.jpg",
+            "publishedAt": "2020-11-10T16:07:15.414Z",
+            "content": "Grayscale announced that it had filed its final briefs in its litigation against the SEC to challenge the decision to deny the conversion of the Grayscale Bitcoin Trust into a spot Bitcoin ETF on Feb… [+2094 chars]"
+        },
+        {
+            "id": "5dl76yym8r9",
+            "author": "Monica Kingsley",
+            "title": "S&P 500 Refused Further Decline – Second FOMC",
+            "description": "S&P 500 refused further decline, but picture is far from impending rebound strength. One though can‘t get rid of the impression from Kashkari’s speech (the Fed is happy about the marlet reaction to Powell‘s FOMC speech), that this stock market rally isn‘t loo…",
+            "url": "https://www.valuewalk.com/sp-500-refused-further-decline-second-fomc/",
+            "urlToImage": "https://www.valuewalk.com/wp-content/uploads/2023/02/Stock-Market-Volatility.jpeg",
+            "publishedAt": "2022-01-04T12:30:09.740Z",
+            "content": "S&amp;P 500 refused further decline, but picture is far from impending rebound strength. One though cant get rid of the impression from Kashkaris speech (the Fed is happy about the marlet reaction to… [+5700 chars]"
+        },
+        {
+            "id": "rysqd8in8ms",
+            "author": "Cointelegraph By Kyle White",
+            "title": "Avalanche (AVAX) price is up, but do fundamentals support the rally?",
+            "description": "AVAX price has been in a strong rally since the start of 2023, but a sustained uptick in its DeFi components is needed in order to sustain the current bullish momentum.",
+            "url": "https://cointelegraph.com/news/avalanche-avax-price-is-up-but-do-fundamentals-support-the-rally",
+            "urlToImage": "https://s3.cointelegraph.com/uploads/2023-02/125e0c63-74a7-4f28-a36e-8256270f3b8c.jpg",
+            "publishedAt": "2025-08-01T17:58:15.901Z",
+            "content": "Avalanche (AVAX) witnessed a meteoric start to 2023, gaining 98% in 30 days, and traders are now curious about whether the rally will extend throughout February. AVAXs year-to-date gains for 2023 hav… [+4067 chars]"
+        },
+        {
+            "id": "b5z30hvfzg",
+            "author": "Joe Light",
+            "title": "Bankruptcy Deal Is Sign of Warming in Crypto Winter",
+            "description": "If the agreement moves forward, it could reduce pressure on creditors of Genesis Global to sell assets at fire-sale prices, slamming crypto prices.",
+            "url": "https://www.barrons.com/articles/genesis-gemini-crypto-bankruptcy-deal-51675794259",
+            "urlToImage": "https://images.barrons.com/im-718919/social",
+            "publishedAt": "2026-07-09T16:37:02.605Z",
+            "content": "Failed crypto lender Genesis Global Holdco and its major creditors have reached a deal to resolve its bankruptcy case. For investors owed money by Genesis, it means they could get some of their money… [+3136 chars]"
+        },
+        {
+            "id": "s9hcqaztg7i",
+            "author": "newsbtc.com",
+            "title": "Half Of All Bitcoin Unmoved In 2 Years: What Does This Mean For The BTC Price?",
+            "description": "A popular crypto analyst called “Documenting Bitcoin” released fresh data on Tuesday showing that half of all Bitcoin (meaning 9.64 million BTC worth $86.4 billion) have not been moved for the last two years. At the time of writing, there is 19.28 million BTC…",
+            "url": "https://biztoc.com/x/0c607ca0a7998f62",
+            "urlToImage": "https://c.biztoc.com/p/0c607ca0a7998f62/og.webp",
+            "publishedAt": "2025-11-08T11:27:10.973Z",
+            "content": "A popular crypto analyst called Documenting Bitcoin released fresh data on Tuesday showing that half of all Bitcoin (meaning 9.64 million BTC worth $86.4 billion) have not been moved for the last two… [+288 chars]"
+        },
+        {
+            "id": "ghd4y8w7btw",
+            "author": "Vala Afshar",
+            "title": "14 big technology and innovation ideas with super-exponential growth futures",
+            "description": "The market value of five disruptive innovation platforms could scale 40% at an annual rate during this business cycle, from $13 trillion today to $200 trillion by 2030, according to Ark Invest's Big Ideas 2023 research.",
+            "url": "https://www.zdnet.com/article/14-big-technology-and-innovation-ideas-with-super-exponential-growth-futures/",
+            "urlToImage": "https://www.zdnet.com/a/img/resize/faa33ab414dabf8c3d10e26155630d8dccdb0ba5/2023/02/04/371ef105-8908-4ff9-8be1-2bd908b6429e/picture1.png?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2020-02-22T01:34:08.232Z",
+            "content": "Ark Invest: Big Ideas 2023.\r\nArk Invest\r\nAccording to ARK Invest's research, five innovation platforms are converging to create unprecedented growth trajectories. Artificial intelligence is the most … [+13178 chars]"
+        },
+        {
+            "id": "5c2r8zcdhrx",
+            "author": "Vala Afshar",
+            "title": "14 innovation trends with exponential growth potential: Ark's Big Ideas 2023",
+            "description": "The market value of five disruptive innovation platforms could scale 40% at an annual rate, from $13 trillion today to $200 trillion by 2030.",
+            "url": "https://www.zdnet.com/article/14-innovation-trends-with-exponential-growth-potential-arks-big-ideas-2023/",
+            "urlToImage": "https://www.zdnet.com/a/img/resize/129ab9a9e4a4101c155eea1e2148d8bc6f5a73aa/2023/02/07/76b101f4-7116-486e-8481-a2c0c60683d4/ark-innovation-platforms.jpg?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2029-09-25T00:32:22.765Z",
+            "content": "Ark Invest: Big Ideas 2023.\r\nArk Invest\r\nAccording to ARK Invest's research, five innovation platforms are converging to create unprecedented growth trajectories. Artificial intelligence is the most … [+13161 chars]"
+        },
+        {
+            "id": "oh9g97yx5b",
+            "author": "bitcoinist.com",
+            "title": "Will Bitcoin See A Valentine’s Day Massacre Or Can Bulls Get Back To $24,000?",
+            "description": "The price of Bitcoin has returned to sideways action following a massive rally from its yearly lows at around $16,400. The cryptocurrency has been trending to the upside on favorable macroeconomic winds, but uncertainty remains king and could hinder any bulli…",
+            "url": "https://biztoc.com/x/153ff8d531aadc77",
+            "urlToImage": "https://c.biztoc.com/p/153ff8d531aadc77/og.webp",
+            "publishedAt": "2029-08-07T02:47:30.526Z",
+            "content": "The price of Bitcoin has returned to sideways action following a massive rally from its yearly lows at around $16,400. The cryptocurrency has been trending to the upside on favorable macroeconomic wi… [+314 chars]"
+        },
+        {
+            "id": "jaq125z5yl",
+            "author": "decrypt.co",
+            "title": "Bitcoin Miners Hut 8, US Bitcoin Corp to Merge in All-Stock Deal",
+            "description": "Major Bitcoin miners Hut 8 Mining and U.S. Bitcoin Corp today announced a merger which will bring the two companies together to create a North America crypto mining giant. Tuesday’s announcement said the move will create Toronto Stock Exchange- and Nasdaq-lis…",
+            "url": "https://biztoc.com/x/193151daeda949e5",
+            "urlToImage": "https://c.biztoc.com/p/193151daeda949e5/og.webp",
+            "publishedAt": "2026-09-29T01:28:25.846Z",
+            "content": "Major Bitcoin miners Hut 8 Mining and U.S. Bitcoin Corp today announced a merger which will bring the two companies together to create a North America crypto mining giant.Tuesdays announcement said t… [+334 chars]"
+        },
+        {
+            "id": "def8uqtf1cp",
+            "author": "dailyhodl.com",
+            "title": "New York, Los Angeles and Chicago Among the Most Crypto-Ready Cities in the World: New Research",
+            "description": "A new survey conducted by digital assets tax tool Recap says that the three most populous US cities are among the world’s most crypto-ready. The study surveyed the 200 most-populated cities on the globe on factors such as the number of crypto ATMs, residents …",
+            "url": "https://biztoc.com/x/1f2fe3615d95b366",
+            "urlToImage": "https://c.biztoc.com/p/1f2fe3615d95b366/og.webp",
+            "publishedAt": "2028-03-22T12:50:39.412Z",
+            "content": "A new survey conducted by digital assets tax tool Recap says that the three most populous US cities are among the worlds most crypto-ready.The study surveyed the 200 most-populated cities on the glob… [+302 chars]"
+        },
+        {
+            "id": "8tzfyac945s",
+            "author": "Elizabeth Montalbano, Contributor, Dark Reading",
+            "title": "Ongoing VMware ESXi Ransomware Attack Highlights Inherent Virtualization Risks",
+            "description": "The global assault on vulnerable VMware hypervisors may have been mitigated by updating to the latest version of the product, but patch management is only part of the story.",
+            "url": "https://www.darkreading.com/cloud/ongoing-vmware-esxi-ransomware-attack-virtualization-risks",
+            "urlToImage": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt89b5817585cda670/61b90d0fbcdb952119ebc455/Patching_MR_AdobeStock.jpg",
+            "publishedAt": "2021-08-13T08:17:16.218Z",
+            "content": "Organizations using older versions of VMWare ESXi hypervisors are learning a hard lesson about staying up-to-date with vulnerability patching, as a global ransomware attack on what VMware has deemed … [+6720 chars]"
+        },
+        {
+            "id": "gq7b2ktrz2g",
+            "author": "Angelo Calvello",
+            "title": "‘It’s Time for Crypto to Put on Big Boy Pants’: 5 Ways TradFi Investors Are Rethinking Crypto in the Wake of FTX",
+            "description": "Pension funds, endowments, foundations and large family offices are key to crypto’s future. How do they look at the industry now? Angelo Calvello checks in with 15 asset-owners.",
+            "url": "https://www.coindesk.com/consensus-magazine/2023/02/07/its-time-for-crypto-to-put-on-big-boy-pants-5-ways-tradfi-investors-are-rethinking-crypto-in-the-wake-of-ftx/",
+            "urlToImage": "https://www.coindesk.com/resizer/VgdKZkpkGyCq2CRTLIRK-uQpUO0=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/BWM56X6XDNGZVG2IOJPH3OAYUI.jpg",
+            "publishedAt": "2029-04-11T22:02:06.332Z",
+            "content": "Crypto's future depends upon traditional finance (TradFi) investors. I'm not talking about banks and asset managers but the pension funds, endowments, foundations and large family offices that contro… [+9054 chars]"
+        },
+        {
+            "id": "dxwnfilfm4i",
+            "author": null,
+            "title": "Neuheit von Dombey bringt den entscheidenden Unterschied",
+            "description": "LONDON, 7. Februar 2023 /PRNewswire/ -- Dombey Electrics Co. (www.dombbit.com), ein 2010 im Vereinigten Königreich und dann in Finnland gegründetes Unternehmen mit einem Produktionsstandort in Hongkong sowie Niederlassungen auf der ganzen Welt, ist einer der …",
+            "url": "https://www.prnewswire.com/news-releases/neuheit-von-dombey-bringt-den-entscheidenden-unterschied-301741047.html",
+            "urlToImage": "https://mma.prnewswire.com/media/1996538/Dombey.jpg?p=facebook",
+            "publishedAt": "2025-04-24T19:12:47.252Z",
+            "content": "LONDON, 7. Februar 2023 /PRNewswire/ -- Dombey Electrics Co. (www.dombbit.com), ein 2010 im Vereinigten Königreich und dann in Finnland gegründetes Unternehmen mit einem Produktionsstandort in Hongko… [+3770 chars]"
+        },
+        {
+            "id": "46tyg486ehm",
+            "author": "Kevin George",
+            "title": "Hut 8 and U.S. Bitcoin Announce Mining Merger",
+            "description": "Bitcoin miners Hut 8 and U.S. Bitcoin have announced a merger of their respective businesses, the latest deal in a wave of consolidation and balance sheet shuffling.",
+            "url": "https://www.investopedia.com/bitcoin-mining-merger-hut-8-us-bitcoin-7106607",
+            "urlToImage": "https://www.investopedia.com/thmb/-CX9NYQuxVmqpxU3b0G97_Ie51I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1400326189-caea3717ae9741a98f199d2e58ff5baa.jpg",
+            "publishedAt": "2026-02-28T06:57:07.521Z",
+            "content": "Hut 8 (HUT) and U.S. Bitcoin are the latest crypto miners rushing to take advantage of the January Bitcoin rally.\r\nTwo firms announced their merger Wednesday, the latest deal in a wave of consolidati… [+2926 chars]"
+        },
+        {
+            "id": "fugitvexil",
+            "author": "Javier Pastor",
+            "title": "ChatGPT era demasiado formal, así que alguien le ha hecho un jailbreak para crear su reverso tenebroso: DAN",
+            "description": "Uno le pregunta algo a ChatGPT y siempre obtiene una respuesta de lo más educada. Coherente, razonada y bien estructurada. Puede que se invente cosas, pero el tono, instructivo y claro, es estupendo.\n<!-- BREAK 1 -->\nPara algunos eso no es suficiente. Quieren…",
+            "url": "https://www.xataka.com/robotica-e-ia/chatgpt-era-demasiado-formal-asi-que-alguien-le-ha-hecho-jailbreak-para-crear-su-reverso-tenebroso-dan",
+            "urlToImage": "https://i.blogs.es/dd7158/captura-de-pantalla-2023-02-07-a-las-12.19.15/840_560.jpeg",
+            "publishedAt": "2029-12-01T20:18:35.026Z",
+            "content": "Uno le pregunta algo a ChatGPT y siempre obtiene una respuesta de lo más educada. Coherente, razonada y bien estructurada. Puede que se invente cosas, pero el tono, instructivo y claro, es estupendo.… [+4878 chars]"
+        },
+        {
+            "id": "bh7b5wmfent",
+            "author": "newsbtc.com",
+            "title": "Here’s What Could Stop The Altcoin Bull Rally Dead In Its Tracks",
+            "description": "The majority of altcoins in the crypto space have been rallying independently of the largest cryptocurrencies in the space. However, while this has been good so far, it could also present a possible roadblock for the altcoin bull rally. Bitcoin And Ethereum C…",
+            "url": "https://biztoc.com/x/3d898a7506850f69",
+            "urlToImage": "https://c.biztoc.com/p/3d898a7506850f69/og.webp",
+            "publishedAt": "2023-12-21T15:10:48.146Z",
+            "content": "The majority of altcoins in the crypto space have been rallying independently of the largest cryptocurrencies in the space. However, while this has been good so far, it could also present a possible … [+297 chars]"
+        },
+        {
+            "id": "3evurx8lhxl",
+            "author": "Reynaldo Marquez",
+            "title": "Will Bitcoin See A Valentine’s Day Massacre Or Can Bulls Get Back To $24,000?",
+            "description": "The price of Bitcoin has returned to sideways action following a massive rally from its yearly lows at around $16,400. The cryptocurrency has been trending to the upside on favorable macroeconomic winds, but uncertainty remains king and could hinder any bulli…",
+            "url": "https://bitcoinist.com/bitcoin-valentines-day-massacre-bulls-back-to-24000/",
+            "urlToImage": "https://bitcoinist.com/wp-content/uploads/2023/02/Bitcoin-BTC-BTCUSDT-1.jpg",
+            "publishedAt": "2019-01-09T18:13:22.382Z",
+            "content": "The price of Bitcoin has returned to sideways action following a massive rally from its yearly lows at around $16,400. The cryptocurrency has been trending to the upside on favorable macroeconomic wi… [+2728 chars]"
+        },
+        {
+            "id": "1ibp1sqrh8wi",
+            "author": "coindesk.com",
+            "title": "Bitcoin Rises to $23.3K as Powell Repeats 'Disinflationary' Comment",
+            "description": "The Fed chair spoke days after the central bank last hiked interest rates.",
+            "url": "https://biztoc.com/x/1dafc6c6441dad44",
+            "urlToImage": "https://c.biztoc.com/p/1dafc6c6441dad44/og.webp",
+            "publishedAt": "2025-12-02T18:50:28.781Z",
+            "content": "The Fed chair spoke days after the central bank last hiked interest rates. \r\n This story appeared on coindesk.com, 2023-02-07."
+        },
+        {
+            "id": "3udgex1vsb",
+            "author": "decrypt.co",
+            "title": "Financial Institutions Are Still Betting on Crypto",
+            "description": "As Bitcoin hovered around $38,000 last April—down 45% from its peak—Fidelity Investments announced its customers could soon add the digital asset to their retirement accounts through a first-of-its-kind offering. By the time the firm’s 401(k) product launched…",
+            "url": "https://biztoc.com/x/525cd2731d9e6a78",
+            "urlToImage": "https://c.biztoc.com/p/525cd2731d9e6a78/og.webp",
+            "publishedAt": "2025-04-12T01:48:38.858Z",
+            "content": "As Bitcoin hovered around $38,000 last Aprildown 45% from its peakFidelity Investments announced its customers could soon add the digital asset to their retirement accounts through a first-of-its-kin… [+306 chars]"
+        },
+        {
+            "id": "f9l5pk1zkd",
+            "author": null,
+            "title": "Iris Energy announces 172 Bitcoin mined in January 2023",
+            "description": null,
+            "url": "https://seekingalpha.com/news/3933022-iris-energy-announces-172-bitcoin-mined-in-january-2023?utm_source=feed_news_all&utm_medium=referral",
+            "urlToImage": null,
+            "publishedAt": "2018-11-22T14:01:07.280Z",
+            "content": "Warning\r\nThis website has been reported for potential phishing.Phishing is when a site attempts to steal sensitive information by falsely presenting as a safe source."
+        },
+        {
+            "id": "ss1eif2gyfg",
+            "author": "Stephen Alpher",
+            "title": "Bitcoin Rises to $23.3K as Jerome Powell Repeats 'Disinflationary Process' Comment",
+            "description": "The Fed chair spoke days after the central bank last hiked interest rates.",
+            "url": "https://www.coindesk.com/business/2023/02/07/bitcoin-rises-to-233k-as-powell-repeats-disinflationary-comment/",
+            "urlToImage": "https://www.coindesk.com/resizer/EcOnVYDu7fiKbGx8uGXBMmDkNko=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/U4MWY7RIOBCBBIMT3YYOCCLKL4.jpg",
+            "publishedAt": "2017-11-11T13:22:52.633Z",
+            "content": "While the \"disinflationary process\" has started, it will take a good deal of time before the U.S. Federal Reserve is ready to declare victory in its fight against rising price levels, said Jay Powell… [+1406 chars]"
+        },
+        {
+            "id": "qpw73sekqdj",
+            "author": "Mathew Di Salvo",
+            "title": "Bitcoin Miners Hut 8, US Bitcoin Corp to Merge in All-Stock Deal",
+            "description": "The move comes as more mining companies suffer through the crypto winter.",
+            "url": "https://decrypt.co/120761/bitcoin-miners-hut-8-us-bitcoin-corp-merge",
+            "urlToImage": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/09/crypto-mining-machines-gID_5.jpg@png",
+            "publishedAt": "2018-02-25T08:51:40.928Z",
+            "content": "Major Bitcoin miners Hut 8 Mining and U.S. Bitcoin Corp today announced a merger which will bring the two companies together to create a North America crypto mining giant. \r\nTuesdays announcement sai… [+2261 chars]"
+        },
+        {
+            "id": "2ok3hl3a2h5",
+            "author": "André Beganski",
+            "title": "Financial Institutions Are Still Betting on Crypto—Even After Getting Rekt in 2022",
+            "description": "Crypto is down, but the big dogs are not getting out.",
+            "url": "https://decrypt.co/120546/financial-institutions-still-betting-crypto",
+            "urlToImage": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/02/82DBDDD6-3C6D-4890-ABD4-846C7E800785-16202-00000285FBE70C04-gID_1.jpg@png",
+            "publishedAt": "2024-08-23T06:20:44.261Z",
+            "content": "As Bitcoin hovered around $38,000 last Aprildown 45% from its peakFidelity Investments announced its customers could soon add the digital asset to their retirement accounts through a first-of-its-kin… [+10919 chars]"
+        },
+        {
+            "id": "09i6edqkvrj",
+            "author": "ambcrypto.com",
+            "title": "Interest in digital assets unabated with multiple weeks of consecutive inflows: Report",
+            "description": "Digital asset investment products logged the fourth week of consecutive inflows last week. • There has been a significant increase in investments in short-bitcoin, indicating that a substantial number of investors remain uncertain about the future trajectory …",
+            "url": "https://biztoc.com/x/ee76862544c8de71",
+            "urlToImage": "https://c.biztoc.com/p/ee76862544c8de71/og.webp",
+            "publishedAt": "2017-01-18T22:14:53.256Z",
+            "content": "Digital asset investment products logged the fourth week of consecutive inflows last week.There has been a significant increase in investments in short-bitcoin, indicating that a substantial number o… [+277 chars]"
+        },
+        {
+            "id": "g4pciskuc5",
+            "author": "blockworks.co",
+            "title": "Cutting Costs and Joining Forces, Bitcoin Miners Hoping for Rebound",
+            "description": "After a rocky 2022, bitcoin miners could be in for a lucrative year, at least if past market cycle patterns repeat. The largest cryptocurrency posted a 64% loss last year, coupled with skyrocketing electricity costs around the world and a dramatic drop in min…",
+            "url": "https://biztoc.com/x/069f089afb630375",
+            "urlToImage": "https://c.biztoc.com/p/069f089afb630375/og.webp",
+            "publishedAt": "2029-02-27T03:53:28.436Z",
+            "content": "After a rocky 2022, bitcoin miners could be in for a lucrative year, at least if past market cycle patterns repeat. The largest cryptocurrency posted a 64% loss last year, coupled with skyrocketing e… [+321 chars]"
+        },
+        {
+            "id": "5s2d2swt1t4",
+            "author": "MarketScreener",
+            "title": "Hut 8 Shares Drop After Deal to Merge With U.S. Data Mining",
+            "description": "(marketscreener.com) \n By Robb M. Stewart \n\n\n Hut 8 Mining Corp. shares fell Tuesday after the crypto-currency miner struck an all-stock deal that will see it tie-up with U.S. Data Mining Group Inc., building scale in North America in the wake of last year's …",
+            "url": "https://www.marketscreener.com/quote/stock/HUT-8-MINING-CORP-54658338/news/Hut-8-Shares-Drop-After-Deal-to-Merge-With-U-S-Data-Mining-42921889/?utm_medium=RSS&utm_content=20230207",
+            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
+            "publishedAt": "2024-05-26T21:50:36.150Z",
+            "content": "By Robb M. Stewart \r\nHut 8 Mining Corp. shares fell Tuesday after the crypto-currency miner struck an all-stock deal that will see it tie-up with U.S. Data Mining Group Inc., building scale in North … [+1441 chars]"
+        },
+        {
+            "id": "cavuypfbegh",
+            "author": null,
+            "title": "MicroStrategy cogia apostar em futuros de bitcoin na CME para obter rendimento, diz Saylor",
+            "description": "Fundador da MicroStrategy disse que empresa considerou no passado emprestar bitcoin para startups que quebraram O cofundador e presidente do conselho da MicroStrategy Inc., Michael Saylor, disse que companhia de software empresarial, mais conhecida por ser a …",
+            "url": "https://valor.globo.com/financas/criptomoedas/noticia/2023/02/07/microstrategy-cogia-apostar-em-futuros-de-bitcoin-na-cme-para-obter-rendimento-diz-saylor.ghtml",
+            "urlToImage": "https://s2.glbimg.com/ZBLP8pyHTFTZGG4JJDlDSDX99HU=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2023/A/T/OIHaSYQ9KDTx2SCAQmLQ/michael-saylor-2022.png",
+            "publishedAt": "2017-12-19T09:32:37.162Z",
+            "content": "O cofundador e presidente do conselho da MicroStrategy Inc., Michael Saylor, disse que companhia de software empresarial, mais conhecida por ser a empresa de capital aberto com mais bitcoin entre os … [+1956 chars]"
+        },
+        {
+            "id": "erwoxu9cjap",
+            "author": "coindesk.com",
+            "title": "Bitcoin On-Chain Metrics Look Bullish, Report Highlights",
+            "description": "The supply “in profit,” a measure of market sentiment, has risen 20% since January.",
+            "url": "https://biztoc.com/x/df111ea097991a98",
+            "urlToImage": "https://c.biztoc.com/p/df111ea097991a98/og.webp",
+            "publishedAt": "2020-01-09T05:08:12.198Z",
+            "content": "The supply in profit, a measure of market sentiment, has risen 20% since January. \r\n This story appeared on coindesk.com, 2023-02-07."
+        },
+        {
+            "id": "qunrzad8g0q",
+            "author": "Eduardo Venegas",
+            "title": "¿La descarga de recursos compartidos en Grayscale es por problemas inminentes?",
+            "description": "Digital Currency Group (DCG) está intentando recaudar fondos vendiendo su participación en Grayscale con un descuento, lo que puede generar más problemas en el mercado. DCG, uno de los jugadores más antiguos de la industria, ha estado en crisis durante los úl…",
+            "url": "https://es.beincrypto.com/descarga-recursos-compartidos-grayscale-problemas-inminentes/",
+            "urlToImage": "https://s32679.pcdn.co/wp-content/uploads/2022/11/BIC_grayscale_eth_1911221.png.webp",
+            "publishedAt": "2028-05-28T09:55:57.351Z",
+            "content": "Digital Currency Group (DCG) está intentando recaudar fondos vendiendo su participación en Grayscale con un descuento, lo que puede generar más problemas en el mercado.\r\nDCG, uno de los jugadores más… [+2452 chars]"
+        },
+        {
+            "id": "cs38z1dg3yr",
+            "author": "Abiodun Oladokun",
+            "title": "Interest in digital assets unabated with multiple weeks of consecutive inflows: Report",
+            "description": "Digital asset investment products logged the fourth week of consecutive inflows last week. There has been a significant increase in investments in short-bitcoin, indicating that a substantial number of investors remain uncertain about the future trajectory of…",
+            "url": "https://ambcrypto.com/interest-in-digital-assets-unabated-with-multiple-weeks-of-consecutive-inflows-report/",
+            "urlToImage": "https://ambcrypto.com/wp-content/uploads/2023/02/lukas-blazek-mcSDtbWXUZU-unsplash-1-1000x600.jpg",
+            "publishedAt": "2022-09-03T11:56:25.625Z",
+            "content": "Digital asset investment products logged the fourth week of consecutive inflows last week.</li><li>There has been a significant increase in investments in short-bitcoin, indicating that a sub… [+2395 chars]"
+        },
+        {
+            "id": "v2o6dj9ifde",
+            "author": "Alexandre Boero",
+            "title": "Turquie : pas de pitié chez les pirates, des escroqueries liées au tremblement de terre déjà identifiées",
+            "description": "En à peine quelques heures, des hackers ont lancé des campagnes de phishing pour exploiter l'opportunité du tremblement de terre qui a touché la Turquie et la Syrie. Ils se cachent derrière une organisation caritative fictive ukrainienne dans le but de voler …",
+            "url": "https://www.clubic.com/antivirus-securite-informatique/actualite-456507-turquie-pas-de-pitie-chez-les-pirates-des-escroqueries-liees-au-tremblement-de-terre-deja-identifiees.html",
+            "urlToImage": "https://pic.clubic.com/v1/images/2079912/raw",
+            "publishedAt": "2023-03-27T01:22:15.475Z",
+            "content": "En à peine quelques heures, des hackers ont lancé des campagnes de phishing pour exploiter l'opportunité du tremblement de terre qui a touché la Turquie et la Syrie. Ils se cachent derrière une organ… [+3266 chars]"
+        },
+        {
+            "id": "9hsy7dn38g",
+            "author": "beincrypto.com",
+            "title": "Coinbase-Backed DeSo Unveils MegaSwap, a “Stripe for Crypto” product",
+            "description": "DeSo is excited to announce the launch of MegaSwap – a revolutionary, cross-chain smart service that enables users to securely and easily swap coins between different blockchains with a frictionless zero-login. MegaSwap solves various critical pain points, in…",
+            "url": "https://biztoc.com/x/49ddfd1a163ceff5",
+            "urlToImage": "https://c.biztoc.com/p/49ddfd1a163ceff5/og.webp",
+            "publishedAt": "2017-11-02T11:47:56.424Z",
+            "content": "DeSo is excited to announce the launch of MegaSwap a revolutionary, cross-chain smart service that enables users to securely and easily swap coins between different blockchains with a frictionless ze… [+281 chars]"
+        },
+        {
+            "id": "4ai6ayrf69c",
+            "author": "Jamie Lang",
+            "title": "Disney Self-Censors ‘Simpsons’ Episode Critical Of Chinese Government",
+            "description": "A censorship expert says that the removal of the episode on Disney+ in Hong Kong is likely Disney's way of protecting \"the company’s ties, current and future, in mainland China.”",
+            "url": "https://www.cartoonbrew.com/politics/the-simpsons-removed-china-disney-plus-225759.html",
+            "urlToImage": "https://www.cartoonbrew.com/wp-content/uploads/2023/02/simpsons_bike.jpg",
+            "publishedAt": "2024-07-08T09:47:27.403Z",
+            "content": "An episode of The Simpsons critical of the Chinese government has been omitted from the Disney+ platform in Hong Kong.\r\nWhich episode? One Angry Lisa, episode two of the shows 34th season, sees Marge… [+941 chars]"
+        },
+        {
+            "id": "ug4d3j04pum",
+            "author": "Benson Toti",
+            "title": "London to host the largest Crypto & Blockchain Conference",
+            "description": "London is set to host the UK’s biggest blockchain event, with over 3,000 attendees from 65 countries expected. The Blockchain Economy Summit is scheduled for February 27-28. After 4-years of its successful events chain despite the bear market, the Blockchain …",
+            "url": "https://coinjournal.net/news/london-to-host-the-largest-crypto-blockchain-conference/",
+            "urlToImage": "https://coinjournal.net/wp-content/uploads/1970/01/1675790529820-107037c7-e183-4ba0-9457-46487570dfb7.jpg",
+            "publishedAt": "2018-08-09T00:30:56.237Z",
+            "content": "London is set to host the UK’s biggest blockchain event, with over 3,000 attendees from 65 countries expected.</li><li>The Blockchain Economy Summit is scheduled for February 27-28.</li></ul>… [+3476 chars]"
+        },
+        {
+            "id": "4zj0eebljhj",
+            "author": "dailyhodl.com",
+            "title": "Trader Who Called Exact Bitcoin Bottom Updates Outlook on BTC, Reveals Monster Price Target for Litecoin (LTC)",
+            "description": "A crypto analyst who bought Bitcoin at the bottom in November is updating his outlook on the path ahead for the leading cryptocurrency. The pseudonymous analyst, whose alter ego is DonAlt, tells his 459,000 Twitter followers that BTC is at a crossroads. DonAl…",
+            "url": "https://biztoc.com/x/40597878ac2f309f",
+            "urlToImage": "https://c.biztoc.com/p/40597878ac2f309f/og.webp",
+            "publishedAt": "2023-08-25T16:22:13.083Z",
+            "content": "A crypto analyst who bought Bitcoin at the bottom in November is updating his outlook on the path ahead for the leading cryptocurrency.The pseudonymous analyst, whose alter ego is DonAlt, tells his 4… [+291 chars]"
+        },
+        {
+            "id": "jvq287ztbt",
+            "author": null,
+            "title": "La novedad de Dombey marca la diferencia",
+            "description": "LONDRES, 7 de febrero de 2023 /PRNewswire/ -- Dombey Electrics Co. (www.dombbit.com), una empresa fundada en el Reino Unido en 2010 y posteriormente en Finlandia, cuyo centro de producción se encuentra en Hong Kong y tiene oficinas en todo el mundo, es uno de…",
+            "url": "https://www.prnewswire.com/news-releases/la-novedad-de-dombey-marca-la-diferencia-808108072.html",
+            "urlToImage": "https://mma.prnewswire.com/media/1996538/Dombey.jpg?p=facebook",
+            "publishedAt": "2020-10-08T21:12:53.055Z",
+            "content": "LONDRES, 7 de febrero de 2023 /PRNewswire/ -- Dombey Electrics Co. (www.dombbit.com), una empresa fundada en el Reino Unido en 2010 y posteriormente en Finlandia, cuyo centro de producción se encuent… [+3572 chars]"
+        },
+        {
+            "id": "bdi1p1eejxp",
+            "author": "CryptoGlobe Staff Writer",
+            "title": "Coinbase-Backed DeSo Unveils MegaSwap, a ‘Stripe for Crypto’ Product, With Over $5 Million in Volume",
+            "description": "Los Angeles, United States, 7th February, 2023, Chainwire DeSo is excited to announce the launch of MegaSwap – a revolutionary, cross-chain smart service that enables users to securely and easily swap coins between different blockchains with a frictionless ze…",
+            "url": "https://www.cryptoglobe.com/latest/2023/02/coinbase-backed-deso-unveils-megaswap-a-stripe-for-crypto-product-with-over-5-million-in-volume/",
+            "urlToImage": "https://cryptoglobe.s3.eu-west-2.amazonaws.com/2023/02/MegaSwap-PR-image-768x461.jpeg",
+            "publishedAt": "2026-11-28T11:42:29.911Z",
+            "content": "Los Angeles, United States, 7th February, 2023, Chainwire\r\nDeSo\r\n is excited to announce the launch of MegaSwap \r\n a revolutionary, cross-chain smart service that enables users to securely and easily… [+3832 chars]"
+        },
+        {
+            "id": "umhtsztzem",
+            "author": "Lyllah Ledesma",
+            "title": "Bitcoin On-Chain Metrics Look Bullish, Bitfinex Report Highlights",
+            "description": "The supply “in profit,” a measure of market sentiment, has risen 20% since January.",
+            "url": "https://www.coindesk.com/markets/2023/02/07/bitcoin-on-chain-metrics-look-bullish/",
+            "urlToImage": "https://www.coindesk.com/resizer/4H9AOJOxvMPKhqUAbqcZj87LGTs=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/RPVUMDZOBRFEPCHUIX63ON2QFU.jpg",
+            "publishedAt": "2028-11-03T09:35:05.239Z",
+            "content": "On-chain indicators are pointing toward positive sentiment for bitcoin, the worlds largest cryptocurrency by market capitalization.\r\nThe bitcoin supply \"in profit,\" which is the percentage of existin… [+1929 chars]"
+        },
+        {
+            "id": "csg9c0kvtn7",
+            "author": "Daily Hodl Staff",
+            "title": "Trader Who Called Exact Bitcoin Bottom Updates Outlook on BTC, Reveals Monster Price Target for Litecoin (LTC)",
+            "description": "A crypto analyst who bought Bitcoin at the bottom in November is updating his outlook on the path ahead for the leading cryptocurrency. The pseudonymous analyst, whose alter ego is DonAlt, tells his 459,000 Twitter followers that BTC is at a crossroads. DonAl…",
+            "url": "https://dailyhodl.com/2023/02/07/trader-who-called-exact-bitcoin-bottom-updates-outlook-on-btc-reveals-monster-price-target-for-litecoin-ltc/",
+            "urlToImage": "https://dailyhodl.com/wp-content/uploads/2022/01/little-rocky-for-bitcoin.jpg",
+            "publishedAt": "2021-12-13T11:11:55.971Z",
+            "content": "A crypto analyst who bought Bitcoin at the bottom in November is updating his outlook on the path ahead for the leading cryptocurrency.\r\nThe pseudonymous analyst, whose alter ego is DonAlt, tells his… [+1541 chars]"
+        },
+        {
+            "id": "fgatmn8l5fr",
+            "author": "Eddie Fu",
+            "title": "The Simpsons Episode Mentioning China’s “Forced Labor” Cut from Disney+ in Hong Kong",
+            "description": "Season 34 episode \"One Angry Lisa\" references \"forced labor camps where children make smartphones.\"\nThe Simpsons Episode Mentioning China’s “Forced Labor” Cut from Disney+ in Hong Kong\nEddie Fu",
+            "url": "https://consequence.net/2023/02/the-simpsons-china-forced-labor-disney-hong-kong/",
+            "urlToImage": "https://consequence.net/wp-content/uploads/2023/02/simpsons-forced-labor-camps-reference.jpg?quality=80",
+            "publishedAt": "2026-02-18T20:27:01.052Z",
+            "content": "An episode of The Simpsons that includes a reference to “forced labor” in China has been cut from Disney+ in Hong Kong, Financial Times first reported.\r\nTitled “One Angry Lisa,” the Season 34 episode… [+1804 chars]"
+        },
+        {
+            "id": "eko9h42xs9j",
+            "author": "marketwatch.com",
+            "title": "Ether dips as DCG reportedly sells shares in several Grayscale crypto trusts",
+            "description": "Bitcoin and ether dipped Tuesday, as crypto conglomerate Digital Currency Group reportedly has been selling shares in several crypto trusts at a deep discount, as it strives to raise money to repay creditors of its bankrupt lending arm Genesis. The largest cr…",
+            "url": "https://biztoc.com/x/24b7e64044545cba",
+            "urlToImage": "https://c.biztoc.com/p/24b7e64044545cba/og.webp",
+            "publishedAt": "2028-07-16T09:22:12.289Z",
+            "content": "Bitcoin and ether dipped Tuesday, as crypto conglomerate Digital Currency Group reportedly has been selling shares in several crypto trusts at a deep discount, as it strives to raise money to repay c… [+323 chars]"
+        },
+        {
+            "id": "vwats65vu2n",
+            "author": "Jack Denton",
+            "title": "Another Ethereum Upgrade Is Coming. It Could Disrupt Markets—and Help Coinbase.",
+            "description": "The Shanghai Hard Fork is the latest major upgrade since Ethereum's transformative 'Merge' last year. There are implications beyond crypto.",
+            "url": "https://www.barrons.com/articles/ethereum-upgrade-shanghai-hard-fork-coinbase-51675789767",
+            "urlToImage": "https://images.barrons.com/im-655031/social",
+            "publishedAt": "2027-12-27T20:42:41.912Z",
+            "content": "An upgrade is coming to the \r\n Ethereum\r\n blockchain network. Investors should be prepared for it to potentially disrupt cryptocurrency markets and be a tailwind for the business of digital asset bro… [+4093 chars]"
+        },
+        {
+            "id": "h8izpd8o736",
+            "author": "cryptoslate.com",
+            "title": "Bitcoin up 287,000% since 2011; GBPUSD 11% away from all-time low",
+            "description": "Quick Take The pound has been in a long-term decline since the 70s. In 1971, it was 2.4 pounds to a dollar, and it is now at 1.2, a 50% drawdown. Currently, GBPUSD is at 1.20, which is only 11% away from its all-time low of 1.08. However, BTCUSD is up almost …",
+            "url": "https://biztoc.com/x/0257d24e495ebc22",
+            "urlToImage": "https://c.biztoc.com/p/0257d24e495ebc22/og.webp",
+            "publishedAt": "2028-11-25T10:00:04.033Z",
+            "content": "Quick TakeThe pound has been in a long-term decline since the 70s. In 1971, it was 2.4 pounds to a dollar, and it is now at 1.2, a 50% drawdown.Currently, GBPUSD is at 1.20, which is only 11% away fr… [+272 chars]"
+        },
+        {
+            "id": "dh9nho6br66",
+            "author": "Brenda Ngari",
+            "title": "Bloomberg’s McGlone Says Crypto’s First Real Recession Has Arrived — But Predicts It’ll End With Something Insanely Good",
+            "description": "Mike McGlone, Bloomberg's senior commodity strategist, is convinced the crypto market is presently experiencing its first major recession,",
+            "url": "https://zycrypto.com/bloombergs-mcglone-says-cryptos-first-real-recession-has-arrived-but-predicts-itll-end-with-something-insanely-good/",
+            "urlToImage": "https://zycrypto.com/wp-content/uploads/2023/02/Bloombergs-McGlone-Says-Cryptos-First-Real-Recession-Has-Arrived-—-But-Predicts-Itll-End-With-Something-Insanely-Good.jpg",
+            "publishedAt": "2024-12-09T11:32:18.487Z",
+            "content": "Mike McGlone, Bloomberg’s senior commodity strategist, is convinced the crypto market is presently experiencing its first major recession, an indication that theres still a long way before the crypto… [+2689 chars]"
+        },
+        {
+            "id": "prcff0pu5p",
+            "author": "James Van Straten",
+            "title": "Bitcoin up 287,000% since 2011; GBPUSD 11% away from all-time low",
+            "description": "Quick Take The pound has been in a long-term decline since the 70s. \nThe post Bitcoin up 287,000% since 2011; GBPUSD 11% away from all-time low appeared first on CryptoSlate.",
+            "url": "https://cryptoslate.com/insights/bitcoin-up-287000-since-2011-gbpusd-11-away-from-all-time-low/",
+            "urlToImage": "https://cryptoslate.com/wp-content/uploads/2023/01/bitcoin-insights.jpg",
+            "publishedAt": "2023-08-10T14:54:29.190Z",
+            "content": "Got a story tip? Email [email protected]\r\nDisclaimer: By using this website, you agree to our Terms and Conditions and Privacy Policy. CryptoSlate has no affiliation or relationship with any coin, bu… [+678 chars]"
+        },
+        {
+            "id": "cne75ekz5rt",
+            "author": "cryptobriefing.com",
+            "title": "Genesis and Gemini Reach Agreement in Principle",
+            "description": "Equinoz’s ‘Cybernetics’ Was Sold Out in 4 Minutes on PlayNomm NFT Mar... Bankman-Fried Wanted Crypto Prices to Go Up to Plug FTX Hole After weeks of tense back-and-forths, Digital Currency Group, Genesis, and Gemini seem to have reached an agreement as to a p…",
+            "url": "https://biztoc.com/x/80404f41e42f8528",
+            "urlToImage": "https://c.biztoc.com/p/80404f41e42f8528/og.webp",
+            "publishedAt": "2027-09-16T07:36:52.240Z",
+            "content": "Equinozs Cybernetics Was Sold Out in 4 Minutes on PlayNomm NFT Mar...Bankman-Fried Wanted Crypto Prices to Go Up to Plug FTX HoleAfter weeks of tense back-and-forths, Digital Currency Group, Genesis,… [+343 chars]"
+        },
+        {
+            "id": "pqet0dnjzum",
+            "author": "cnn.com",
+            "title": "'Britcoin' could arrive in the second half of the decade",
+            "description": "The United Kingdom is pushing ahead with plans to create a digital pound issued by the Bank of England that would offer a stable alternative to bitcoin or ether. The central bank and the UK Treasury said Monday that an official digital currency is “likely to …",
+            "url": "https://biztoc.com/x/b1552c653d0ad660",
+            "urlToImage": "https://c.biztoc.com/p/b1552c653d0ad660/og.webp",
+            "publishedAt": "2017-12-18T21:39:33.650Z",
+            "content": "The United Kingdom is pushing ahead with plans to create a digital pound issued by the Bank of England that would offer a stable alternative to bitcoin or ether.The central bank and the UK Treasury s… [+316 chars]"
+        },
+        {
+            "id": "m2b6idube68",
+            "author": "benzinga.com",
+            "title": "Dogecoin Reaches 'God Tier Low' At $0.091: Analyst Says 'No One Cares'",
+            "description": "A pseudonymous crypto analyst on Twitter recently stated that Dogecoin DOGE/USD is performing remarkably putting in a truly \"god tier\" low. What Happened: ‘Smart contracter’ told his 220,100 followers on Twitter that DOGE is at an incredibly low price at just…",
+            "url": "https://biztoc.com/x/5b9b3eed04392379",
+            "urlToImage": "https://c.biztoc.com/p/5b9b3eed04392379/og.webp",
+            "publishedAt": "2020-09-21T04:29:44.484Z",
+            "content": "A pseudonymous crypto analyst on Twitter recently stated that Dogecoin DOGE/USD is performing remarkably putting in a truly \"god tier\" low.What Happened: Smart contracter told his 220,100 followers o… [+306 chars]"
+        },
+        {
+            "id": "1alia9zjo4q",
+            "author": "unchained.com",
+            "title": "How to use bitcoin more privately",
+            "description": "In bitcoin, privacy is about having control over how and when you reveal your balances and transaction history when sending.",
+            "url": "https://biztoc.com/x/2eb0e76ce25adffa",
+            "urlToImage": "https://c.biztoc.com/p/2eb0e76ce25adffa/og.webp",
+            "publishedAt": "2029-03-18T05:41:08.167Z",
+            "content": "In bitcoin, privacy is about having control over how and when you reveal your balances and transaction history when sending. \r\n This story appeared on unchained.com, 2023-02-07."
+        },
+        {
+            "id": "u3j09gam07",
+            "author": "Robbi Yanto",
+            "title": "Esports: MT Legends Juara Turnamen Pintu Battleground Mobile Legends",
+            "description": "Tim esports asal Jakarta MT Legends berhasil menjadi juara pada turnamen Pintu Battleground Mobile Legends: Bang Bang.",
+            "url": "https://www.viva.co.id/sport/gelanggang/1572751-esports-mt-legends-juara-turnamen-pintu-battleground-mobile-legends",
+            "urlToImage": "https://thumb.viva.co.id/media/frontend/thumbs3/2023/02/07/63e27d7417705-mt-legends-juara-turnamen-pintu-battleground-mobile-legends_665_374.jpg",
+            "publishedAt": "2026-07-07T01:18:51.590Z",
+            "content": "VIVA Sport  Tim esports asal Jakarta MT Legends berhasil menjadi juara pada turnamen Pintu Battleground Mobile Legends: Bang Bang. \r\nMT Legends menang atas Relle Team dari Bogor di babak grand final … [+1009 chars]"
+        },
+        {
+            "id": "pytsmooy5xn",
+            "author": "Tom Carreras",
+            "title": "Genesis and Gemini Reach Agreement in Principle",
+            "description": "After weeks of tense back-and-forths, Digital Currency Group, Genesis, and Gemini seem to have reached an agreement as to a possible restructuring planwhich still needs court approval. A Positive Step...",
+            "url": "https://cryptobriefing.com/genesis-and-gemini-reach-agreement-in-principle/",
+            "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2022/11/16103754/gemini-cover-768x403.jpg",
+            "publishedAt": "2023-07-09T17:06:50.227Z",
+            "content": "Key Takeaways\r\nGenesis, Digital Currency Group, and Gemini announced yesterday they had reached an agreement in principle.</li>The restructuring plan involves Genesis Global Trading being… [+1886 chars]"
+        },
+        {
+            "id": "nbeoczwi3g",
+            "author": "Turner Wright",
+            "title": "Las empresas de minería de criptomonedas Hut 8 y US Bitcoin planean fusionarse",
+            "description": "La fusión, que creará la empresa \"New Hut\", está aún sujeta a la aprobación judicial y reglamentaria de las autoridades estadounidenses y canadienses.\n \nLa empresa minera de criptomonedas Hut 8 Mining, con sede en Canadá, ha anunciado sus planes de fusionarse…",
+            "url": "https://es.cointelegraph.com/news/crypto-mining-firms-hut-8-and-us-bitcoin-plan-merger",
+            "urlToImage": "https://s3.cointelegraph.com/uploads/2023-02/f728ba9a-8f12-4954-af62-f33ff4c50221.jpg",
+            "publishedAt": "2021-04-30T14:46:54.405Z",
+            "content": "La empresa minera de criptomonedas Hut 8 Mining, con sede en Canadá, ha anunciado sus planes de fusionarse con U.S. Bitcoin para formar Hut 8 Corp, o \"New Hut\".\r\nEn un anuncio del 7 de febrero, Hut 8… [+3422 chars]"
+        },
+        {
+            "id": "6s4g6ync496",
+            "author": "Sandali Handagama",
+            "title": "Don't Call It 'Britcoin': Digital Pound Nothing Like Crypto, Bank of England Official Says",
+            "description": "The central bank has made no decision on whether a digital pound would use distributed ledger technology, Deputy Governor Jon Cunliffe said.",
+            "url": "https://www.coindesk.com/policy/2023/02/07/digital-pound-nothing-like-crypto-bank-of-england-official-says-as-press-dubs-it-britcoin/",
+            "urlToImage": "https://www.coindesk.com/resizer/9qswUS53KNbdRQYZf6LOXy949pU=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/4KX3AALG2FBVBENSY7DX36MXMI.jpg",
+            "publishedAt": "2022-01-18T03:06:18.245Z",
+            "content": "The Bank of England is not okay with the press calling a digital pound issued by the central bank the \"Britcoin.\"\r\n\"The digital pound can be confused in peoples' minds with crypto assets such as bitc… [+2271 chars]"
+        },
+        {
+            "id": "nacitvv9c4f",
+            "author": "Matt Delaney",
+            "title": "Disney removes 'Simpsons' episode in Hong Kong that jokes about China's forced labor camps",
+            "description": "Disney has dropped an episode of \"The Simpsons\" from its streaming platform in Hong Kong that made a reference to forced labor camps in China.",
+            "url": "https://www.washingtontimes.com/news/2023/feb/7/disney-removes-simpsons-episode-hong-kong-jokes-ab/",
+            "urlToImage": "https://twt-thumbs.washtimes.com/media/image/2018/07/24/AP_18205779455893_c0-366-3960-2676_s1200x700.jpg?30da17832dc6d4e183c66fb8e005a9656ecc6c36",
+            "publishedAt": "2024-10-24T17:57:57.009Z",
+            "content": "Disney has dropped an episode of The Simpsons from its streaming platform in Hong Kong that made a reference to forced labor camps in China.\r\nThe episode, titled One Angry Lisa, was no longer availab… [+1131 chars]"
+        },
+        {
+            "id": "7ughoo9rd9t",
+            "author": "Aliyu Pokima",
+            "title": "Bitcoin’s Fear and Greed Index Stays In “Greed Zone” For 13 Straight Days — Can BTC Sustain The Bull Run?",
+            "description": "After several months of fear around the prices of digital assets, investors are now beginning to look more confident in the prospects of Bitcoin (BTC) and other assets following price surges in the past two weeks.",
+            "url": "https://zycrypto.com/bitcoins-fear-and-greed-index-stays-in-greed-zone-for-13-straight-days-can-btc-sustain-the-bull-run/",
+            "urlToImage": "https://zycrypto.com/wp-content/uploads/2021/05/What-The-Second-Leg-Of-The-Bitcoin-Bull-Market-Will-Look-Like.jpg",
+            "publishedAt": "2022-12-24T20:43:24.312Z",
+            "content": "Bitcoin has entered the greed zone with the Fear and Greed Index at a 10-month high of 61, signalling a strong bullish sentiment. </li><li>The recent change in investors’ sentiments comes fol… [+2354 chars]"
+        },
+		{
+			"id": "lgvbyb7a02",
+			"author": "Arman Tadevosyan",
+			"title": "Twitch, YouTube Streamers Raise Big Funds For Syria-Turkey Earthquake Relief",
+			"description": "Twitch isn’t just a place where artificial intelligence festers and drama proliferates. It’s also a useful organizational platform for raising awareness around and funds for various global causes, which is exactly what a handful of big-name streamers, like Be…",
+			"url": "https://kotaku.com/twitch-streamers-youtube-syria-turkey-earthquake-hasan-1850084424",
+			"urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/f381043365873cba42f825c7441c0845.jpg",
+			"publishedAt": "2024-12-01T02:55:27.824Z",
+			"content": "Twitch isnt just a place where artificial intelligence festers and drama proliferates. Its also a useful organizational platform for raising awareness around and funds for various global causes, whic… [+2523 chars]"
+		}
+    ]
 }
