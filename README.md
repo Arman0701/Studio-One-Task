@@ -7,7 +7,6 @@
 
 ---
 ### Screenshots
-<br>
 
 <img src="https://github.com/Arman0701/Studio-One-Task/blob/main/screenshots/homepage.png" alt="homePage"  />
 
@@ -20,8 +19,6 @@
 <img src="https://github.com/Arman0701/Studio-One-Task/blob/main/screenshots/profilepage.png" alt="profilePage" />
 
 
-<br>
-<br>
 
 #### In order to familiarize yourself with this project and analyze it in a more convenient way, I suggest you perform a few simple steps, after which the project will be completely installed on your computer.
 
@@ -30,14 +27,12 @@
 ## Getting started
 
 #### Follow these few simple steps to install the project.
-<br>
 
 
 1. If you already have Visual Studio Code installed on your computer, you can skip this step. Alternatively, to install it, visit the official website. 
 
 > * [Download Visual Studio Code](https://code.visualstudio.com/download)
 
-<br>
 
 2. After installation, make a new empty directory and open that in VS Code.Then open Terminal and type the following commands there․
 
@@ -46,19 +41,16 @@ cd your/new/directory
 
 git clone https://github.com/Arman0701/Studio-One-Task.git
 ```
-<br>
 
 3. After project loading you need to initialize it. For that type this command in your teminal.
 ```bash
 npm install
 ```
-<br>
 
 4. After waiting for npm to install the relevant necessary files, enter the following command․
 ```bash
 npm start
 ```
-<br>
 
 5. Then you need to open another terminal window and enter the following in it.
 ```bash
@@ -75,7 +67,6 @@ npm run server
 --- 
 
 ## Project in details
-<br>
 
 
 #### Let us try to highlight the key points of the project structure. 
@@ -88,7 +79,6 @@ npm run server
 
 ---
 #### Folder Structure
-<br>
 
 
 #### I think it's worth starting the discussion with the contents of the src folder, since everything outside of that has a standard structure․
@@ -125,7 +115,6 @@ npm run server
 ---
 
 ### Routing in React
-<br>
 
 
 #### Routing in React application is very simple in my oppinion. It has only 4 tracks. Only one of them is private. It is the user's personal page from where he gets some additional features. For that you need to open an account first and then log in.
@@ -134,17 +123,14 @@ npm run server
 
 
 ### State management and asynchronous operations with Redux-toolkit
-<br>
 
 #### As you know redux-toolkit is a special tool for data management and manipulation. It gives an opportunity to divide all the data of the program into sections and work with them in parts, thus optimizing the work of the program. Redux-toolkit features the ability to mutate data to modify it, and the ability to send and handle asynchronous requests conveniently. Behind all this is the Immer library, which makes working with Redux-toolkit easier, more convenient and more optimal.
-<br>
 
 #### For asynchronous operations, I used the combination of the createAsyncThunk function and extraReducers. CreateAsyncThunk allows you to create and then send an asynchronous request. And with the help of extraReducer, it is possible to follow the progress of that request and there is an opportunity to take certain actions or change the data for its various states.
 
 --- 
 
 ### Routes in database
-<br>
 
 
 #### Database is also very simple. It has only 2 rotes, one for users data and one for all newsfeed in this project.
@@ -152,7 +138,6 @@ npm run server
 ---
 
 ### Features
-<br>
 
 
 * account creation
@@ -165,7 +150,6 @@ npm run server
 * simple and intuitive user interface
 * pages transition (animated routes)
 * acception of HTTP methods 
-<br>
 
 
 #### For demonstration use this data to login.
@@ -175,11 +159,9 @@ npm run server
 --- 
 
 ## Epilogue
-<br>
 
 
 #### I tried to write as clean, neat and understandable code as possible. I agree that there will be parts where the code could have been written differently, but some constructs that have similar logic or are close to each other in the way they work, I've specifically written differently to show that I'm familiar with the tools provided and can handle the same problem. solve in different ways.
 
-<br>
 
 ### Thanks for reading. Sincerely, Arman Tadevosyan.
